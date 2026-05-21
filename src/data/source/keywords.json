@@ -1,0 +1,15147 @@
+{
+  "arrow_down": [
+    "arrow",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "arrow_left_down": [
+    "arrow",
+    "left",
+    "bottom",
+    "箭头",
+    "左下"
+  ],
+  "arrow_left": [
+    "arrow",
+    "left",
+    "back",
+    "previous",
+    "箭头",
+    "向左",
+    "向后"
+  ],
+  "arrow_right": [
+    "arrow",
+    "right",
+    "next",
+    "箭头",
+    "向右",
+    "向前"
+  ],
+  "arrow_up": [
+    "arrow",
+    "up",
+    "top",
+    "箭头",
+    "向上",
+    "顶部"
+  ],
+  "back": [
+    "arrow",
+    "back",
+    "return",
+    "revert",
+    "箭头",
+    "返回",
+    "恢复"
+  ],
+  "down": [
+    "arrow",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "left": [
+    "arrow",
+    "left",
+    "back",
+    "previous",
+    "箭头",
+    "向左",
+    "向后"
+  ],
+  "right": [
+    "arrow",
+    "right",
+    "next",
+    "箭头",
+    "向右",
+    "向前"
+  ],
+  "up": [
+    "arrow",
+    "up",
+    "top",
+    "箭头",
+    "向上",
+    "顶部"
+  ],
+  "back_2": [
+    "arrow",
+    "back",
+    "return",
+    "revert",
+    "箭头",
+    "返回",
+    "恢复"
+  ],
+  "forward_2": [
+    "forward",
+    "next",
+    "turn",
+    "arrow",
+    "箭头",
+    "前进",
+    "下一个"
+  ],
+  "forward": [
+    "forward",
+    "next",
+    "turn",
+    "arrow",
+    "箭头",
+    "前进",
+    "下一个"
+  ],
+  "fullscreen_2": [
+    "fullscreen",
+    "maximize",
+    "arrow",
+    "全屏",
+    "放大",
+    "箭头"
+  ],
+  "fullscreen_exit_2": [
+    "fullscreen",
+    "minimize",
+    "arrow",
+    "exit",
+    "退出全屏",
+    "缩小",
+    "箭头"
+  ],
+  "move": [
+    "move",
+    "mouse",
+    "arrow",
+    "移动",
+    "鼠标",
+    "箭头"
+  ],
+  "transfer_2": [
+    "transfer",
+    "up",
+    "down",
+    "arrow",
+    "传输",
+    "向上",
+    "向下",
+    "箭头"
+  ],
+  "transfer_3": [
+    "transfer",
+    "left",
+    "right",
+    "arrow",
+    "传输",
+    "向左",
+    "向右",
+    "箭头"
+  ],
+  "transfer_4": [
+    "transfer",
+    "up",
+    "down",
+    "arrow",
+    "传输",
+    "向上",
+    "向下",
+    "箭头"
+  ],
+  "transfer": [
+    "transfer",
+    "left",
+    "right",
+    "arrow",
+    "传输",
+    "向左",
+    "向右",
+    "箭头"
+  ],
+  "align_arrow_down": [
+    "arrow",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "align_arrow_left": [
+    "arrow",
+    "left",
+    "back",
+    "previous",
+    "箭头",
+    "向左",
+    "向后"
+  ],
+  "align_arrow_right": [
+    "arrow",
+    "right",
+    "next",
+    "箭头",
+    "向右",
+    "向前"
+  ],
+  "align_arrow_up": [
+    "arrow",
+    "up",
+    "top",
+    "箭头",
+    "向上",
+    "顶部"
+  ],
+  "arrow_to_down": [
+    "arrow",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "arrow_to_left": [
+    "arrow",
+    "left",
+    "back",
+    "previous",
+    "箭头",
+    "向左",
+    "向后"
+  ],
+  "arrow_to_right": [
+    "arrow",
+    "right",
+    "next",
+    "箭头",
+    "向右",
+    "向前"
+  ],
+  "arrow_to_up": [
+    "arrow",
+    "up",
+    "top",
+    "箭头",
+    "向上",
+    "顶部"
+  ],
+  "arrow_down_circle": [
+    "arrow",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "arrow_left_circle": [
+    "arrow",
+    "left",
+    "back",
+    "previous",
+    "箭头",
+    "向左",
+    "向后"
+  ],
+  "arrow_left_down_circle": [
+    "arrow",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "arrow_left_up_circle": [
+    "arrow",
+    "left",
+    "up",
+    "箭头",
+    "左上"
+  ],
+  "arrow_left_up": [
+    "arrow",
+    "left",
+    "up",
+    "箭头",
+    "左上"
+  ],
+  "arrow_right_circle": [
+    "arrow",
+    "right",
+    "next",
+    "箭头",
+    "向右",
+    "向前"
+  ],
+  "arrow_right_down_circle": [
+    "arrow",
+    "right",
+    "down",
+    "箭头",
+    "右下"
+  ],
+  "arrow_right_down": [
+    "arrow",
+    "right",
+    "down",
+    "箭头",
+    "右下"
+  ],
+  "arrow_right_up_circle": [
+    "arrow",
+    "right",
+    "up",
+    "箭头",
+    "右上"
+  ],
+  "arrow_right_up": [
+    "arrow",
+    "right",
+    "up",
+    "箭头",
+    "右上"
+  ],
+  "arrow_up_circle": [
+    "arrow",
+    "up",
+    "top",
+    "箭头",
+    "向上",
+    "顶部"
+  ],
+  "down_small": [
+    "arrow",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "large_arrow_down": [
+    "arrow",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "large_arrow_left": [
+    "arrow",
+    "left",
+    "back",
+    "previous",
+    "箭头",
+    "向左",
+    "向后"
+  ],
+  "large_arrow_right": [
+    "arrow",
+    "right",
+    "next",
+    "箭头",
+    "向右",
+    "向前"
+  ],
+  "large_arrow_up": [
+    "arrow",
+    "up",
+    "top",
+    "箭头",
+    "向上",
+    "顶部"
+  ],
+  "left_small": [
+    "arrow",
+    "left",
+    "back",
+    "previous",
+    "箭头",
+    "向左",
+    "向后"
+  ],
+  "right_small": [
+    "arrow",
+    "right",
+    "next",
+    "箭头",
+    "向右",
+    "向前"
+  ],
+  "selector_horizontal": [
+    "arrow",
+    "selector",
+    "horizontal",
+    "箭头",
+    "选择器",
+    "水平"
+  ],
+  "selector_vertical": [
+    "arrow",
+    "selector",
+    "vertical",
+    "箭头",
+    "选择器",
+    "竖直"
+  ],
+  "square_arrow_down": [
+    "arrow",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "square_arrow_left": [
+    "arrow",
+    "left",
+    "back",
+    "previous",
+    "箭头",
+    "向左",
+    "向后"
+  ],
+  "square_arrow_right": [
+    "arrow",
+    "right",
+    "next",
+    "箭头",
+    "向右",
+    "向前"
+  ],
+  "square_arrow_up": [
+    "arrow",
+    "up",
+    "top",
+    "箭头",
+    "向上",
+    "顶部"
+  ],
+  "up_small": [
+    "arrow",
+    "up",
+    "top",
+    "箭头",
+    "向上",
+    "顶部"
+  ],
+  "arrows_down": [
+    "arrows",
+    "down",
+    "below",
+    "bottom",
+    "箭头",
+    "向下",
+    "底部"
+  ],
+  "arrows_left": [
+    "arrows",
+    "left",
+    "back",
+    "previous",
+    "箭头",
+    "向左",
+    "向后"
+  ],
+  "arrows_right": [
+    "arrows",
+    "right",
+    "next",
+    "箭头",
+    "向右",
+    "向前"
+  ],
+  "arrows_up": [
+    "arrows",
+    "up",
+    "top",
+    "箭头",
+    "向上",
+    "顶部"
+  ],
+  "trending_up": [
+    "arrows",
+    "up",
+    "increase",
+    "箭头",
+    "向上",
+    "增长"
+  ],
+  "trending_down": [
+    "arrows",
+    "down",
+    "below",
+    "decrease",
+    "箭头",
+    "向下",
+    "降低"
+  ],
+  "direction_arrow": [
+    "direction",
+    "arrow",
+    "move",
+    "箭头",
+    "方向键",
+    "方向箭头"
+  ],
+  "transfer_horizontal": [
+    "transfer",
+    "horizontal",
+    "convert",
+    "arrow",
+    "传输",
+    "水平",
+    "转换",
+    "箭头"
+  ],
+  "transfer_vertical": [
+    "transfer",
+    "vertical",
+    "convert",
+    "arrow",
+    "传输",
+    "竖直",
+    "转换",
+    "箭头"
+  ],
+  "corner_down_left": [
+    "arrow",
+    "corner",
+    "down",
+    "left",
+    "bottom",
+    "箭头",
+    "向左下",
+    "底部",
+    "转角"
+  ],
+  "corner_down_right": [
+    "arrow",
+    "corner",
+    "right",
+    "down",
+    "箭头",
+    "右下",
+    "转角"
+  ],
+  "corner_up_left": [
+    "arrow",
+    "corner",
+    "left",
+    "up",
+    "箭头",
+    "左上",
+    "转角"
+  ],
+  "corner_up_right": [
+    "arrow",
+    "corner",
+    "right",
+    "up",
+    "箭头",
+    "右上",
+    "转角"
+  ],
+  "bank": [
+    "bank",
+    "building",
+    "city",
+    "money",
+    "credit",
+    "银行",
+    "建筑",
+    "城市",
+    "钱",
+    "信用"
+  ],
+  "building_1": [
+    "building",
+    "office",
+    "city",
+    "hotel",
+    "workplace",
+    "architecture",
+    "建筑",
+    "办公室",
+    "城市",
+    "宾馆",
+    "酒店"
+  ],
+  "building_2": [
+    "building",
+    "office",
+    "city",
+    "workplace",
+    "skyscraper",
+    "corporation",
+    "apartments",
+    "建筑",
+    "办公室",
+    "城市",
+    "大楼",
+    "大厦",
+    "公司"
+  ],
+  "building_3": [
+    "building",
+    "office",
+    "city",
+    "hotel",
+    "workplace",
+    "skyscraper",
+    "corporation",
+    "apartments",
+    "建筑",
+    "办公室",
+    "城市",
+    "钱",
+    "公司",
+    "酒店",
+    "公寓",
+    "大楼",
+    "大厦"
+  ],
+  "home_1": [
+    "home",
+    "house",
+    "dashboard",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "home_2": [
+    "home",
+    "house",
+    "living",
+    "dashboard",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "home_3": [
+    "home",
+    "house",
+    "living",
+    "dashboard",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "home_4": [
+    "home",
+    "house",
+    "living",
+    "dashboard",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "hospital": [
+    "building",
+    "hospital",
+    "doctor",
+    "sickness",
+    "treat",
+    "医院",
+    "诊所",
+    "看病",
+    "医生",
+    "治疗"
+  ],
+  "school": [
+    "building",
+    "house",
+    "school",
+    "castle",
+    "tower",
+    "学校",
+    "房子",
+    "家",
+    "城堡",
+    "塔楼"
+  ],
+  "bridge": [
+    "bridge",
+    "building",
+    "urban",
+    "桥"
+  ],
+  "building_4": [
+    "building",
+    "office",
+    "city",
+    "hotel",
+    "workplace",
+    "skyscraper",
+    "corporation",
+    "apartments",
+    "建筑",
+    "办公室",
+    "城市",
+    "钱",
+    "公司",
+    "酒店",
+    "公寓",
+    "大楼",
+    "大厦"
+  ],
+  "campground": [
+    "camping",
+    "tent",
+    "travel",
+    "露营",
+    "帐篷",
+    "旅行"
+  ],
+  "factory": [
+    "factory",
+    "industry",
+    "chimney",
+    "工厂",
+    "工业",
+    "烟囱"
+  ],
+  "greatwall": [
+    "greatwall",
+    "wall",
+    "castle",
+    "长城",
+    "城墙",
+    "城堡"
+  ],
+  "lighthouse": [
+    "lighthouse",
+    "tower",
+    "beacon",
+    "信标",
+    "灯塔",
+    "指引"
+  ],
+  "monument": [
+    "monument",
+    "history",
+    "memorial",
+    "纪念碑",
+    "历史",
+    "纪念馆"
+  ],
+  "pavilion": [
+    "pavilion",
+    "palace",
+    "凉亭",
+    "宫殿"
+  ],
+  "store": [
+    "store",
+    "shop",
+    "market",
+    "retail",
+    "商店",
+    "购物",
+    "市场",
+    "零售",
+    "便利店"
+  ],
+  "tower": [
+    "tower",
+    "scenic",
+    "spot",
+    "塔",
+    "景区"
+  ],
+  "bridge_2": [
+    "bridge",
+    "building",
+    "urban",
+    "桥"
+  ],
+  "home_5": [
+    "home",
+    "house",
+    "living",
+    "dashboard",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "temple_of_heaven": [
+    "palace",
+    "temple",
+    "house",
+    "beijing",
+    "spot",
+    "天坛",
+    "北京",
+    "景区",
+    "宫殿"
+  ],
+  "palace": [
+    "palace",
+    "castle",
+    "spot",
+    "宫殿",
+    "城堡",
+    "景区"
+  ],
+  "TV_tower": [
+    "tower",
+    "shanghai",
+    "spot",
+    "塔",
+    "景区",
+    "上海",
+    "东方明珠"
+  ],
+  "canton_tower": [
+    "tower",
+    "guangzhou",
+    "spot",
+    "塔",
+    "景区",
+    "广州"
+  ],
+  "bank_of_china_tower": [
+    "tower",
+    "hongkong",
+    "building",
+    "塔",
+    "香港",
+    "中银大厦"
+  ],
+  "kingkey_100_tower": [
+    "tower",
+    "shenzhen",
+    "building",
+    "塔",
+    "深圳",
+    "京基100",
+    "大厦"
+  ],
+  "home_6": [
+    "home",
+    "house",
+    "living",
+    "dashboard",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "store_2": [
+    "store",
+    "shop",
+    "market",
+    "retail",
+    "商店",
+    "购物",
+    "市场",
+    "零售",
+    "便利店"
+  ],
+  "big_ben": [
+    "big",
+    "ben",
+    "clock",
+    "tower",
+    "England",
+    "Longdon",
+    "英国",
+    "大本钟",
+    "伦敦",
+    "大笨钟",
+    "钟楼"
+  ],
+  "building_5": [
+    "building",
+    "office",
+    "city",
+    "hotel",
+    "workplace",
+    "architecture",
+    "建筑",
+    "办公室",
+    "城市",
+    "宾馆",
+    "酒店"
+  ],
+  "building_6": [
+    "building",
+    "office",
+    "city",
+    "workplace",
+    "skyscraper",
+    "corporation",
+    "apartments",
+    "建筑",
+    "办公室",
+    "城市",
+    "大楼",
+    "大厦",
+    "公司"
+  ],
+  "burj_al_arab": [
+    "burj",
+    "al",
+    "arab",
+    "Dubai",
+    "hotel",
+    "阿拉伯塔酒店",
+    "帆船酒店",
+    "迪拜"
+  ],
+  "burj_khalifa_tower": [
+    "burj",
+    "khalifa",
+    "tower",
+    "Dubai",
+    "building",
+    "迪拜塔",
+    "哈利法塔",
+    "大楼"
+  ],
+  "christ_the_redeemer": [
+    "christ",
+    "redeemer",
+    "Brazil",
+    "Rio de Janeiro",
+    "巴西基督山雕像",
+    "里约热内卢",
+    "基督像",
+    "耶稣"
+  ],
+  "dutch_windmill": [
+    "dutch",
+    "windmill",
+    "farm",
+    "荷兰",
+    "风车",
+    "农场"
+  ],
+  "egyptian_pyramids": [
+    "egyptian",
+    "pyramids",
+    "埃及",
+    "金字塔"
+  ],
+  "eiffel_tower": [
+    "eiffel",
+    "tower",
+    "France",
+    "Paris",
+    "法国",
+    "巴黎",
+    "埃菲尔铁塔"
+  ],
+  "government": [
+    "government",
+    "building",
+    "政府",
+    "建筑"
+  ],
+  "marina_bay_sand": [
+    "marina",
+    "bay",
+    "sand",
+    "Singapore",
+    "hotel",
+    "新加坡",
+    "金沙酒店"
+  ],
+  "maya_pyramids": [
+    "maya",
+    "pyramids",
+    "玛雅",
+    "金字塔"
+  ],
+  "miyajima_torii": [
+    "miyajima",
+    "torii",
+    "Japan",
+    "日本",
+    "宫岛",
+    "大浮栅"
+  ],
+  "moai": [
+    "Chile",
+    "Easter Island",
+    "智利",
+    "复活节岛",
+    "摩艾石像"
+  ],
+  "pisa_tower": [
+    "France",
+    "pisa",
+    "tower",
+    "法国",
+    "比萨",
+    "斜塔"
+  ],
+  "statue_of_liberty": [
+    "New York",
+    "statue",
+    "liberty",
+    "America",
+    "纽约",
+    "美国",
+    "自由女神像"
+  ],
+  "sydney_opera_house": [
+    "Sydney",
+    "opera",
+    "house",
+    "Australia",
+    "悉尼",
+    "歌剧院",
+    "澳大利亚"
+  ],
+  "taipei101": [
+    "Taipei",
+    "101",
+    "building",
+    "台北",
+    "101大厦"
+  ],
+  "taj_mahal": [
+    "India",
+    "taj",
+    "mahal",
+    "New Delhi",
+    "印度",
+    "泰姬陵",
+    "新德里"
+  ],
+  "triumphal_arch": [
+    "triumphal",
+    "arch",
+    "France",
+    "Paris",
+    "法国",
+    "巴黎",
+    "凯旋门"
+  ],
+  "tent": [
+    "camping",
+    "tent",
+    "travel",
+    "露营",
+    "帐篷",
+    "旅行"
+  ],
+  "church": [
+    "church",
+    "building",
+    "chapel",
+    "教堂",
+    "建筑",
+    " 教会"
+  ],
+  "ferris_wheel": [
+    "ferris",
+    "wheel",
+    "carnie",
+    "摩天轮",
+    "观光",
+    "游乐场"
+  ],
+  "factory_2": [
+    "factory",
+    "industry",
+    "chimney",
+    "工厂",
+    "工业",
+    "烟囱"
+  ],
+  "hotel": [
+    "building",
+    "office",
+    "hotel",
+    "architecture",
+    "建筑",
+    "宾馆",
+    "酒店"
+  ],
+  "house": [
+    "home",
+    "house",
+    "dashboard",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "shop": [
+    "store",
+    "shop",
+    "market",
+    "retail",
+    "house",
+    "商店",
+    "购物",
+    "市场",
+    "零售",
+    "便利店",
+    "房子"
+  ],
+  "home_7": [
+    "home",
+    "house",
+    "living",
+    "dashboard",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "house_2": [
+    "home",
+    "house",
+    "dashboard",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "auction": [
+    "auction",
+    "hammer",
+    "sale",
+    "拍卖",
+    "锤子"
+  ],
+  "bank_card": [
+    "bank",
+    "card",
+    "credit",
+    "money",
+    "purchase",
+    "银行卡",
+    "信用卡",
+    "购买"
+  ],
+  "briefcase": [
+    "briefcase",
+    "bag",
+    "documents",
+    "baggage",
+    "公文包",
+    "包",
+    "文件包"
+  ],
+  "calendar": [
+    "calendar",
+    "date",
+    "plan",
+    "schedule",
+    "day",
+    "日历",
+    "日期",
+    "日程",
+    "计划表",
+    "天"
+  ],
+  "chart_bar": [
+    "chart",
+    "bar",
+    "data",
+    "analysis",
+    "statistics",
+    "diagram",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "柱状图"
+  ],
+  "chart_line": [
+    "chart",
+    "line",
+    "data",
+    "analysis",
+    "statistics",
+    "diagram",
+    "increase",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "折线图",
+    "增长"
+  ],
+  "chart_pie": [
+    "chart",
+    "pie",
+    "data",
+    "analysis",
+    "statistics",
+    "diagram",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "饼图"
+  ],
+  "coin_2": [
+    "coin",
+    "money",
+    "payment",
+    "finance",
+    "data",
+    "硬币",
+    "钱",
+    "支付",
+    "财",
+    "数据"
+  ],
+  "coin": [
+    "coin",
+    "money",
+    "payment",
+    "finance",
+    "salary",
+    "硬币",
+    "钱",
+    "支付",
+    "财",
+    "薪酬"
+  ],
+  "copper_coin": [
+    "copper",
+    "coin",
+    "money",
+    "payment",
+    "finance",
+    "salary",
+    "硬币",
+    "钱",
+    "支付",
+    "财",
+    "薪酬",
+    "铜钱"
+  ],
+  "coupon": [
+    "coupon",
+    "ticket",
+    "entry",
+    "cinema",
+    "优惠券",
+    "票据",
+    "电影票",
+    "出入凭证"
+  ],
+  "currency_bitcoin": [
+    "currency",
+    "bitcoin",
+    "money",
+    "pay",
+    "p2p",
+    "货币",
+    "比特币",
+    "钱",
+    "支付",
+    "财富"
+  ],
+  "currency_cny": [
+    "currency",
+    "cny",
+    "money",
+    "pay",
+    "finance",
+    "salary",
+    "RMB",
+    "货币",
+    "人民币",
+    "钱",
+    "支付",
+    "财",
+    "薪酬",
+    "财务"
+  ],
+  "currency_dollar": [
+    "currency",
+    "dollar",
+    "money",
+    "pay",
+    "finance",
+    "salary",
+    "货币",
+    "美元",
+    "钱",
+    "支付",
+    "财",
+    "薪酬",
+    "财务"
+  ],
+  "currency_euro": [
+    "currency",
+    "euro",
+    "money",
+    "pay",
+    "finance",
+    "salary",
+    "货币",
+    "欧元",
+    "钱",
+    "支付",
+    "财",
+    "薪酬",
+    "财务"
+  ],
+  "currency_baht_2": [
+    "currency",
+    "baht",
+    "money",
+    "pay",
+    "Thailand",
+    "货币",
+    "泰株",
+    "钱",
+    "支付",
+    "泰国"
+  ],
+  "currency_bitcoin_2": [
+    "currency",
+    "bitcoin",
+    "money",
+    "pay",
+    "p2p",
+    "货币",
+    "比特币",
+    "钱",
+    "支付",
+    "财富"
+  ],
+  "currency_cny_2": [
+    "currency",
+    "cny",
+    "money",
+    "pay",
+    "finance",
+    "salary",
+    "RMB",
+    "货币",
+    "人民币",
+    "钱",
+    "支付",
+    "财",
+    "薪酬",
+    "财务"
+  ],
+  "currency_dollar_2": [
+    "currency",
+    "dollar",
+    "money",
+    "pay",
+    "finance",
+    "salary",
+    "货币",
+    "美元",
+    "钱",
+    "支付",
+    "财",
+    "薪酬",
+    "财务"
+  ],
+  "currency_euro_2": [
+    "currency",
+    "euro",
+    "money",
+    "pay",
+    "finance",
+    "salary",
+    "货币",
+    "欧元",
+    "钱",
+    "支付",
+    "财",
+    "薪酬",
+    "财务"
+  ],
+  "currency_lira_2": [
+    "currency",
+    "lira",
+    "money",
+    "pay",
+    "货币",
+    "里拉",
+    "钱",
+    "支付"
+  ],
+  "currency_lira": [
+    "currency",
+    "lira",
+    "money",
+    "pay",
+    "货币",
+    "里拉",
+    "钱",
+    "支付"
+  ],
+  "currency_pound_2": [
+    "currency",
+    "pound",
+    "money",
+    "pay",
+    "britain",
+    "货币",
+    "英镑",
+    "钱",
+    "支付",
+    "英国"
+  ],
+  "currency_pound": [
+    "currency",
+    "pound",
+    "money",
+    "pay",
+    "britain",
+    "货币",
+    "英镑",
+    "钱",
+    "支付",
+    "英国"
+  ],
+  "currency_rubel_2": [
+    "currency",
+    "rubel",
+    "money",
+    "pay",
+    "russian",
+    "货币",
+    "卢布",
+    "钱",
+    "支付",
+    "俄罗思"
+  ],
+  "currency_rubel": [
+    "currency",
+    "rubel",
+    "money",
+    "pay",
+    "russian",
+    "货币",
+    "卢布",
+    "钱",
+    "支付",
+    "俄罗斯"
+  ],
+  "currency_rupee_2": [
+    "currency",
+    "rupee",
+    "money",
+    "pay",
+    "indian",
+    "货币",
+    "卢比",
+    "钱",
+    "支付",
+    "印度"
+  ],
+  "currency_rupee": [
+    "currency",
+    "rupee",
+    "money",
+    "pay",
+    "indian",
+    "货币",
+    "卢比",
+    "钱",
+    "支付",
+    "印度"
+  ],
+  "currency_shekel_2": [
+    "currency",
+    "shekel",
+    "money",
+    "pay",
+    "israel",
+    "货币",
+    "谢克尔",
+    "钱",
+    "支付",
+    "以色列"
+  ],
+  "currency_shekel": [
+    "currency",
+    "shekel",
+    "money",
+    "pay",
+    "israel",
+    "货币",
+    "谢克尔",
+    "钱",
+    "支付",
+    "以色列"
+  ],
+  "currency_won_2": [
+    "currency",
+    "won",
+    "money",
+    "pay",
+    "korea",
+    "货币",
+    "韩元",
+    "钱",
+    "支付",
+    "韩国"
+  ],
+  "currency_won": [
+    "currency",
+    "won",
+    "money",
+    "pay",
+    "korea",
+    "货币",
+    "韩元",
+    "钱",
+    "支付",
+    "韩国"
+  ],
+  "diamond_2": [
+    "diamond",
+    "jewelry",
+    "crystal",
+    "sketch",
+    "钻石",
+    "首饰",
+    "水晶",
+    "宝石"
+  ],
+  "gift_2": [
+    "gift",
+    "present",
+    "wish",
+    "christmas",
+    "礼物",
+    "祝福",
+    "圣诞节"
+  ],
+  "shopping_bag_3": [
+    "shopping",
+    "bag",
+    "shop",
+    "store",
+    "购物袋",
+    "包",
+    "商店",
+    "买"
+  ],
+  "wallet_5": [
+    "wallet",
+    "money",
+    "pay",
+    "cash",
+    "payment",
+    "钱包",
+    "钱",
+    "现金",
+    "支付",
+    "付款"
+  ],
+  "filter": [
+    "filter",
+    "funnel",
+    "hopper",
+    "filtration",
+    "筛选",
+    "漏斗",
+    "过滤"
+  ],
+  "flag_1": [
+    "flag",
+    "destination",
+    "label",
+    "activity",
+    "goal",
+    "target",
+    "旗帜",
+    "目的地",
+    "标签",
+    "活动",
+    "目标"
+  ],
+  "flag_2": [
+    "flag",
+    "destination",
+    "label",
+    "activity",
+    "goal",
+    "target",
+    "旗帜",
+    "目的地",
+    "标签",
+    "活动",
+    "目标"
+  ],
+  "flag_3": [
+    "flag",
+    "destination",
+    "label",
+    "activity",
+    "goal",
+    "target",
+    "旗帜",
+    "目的地",
+    "标签",
+    "活动",
+    "目标"
+  ],
+  "presentation_1": [
+    "presentation",
+    "slideshow",
+    "display",
+    "speech",
+    "topic",
+    "看板",
+    "幻灯片",
+    "演讲",
+    "话题",
+    "演示文稿"
+  ],
+  "presentation_2": [
+    "presentation",
+    "slideshow",
+    "display",
+    "speech",
+    "topic",
+    "看板",
+    "幻灯片",
+    "演讲",
+    "话题",
+    "演示文稿"
+  ],
+  "presentation_3": [
+    "presentation",
+    "slideshow",
+    "display",
+    "speech",
+    "topic",
+    "看板",
+    "幻灯片",
+    "演讲",
+    "话题",
+    "演示文稿"
+  ],
+  "schedule": [
+    "calendar",
+    "date",
+    "plan",
+    "schedule",
+    "day",
+    "日历",
+    "日期",
+    "日程",
+    "计划表",
+    "天"
+  ],
+  "shopping_bag_1": [
+    "shopping",
+    "bag",
+    "shop",
+    "store",
+    "购物袋",
+    "包",
+    "商店",
+    "买"
+  ],
+  "shopping_bag_2": [
+    "shopping",
+    "bag",
+    "shop",
+    "store",
+    "购物袋",
+    "包",
+    "商店",
+    "买"
+  ],
+  "shopping_cart_1": [
+    "shopping",
+    "cart",
+    "buy",
+    "purchase",
+    "store",
+    "supermarket",
+    "购物车",
+    "购买",
+    "商店",
+    "超市"
+  ],
+  "shopping_cart_2": [
+    "shopping",
+    "cart",
+    "buy",
+    "purchase",
+    "store",
+    "supermarket",
+    "购物车",
+    "购买",
+    "商店",
+    "超市"
+  ],
+  "stock": [
+    "stock",
+    "investment",
+    "finance",
+    "股票",
+    "投资",
+    "钱"
+  ],
+  "wallet": [
+    "wallet",
+    "money",
+    "pay",
+    "cash",
+    "payment",
+    "钱包",
+    "钱",
+    "现金",
+    "支付",
+    "付款"
+  ],
+  "tag": [
+    "tag",
+    "label",
+    "sale",
+    "标签",
+    "热卖"
+  ],
+  "trophy": [
+    "trophy",
+    "win",
+    "success",
+    "sale",
+    "奖杯",
+    "冠军",
+    "胜利"
+  ],
+  "basket": [
+    "basket",
+    "store",
+    "shop",
+    "购物篮",
+    "电商",
+    "商店",
+    "购物"
+  ],
+  "copyright": [
+    "copyright",
+    "license",
+    "版权",
+    "证照"
+  ],
+  "exchange_bitcoin": [
+    "exchange_bitcoin",
+    "money",
+    "比特币",
+    "货币交换"
+  ],
+  "exchange_cny": [
+    "exchange_cny",
+    "money",
+    "RMB",
+    "人民币",
+    "货币交换"
+  ],
+  "exchange_dollar": [
+    "exchange_dollar",
+    "money",
+    "美元",
+    "货币交换"
+  ],
+  "exchange_euro": [
+    "exchange_euro",
+    "money",
+    "欧元",
+    "货币交换"
+  ],
+  "gift": [
+    "gift",
+    "present",
+    "wish",
+    "christmas",
+    "礼物",
+    "祝福",
+    "圣诞节"
+  ],
+  "red_packet": [
+    "red_packet",
+    "envelope",
+    "礼金",
+    "红包"
+  ],
+  "red_packet_open": [
+    "red_packet_open",
+    "envelope",
+    "礼金",
+    "红包"
+  ],
+  "safe_box": [
+    "safe_box",
+    "strongbox",
+    "保险柜",
+    "安全箱"
+  ],
+  "wallet_2": [
+    "wallet",
+    "money",
+    "pay",
+    "cash",
+    "payment",
+    "钱包",
+    "钱",
+    "现金",
+    "支付",
+    "付款"
+  ],
+  "award": [
+    "award",
+    "reward",
+    "prize",
+    "win",
+    "奖章",
+    "奖",
+    "报酬",
+    "胜"
+  ],
+  "medal": [
+    "medal",
+    "champion",
+    "prize",
+    "win",
+    "奖牌",
+    "奖",
+    "冠军",
+    "胜"
+  ],
+  "VIP_1": [
+    "vip",
+    "guest",
+    "会员",
+    "贵宾",
+    "嘉宾"
+  ],
+  "VIP_2": [
+    "vip",
+    "guest",
+    "会员",
+    "贵宾",
+    "嘉宾"
+  ],
+  "VIP_3": [
+    "vip",
+    "guest",
+    "会员",
+    "贵宾",
+    "嘉宾"
+  ],
+  "VIP_4": [
+    "vip",
+    "guest",
+    "会员",
+    "贵宾",
+    "嘉宾"
+  ],
+  "lantern": [
+    "lantern",
+    "festival",
+    "light",
+    "灯笼",
+    "节日",
+    "灯"
+  ],
+  "luggage": [
+    "luggage",
+    "travel",
+    "trunk",
+    "行李箱",
+    "旅行",
+    "出差"
+  ],
+  "receive_money": [
+    "receive",
+    "pay",
+    "bill",
+    "付钱",
+    "支付",
+    "账单"
+  ],
+  "wallet_3": [
+    "wallet",
+    "money",
+    "pay",
+    "cash",
+    "payment",
+    "钱包",
+    "钱",
+    "现金",
+    "支付",
+    "付款"
+  ],
+  "currency_baht": [
+    "currency",
+    "baht",
+    "money",
+    "pay",
+    "Thailand",
+    "货币",
+    "泰株",
+    "钱",
+    "支付",
+    "泰国"
+  ],
+  "exchange_baht": [
+    "exchange",
+    "baht",
+    "money",
+    "Thailand",
+    "泰株",
+    "货币交换",
+    "泰国"
+  ],
+  "seal": [
+    "seal",
+    "auditing",
+    "印章",
+    "审核"
+  ],
+  "target": [
+    "target",
+    "focus",
+    "aim",
+    "目标",
+    "靶心",
+    "重点"
+  ],
+  "wallet_4": [
+    "wallet",
+    "money",
+    "pay",
+    "cash",
+    "payment",
+    "钱包",
+    "钱",
+    "现金",
+    "支付",
+    "付款"
+  ],
+  "candle": [
+    "candle",
+    "light",
+    "pray",
+    "christmas",
+    "蜡烛",
+    "烛光",
+    "祈祷",
+    "圣诞节"
+  ],
+  "filter_3": [
+    "filter",
+    "funnel",
+    "hopper",
+    "filtration",
+    "筛选",
+    "漏斗",
+    "过滤"
+  ],
+  "flag_4": [
+    "flag",
+    "destination",
+    "label",
+    "activity",
+    "goal",
+    "target",
+    "旗帜",
+    "目的地",
+    "标签",
+    "活动",
+    "目标"
+  ],
+  "sale": [
+    "sale",
+    "discount",
+    "reducution",
+    "shopping",
+    "促销",
+    "打折",
+    "减价",
+    "购物"
+  ],
+  "pig_money": [
+    "pig",
+    "money",
+    "coin",
+    "saving",
+    "猪",
+    "钱",
+    "硬币",
+    "存钱罐"
+  ],
+  "celebrate": [
+    "celebrate",
+    "party",
+    "confetti",
+    "christmas",
+    "庆祝",
+    "聚会",
+    "彩纸屑",
+    "节日"
+  ],
+  "christmas_ball": [
+    "christmas",
+    "ball",
+    "ornament",
+    "round",
+    "装饰品",
+    "球",
+    "圣诞节",
+    "圆"
+  ],
+  "gift_card": [
+    "gift",
+    "card",
+    "christmas",
+    "coupon",
+    "礼物卡",
+    "礼品卡",
+    "优惠券",
+    "圣诞节"
+  ],
+  "ladder": [
+    "ladder",
+    "climb",
+    "equipment",
+    "梯子",
+    "攀爬",
+    "设备"
+  ],
+  "sofa": [
+    "sofa",
+    "chair",
+    "seat",
+    "furniture",
+    "沙发",
+    "椅子",
+    "座",
+    "家具"
+  ],
+  "toilet_paper": [
+    "toilet",
+    "paper",
+    "roll",
+    "厕所",
+    "纸",
+    "卷纸"
+  ],
+  "bath": [
+    "shower",
+    "bath",
+    "bathroom",
+    "tub",
+    "淋浴",
+    "洗澡",
+    "浴缸",
+    "室"
+  ],
+  "blessing": [
+    "blessing",
+    "best",
+    "wishes",
+    "fu",
+    "festival",
+    "祝",
+    "福",
+    "新年",
+    "节日"
+  ],
+  "chines_knot": [
+    "chines",
+    "knot",
+    "festival",
+    "节日",
+    "中国结",
+    "新年"
+  ],
+  "coin_3": [
+    "coin",
+    "money",
+    "payment",
+    "finance",
+    "data",
+    "硬币",
+    "钱",
+    "支付",
+    "财",
+    "数据"
+  ],
+  "firecracker": [
+    "firecracker",
+    "marroon",
+    "cracker",
+    "鞭爆",
+    "炮竹",
+    "花炮"
+  ],
+  "firework": [
+    "firework",
+    "cracker",
+    "celebrate",
+    "烟火",
+    "烟花",
+    "花炮",
+    "庆祝"
+  ],
+  "lantern_2": [
+    "lantern",
+    "festival",
+    "light",
+    "长灯笼",
+    "节日",
+    "灯"
+  ],
+  "pumpkin_lantern": [
+    "pumpkin",
+    "lantern",
+    "halloween",
+    "南瓜灯",
+    "万圣节",
+    "幽灵"
+  ],
+  "yuanbao": [
+    "yuanbao",
+    "money",
+    "gold",
+    "salary",
+    "钱",
+    "元宝",
+    "财",
+    "金子"
+  ],
+  "coathanger": [
+    "coat",
+    "hanger",
+    "clothes",
+    "衣架",
+    "衣服",
+    "挂钩"
+  ],
+  "registered": [
+    "registered",
+    "copyrigth",
+    "trademark",
+    "rights",
+    "商标",
+    "版权",
+    "权利"
+  ],
+  "suitcase_2": [
+    "suitcase",
+    "briefcase",
+    "bag",
+    "documents",
+    "baggage",
+    "公文包",
+    "包",
+    "文件包",
+    "手提箱"
+  ],
+  "suitcase": [
+    "suitcase",
+    "briefcase",
+    "bag",
+    "documents",
+    "baggage",
+    "公文包",
+    "包",
+    "文件包",
+    "手提箱"
+  ],
+  "tag_chevron": [
+    "chevron",
+    "tag",
+    "label",
+    "sale",
+    "标签",
+    "热卖",
+    "v标"
+  ],
+  "anniversary": [
+    "anniversary",
+    "calendar",
+    "date",
+    "heart",
+    "纪念日",
+    "日历",
+    "日期"
+  ],
+  "balloon_2": [
+    "balloon",
+    "decoration",
+    "birthday",
+    "气球",
+    "装饰",
+    "生日",
+    "节日"
+  ],
+  "calendar_add": [
+    "calendar",
+    "add",
+    "date",
+    "日历",
+    "添加",
+    "日期"
+  ],
+  "calendar_day": [
+    "calendar",
+    "date",
+    "day",
+    "日历",
+    "日期",
+    "天"
+  ],
+  "calendar_month": [
+    "calendar",
+    "date",
+    "month",
+    "日历",
+    "日期",
+    "月"
+  ],
+  "calendar_time_add": [
+    "calendar",
+    "plan",
+    "time",
+    "日历",
+    "计划",
+    "时间"
+  ],
+  "calendar_week": [
+    "calendar",
+    "date",
+    "week",
+    "日历",
+    "日期",
+    "周"
+  ],
+  "ticket": [
+    "coupon",
+    "ticket",
+    "entry",
+    "cinema",
+    "优惠券",
+    "票据",
+    "电影票",
+    "出入凭证",
+    "门票"
+  ],
+  "calendar_2": [
+    "calendar",
+    "date",
+    "plan",
+    "schedule",
+    "day",
+    "日历",
+    "日期",
+    "日程",
+    "计划表",
+    "天"
+  ],
+  "basket_2": [
+    "basket",
+    "store",
+    "shop",
+    "购物篮",
+    "电商",
+    "商店",
+    "购物"
+  ],
+  "calendar_3": [
+    "calendar",
+    "date",
+    "plan",
+    "schedule",
+    "day",
+    "日历",
+    "日期",
+    "日程",
+    "计划表",
+    "天"
+  ],
+  "card_pay": [
+    "card",
+    "pay",
+    "transfer",
+    "bank",
+    "卡",
+    "付款",
+    "转账",
+    "银行"
+  ],
+  "card_refund": [
+    "card",
+    "return",
+    "refund",
+    "bank",
+    "卡",
+    "返回",
+    "退款",
+    "银行"
+  ],
+  "chart_bar_2": [
+    "chart",
+    "bar",
+    "data",
+    "analysis",
+    "statistics",
+    "diagram",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "柱状图"
+  ],
+  "chart_decrease": [
+    "chart",
+    "line",
+    "data",
+    "analysis",
+    "statistics",
+    "diagram",
+    "decrease",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "折线图",
+    "降低"
+  ],
+  "chart_horizontal": [
+    "chart",
+    "line",
+    "data",
+    "analysis",
+    "statistics",
+    "horizontal",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "水平"
+  ],
+  "chart_pie_2": [
+    "chart",
+    "pie",
+    "data",
+    "analysis",
+    "statistics",
+    "diagram",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "饼图"
+  ],
+  "chart_vertical": [
+    "chart",
+    "line",
+    "data",
+    "analysis",
+    "statistics",
+    "vertical",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "竖直"
+  ],
+  "refund_cny": [
+    "refund",
+    "money",
+    "return",
+    "RMB",
+    "cny",
+    "退款",
+    "钱",
+    "人民币",
+    "返回"
+  ],
+  "refund_dollar": [
+    "refund",
+    "money",
+    "return",
+    "dollar",
+    "$",
+    "退款",
+    "钱",
+    "美元",
+    "返回"
+  ],
+  "ad_circle": [
+    "ad",
+    "advertisement",
+    "market",
+    "commerce",
+    "广告",
+    "市场",
+    "商业"
+  ],
+  "ad_circle_off": [
+    "ad",
+    "advertisement",
+    "market",
+    "commerce",
+    "off",
+    "广告",
+    "市场",
+    "商业",
+    "关闭"
+  ],
+  "ad_rectangle": [
+    "ad",
+    "advertisement",
+    "market",
+    "commerce",
+    "off",
+    "广告",
+    "市场",
+    "商业"
+  ],
+  "ad_rectangle_off": [
+    "ad",
+    "advertisement",
+    "market",
+    "commerce",
+    "广告",
+    "市场",
+    "商业",
+    "关闭"
+  ],
+  "cash": [
+    "currency",
+    "dollar",
+    "money",
+    "pay",
+    "finance",
+    "salary",
+    "货币",
+    "美元",
+    "钱",
+    "支付",
+    "财",
+    "薪酬",
+    "财务"
+  ],
+  "palette_3": [
+    "palette",
+    "color",
+    "tag",
+    "label",
+    "标签",
+    "标记",
+    "色板",
+    "色卡"
+  ],
+  "candles": [
+    "candles",
+    "light",
+    "pray",
+    "christmas",
+    "蜡烛",
+    "烛光",
+    "祈祷",
+    "圣诞节"
+  ],
+  "currency_nigeria_2": [
+    "currency",
+    "naira",
+    "money",
+    "pay",
+    "nigeria",
+    "货币",
+    "奈拉",
+    "钱",
+    "支付",
+    "尼日利亚"
+  ],
+  "currency_nigeria": [
+    "currency",
+    "naira",
+    "money",
+    "pay",
+    "nigeria",
+    "货币",
+    "奈拉",
+    "钱",
+    "支付",
+    "尼日利亚"
+  ],
+  "laurel_wreath": [
+    "laurel",
+    "wreath",
+    "victory",
+    "honor",
+    "prize",
+    "glory",
+    "荣誉",
+    "花环",
+    "胜利",
+    "荣耀",
+    "桂冠"
+  ],
+  "calendar_x": [
+    "calendar",
+    "date",
+    "plan",
+    "schedule",
+    "day",
+    "close",
+    "delete",
+    "cancel",
+    "日历",
+    "日期",
+    "日程",
+    "计划表",
+    "天",
+    "关闭",
+    "取消",
+    "删除"
+  ],
+  "chart_horizontal_2": [
+    "chart",
+    "line",
+    "data",
+    "analysis",
+    "statistics",
+    "horizontal",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "水平"
+  ],
+  "chart_pie_3": [
+    "chart",
+    "pie",
+    "data",
+    "analysis",
+    "statistics",
+    "diagram",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "饼图"
+  ],
+  "chart_vertical_2": [
+    "chart",
+    "line",
+    "data",
+    "analysis",
+    "statistics",
+    "vertical",
+    "图表",
+    "统计",
+    "数据",
+    "分析",
+    "竖直"
+  ],
+  "avalanche_AVAX": [
+    "avalanche",
+    "AVAX",
+    "crypto",
+    "currency",
+    "雪崩协议币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "binance_coin_BNB": [
+    "binance",
+    "BNB",
+    "crypto",
+    "currency",
+    "币安",
+    "币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "binance_USD_BUSD": [
+    "binance",
+    "BNB",
+    "crypto",
+    "currency",
+    "币安",
+    "稳定币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "BNB": [
+    "binance",
+    "BNB",
+    "crypto",
+    "currency",
+    "币安",
+    "币安币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "cardano_ADA": [
+    "cardano",
+    "ADA",
+    "crypto",
+    "currency",
+    "卡尔达诺",
+    "币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "dogecoin_DOGE": [
+    "dogecoi",
+    "DOGE",
+    "crypto",
+    "currency",
+    "狗狗币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "ethereum": [
+    "ethereum",
+    "crypto",
+    "currency",
+    "ETH",
+    "以太坊",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "polkadot_DOT": [
+    "polkadot",
+    "DOT",
+    "crypto",
+    "currency",
+    "去中心化",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "solana_SOL": [
+    "solana",
+    "SOL",
+    "crypto",
+    "currency",
+    "索拉纳",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "tag_2": [
+    "tag",
+    "label",
+    "sale",
+    "标签",
+    "热卖"
+  ],
+  "tether_USDT": [
+    "tether",
+    "USDT",
+    "crypto",
+    "currency",
+    "泰达币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "usd_coin_USDC": [
+    "usd",
+    "USDC",
+    "crypto",
+    "currency",
+    "美元稳定币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "XRP": [
+    "ripple",
+    "XRP",
+    "crypto",
+    "currency",
+    "瑞波币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "monero": [
+    "monero",
+    "money",
+    "XMR",
+    "crypto",
+    "currency",
+    "门罗币",
+    "虚拟货币",
+    "加密货币"
+  ],
+  "chat_1": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "chat_2": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "comment": [
+    "comment",
+    "评论"
+  ],
+  "mail": [
+    "mail",
+    "inbox",
+    "post",
+    "message",
+    "post",
+    "邮箱",
+    "邮递",
+    "收件箱",
+    "消息",
+    "邮件"
+  ],
+  "mail_open": [
+    "mail",
+    "inbox",
+    "post",
+    "message",
+    "post",
+    "open",
+    "邮箱",
+    "邮递",
+    "收件箱",
+    "消息",
+    "邮件",
+    "邮件打开"
+  ],
+  "mail_send": [
+    "mail",
+    "inbox",
+    "post",
+    "message",
+    "post",
+    "send",
+    "邮箱",
+    "邮递",
+    "收件箱",
+    "消息",
+    "邮件",
+    "邮件发送"
+  ],
+  "mail_ai": [
+    "mail",
+    "inbox",
+    "post",
+    "message",
+    "post",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "邮箱",
+    "邮递",
+    "收件箱",
+    "消息",
+    "邮件"
+  ],
+  "message_1": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "message_2": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "message_3": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "phone": [
+    "phone",
+    "call",
+    "mobile",
+    "landline",
+    "电话",
+    "呼叫",
+    "移动电话",
+    "固定电话"
+  ],
+  "phone_add": [
+    "phone",
+    "phone_add",
+    "电话",
+    "添加"
+  ],
+  "phone_block": [
+    "phone_block",
+    "电话",
+    "中断"
+  ],
+  "phone_call": [
+    "phone_call",
+    "电话",
+    "来电",
+    "响铃"
+  ],
+  "phone_incoming": [
+    "phone_incoming",
+    "电话",
+    "电话打入"
+  ],
+  "phone_outgoing": [
+    "phone_outgoing",
+    "电话",
+    "电话拨出"
+  ],
+  "phone_success": [
+    "phone_success",
+    "电话",
+    "接通成功"
+  ],
+  "chat_3": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "message_4": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "invite": [
+    "invite",
+    "send",
+    "mail",
+    "邀请",
+    "发送",
+    "邮件"
+  ],
+  "mailbox": [
+    "mailbox",
+    "inbox",
+    "mail",
+    "post",
+    "邮箱",
+    "油桶",
+    "收信"
+  ],
+  "send": [
+    "send",
+    "plane",
+    "mail",
+    "发送",
+    "飞机",
+    "发出"
+  ],
+  "phone_off": [
+    "phone",
+    "off",
+    "call",
+    "landline",
+    "电话",
+    "关机",
+    "离线",
+    "固定电话"
+  ],
+  "chat_4": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "comment_2": [
+    "chat",
+    "message",
+    "reply",
+    "dialogue",
+    "communication",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通",
+    "对话"
+  ],
+  "chat_1_ai": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "chat_2_ai": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "chat_3_ai": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "chat_4_ai": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "message_1_ai": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "message_2_ai": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "message_3_ai": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "message_4_ai": [
+    "chat",
+    "message",
+    "reply",
+    "communication",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "聊天",
+    "消息",
+    "回复",
+    "沟通"
+  ],
+  "brightness": [
+    "brightness",
+    "sun",
+    "dark",
+    "亮度",
+    "太阳",
+    "暗色"
+  ],
+  "color_filter": [
+    "color",
+    "hue",
+    "effects",
+    "filter",
+    "颜色",
+    "色调",
+    "特效",
+    "滤镜"
+  ],
+  "drop": [
+    "water",
+    "droplet",
+    "teardrop",
+    "raindrop",
+    "水滴",
+    "液滴",
+    "泪滴",
+    "雨滴"
+  ],
+  "flip_horizontal": [
+    "flip",
+    "horizontal",
+    "mirror",
+    "invert",
+    "镜像",
+    "颠倒",
+    "垂直镜像"
+  ],
+  "flip_vertical": [
+    "flip",
+    "vertical",
+    "mirror",
+    "invert",
+    "镜像",
+    "颠倒",
+    "水平镜像"
+  ],
+  "mosaic": [
+    "mosaic",
+    "blur",
+    "模糊",
+    "马赛克"
+  ],
+  "paint_2": [
+    "paint",
+    "brush",
+    "painter",
+    "color",
+    "刷子",
+    "涂画",
+    "颜色",
+    "格式刷"
+  ],
+  "paint_brush": [
+    "brush",
+    "painter",
+    "color",
+    "picker",
+    "刷子",
+    "涂画",
+    "颜色",
+    "拾色器"
+  ],
+  "palette": [
+    "palette",
+    "color",
+    "paint",
+    "picker",
+    "颜色",
+    "调色板",
+    "色卡",
+    "拾色器"
+  ],
+  "pen": [
+    "edit",
+    "pen",
+    "write",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "钢笔"
+  ],
+  "quill_pen": [
+    "quill",
+    "pen",
+    "write",
+    "edit",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "羽毛笔"
+  ],
+  "scissors_2": [
+    "scissors",
+    "cut",
+    "snip",
+    "clipboard",
+    "剪",
+    "切",
+    "剪贴板",
+    "剪刀",
+    "截屏",
+    "裁剪"
+  ],
+  "scissors": [
+    "scissors",
+    "cut",
+    "snip",
+    "clipboard",
+    "剪",
+    "切",
+    "剪贴板",
+    "剪刀",
+    "截屏",
+    "裁剪"
+  ],
+  "screenshot": [
+    "screenshot",
+    "clip",
+    "cut",
+    "修剪",
+    "截图",
+    "截屏",
+    "裁剪"
+  ],
+  "vector_bezier_2": [
+    "vector",
+    "bezier",
+    "curve",
+    "贝塞尔",
+    "锚点",
+    "曲线"
+  ],
+  "vector_bezier_3": [
+    "vector",
+    "bezier",
+    "curve",
+    "贝塞尔",
+    "锚点",
+    "曲线"
+  ],
+  "bling": [
+    "bling",
+    "sparkles",
+    "star",
+    "light",
+    "ai",
+    "星星",
+    "闪光",
+    "星光",
+    "智能"
+  ],
+  "magic_1": [
+    "magic",
+    "AI",
+    "christmas",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "美化",
+    "特效",
+    "圣诞节"
+  ],
+  "magic_2": [
+    "magic",
+    "AI",
+    "wand",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "美化",
+    "特效"
+  ],
+  "vector_bezier": [
+    "vector",
+    "bezier",
+    "curve",
+    "贝塞尔",
+    "锚点",
+    "曲线"
+  ],
+  "knife": [
+    "knife",
+    "slice",
+    "cut",
+    "刀",
+    "切片",
+    "削"
+  ],
+  "palette_2": [
+    "palette",
+    "color",
+    "tag",
+    "label",
+    "标签",
+    "标记",
+    "色板",
+    "色卡"
+  ],
+  "paster": [
+    "paster",
+    "sticker",
+    "label",
+    "贴纸",
+    "标签",
+    "便利贴"
+  ],
+  "ruler": [
+    "ruler",
+    "measure",
+    "maths",
+    "测量",
+    "尺",
+    "长度"
+  ],
+  "scale": [
+    "scale",
+    "resize",
+    "zoom",
+    "缩放",
+    "改变大小",
+    "变焦"
+  ],
+  "anticlockwise": [
+    "anticlockwise",
+    "left",
+    "逆时针",
+    "左转"
+  ],
+  "clockwise": [
+    "clockwise",
+    "right",
+    "顺时针",
+    "右转"
+  ],
+  "color_picker": [
+    "color_picker",
+    "pipette",
+    "拾色器",
+    "吸管"
+  ],
+  "layout": [
+    "layout",
+    "frame",
+    "布局",
+    "框架"
+  ],
+  "mark_pen": [
+    "mark",
+    "pen",
+    "马克笔",
+    "记号笔"
+  ],
+  "markup": [
+    "markup",
+    "strokes",
+    "标记",
+    "笔触"
+  ],
+  "scissors_3": [
+    "scissors",
+    "cut",
+    "snip",
+    "clipboard",
+    "剪",
+    "切",
+    "剪贴板",
+    "剪刀",
+    "截屏",
+    "裁剪"
+  ],
+  "brush_2": [
+    "brush",
+    "painter",
+    "color",
+    "picker",
+    "刷子",
+    "涂画",
+    "颜色",
+    "拾色器"
+  ],
+  "align_bottom": [
+    "bottom",
+    "align",
+    "position",
+    "layout",
+    "底对齐",
+    " 对齐底部"
+  ],
+  "align_horizontal_center": [
+    "middle",
+    "align",
+    "center",
+    "horizontal",
+    "position",
+    "水平居中对齐"
+  ],
+  "align_left_2": [
+    "left",
+    "align",
+    "position",
+    "layout",
+    "左对齐",
+    "对齐左边"
+  ],
+  "align_right_2": [
+    "right",
+    "align",
+    "position",
+    "layout",
+    "右对齐",
+    "对齐右边"
+  ],
+  "align_top": [
+    "top",
+    "align",
+    "position",
+    "layout",
+    "顶对齐",
+    "对齐顶部"
+  ],
+  "align_vertical_center": [
+    "middle",
+    "align",
+    "center",
+    "vertical",
+    "position",
+    "垂直居中对齐"
+  ],
+  "border_blank": [
+    "border",
+    "none",
+    "table",
+    "blank",
+    "无边框"
+  ],
+  "border_bottom": [
+    "border",
+    "bottom",
+    "table",
+    "line",
+    "底边",
+    "底框"
+  ],
+  "border_horizontal": [
+    "border",
+    "horizontal",
+    "table",
+    "line",
+    "水平中边",
+    "中框"
+  ],
+  "border_inner": [
+    "border",
+    "inner",
+    "table",
+    "line",
+    "内部边",
+    "内框"
+  ],
+  "border_left": [
+    "border",
+    "left",
+    "table",
+    "line",
+    "左边",
+    "左框"
+  ],
+  "border_right": [
+    "border",
+    "right",
+    "table",
+    "line",
+    "右边",
+    "右框"
+  ],
+  "border_outer": [
+    "border",
+    "outer",
+    "table",
+    "line",
+    "外部边",
+    "外框"
+  ],
+  "border_radius": [
+    "border",
+    "radius",
+    "rounderd",
+    "corner",
+    "圆角边",
+    "圆角框"
+  ],
+  "border_top": [
+    "border",
+    "top",
+    "table",
+    "line",
+    "顶部边",
+    "顶部框"
+  ],
+  "border_vertical": [
+    "border",
+    "horizontal",
+    "table",
+    "line",
+    "垂直中边",
+    "中框"
+  ],
+  "columns_2": [
+    "columns",
+    "layout",
+    "row",
+    "分栏",
+    "列",
+    "布局"
+  ],
+  "columns_3": [
+    "columns",
+    "layout",
+    "row",
+    "分栏",
+    "列",
+    "布局"
+  ],
+  "distribute_spacing_horizontal": [
+    "distribute",
+    "spacing",
+    "horizontal",
+    "position",
+    "水平均分",
+    "位置"
+  ],
+  "distribute_spacing_vertical": [
+    "distribute",
+    "spacing",
+    "vertical",
+    "position",
+    "垂直均分",
+    "位置"
+  ],
+  "layout_2": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "分栏"
+  ],
+  "layout_3": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "分栏"
+  ],
+  "layout_4": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "左右分栏"
+  ],
+  "layout_5": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "上下分栏"
+  ],
+  "layout_6": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "分栏"
+  ],
+  "layout_7": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "左右分栏"
+  ],
+  "layout_8": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "分栏"
+  ],
+  "layout_9": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "分栏"
+  ],
+  "layout_10": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "分栏"
+  ],
+  "layout_11": [
+    "layout",
+    "columns",
+    "grid",
+    "布局",
+    "网格",
+    "分栏"
+  ],
+  "layout_bottom": [
+    "layout",
+    "bottombar",
+    "grid",
+    "布局",
+    "网格",
+    "底栏"
+  ],
+  "layout_grid": [
+    "layout",
+    "table",
+    "border",
+    "grid",
+    "布局",
+    "网格",
+    "表格"
+  ],
+  "layout_left": [
+    "layout",
+    "sidebar",
+    "grid",
+    "布局",
+    "网格",
+    "侧边栏"
+  ],
+  "layout_right": [
+    "layout",
+    "sidebar",
+    "grid",
+    "布局",
+    "网格",
+    "侧边栏"
+  ],
+  "layout_top": [
+    "layout",
+    "topbar",
+    "grid",
+    "布局",
+    "网格",
+    "顶栏"
+  ],
+  "rows_2": [
+    "layout",
+    "row",
+    "collage",
+    "布局",
+    "行",
+    "拼贴"
+  ],
+  "rows_3": [
+    "layout",
+    "row",
+    "collage",
+    "布局",
+    "行",
+    "拼贴"
+  ],
+  "rows_4": [
+    "layout",
+    "row",
+    "collage",
+    "布局",
+    "行",
+    "拼贴"
+  ],
+  "table_2": [
+    "table",
+    "spreedsheet",
+    "layout",
+    "grid",
+    "表格",
+    "电子表格",
+    "布局",
+    "网格"
+  ],
+  "anticlockwise_alt": [
+    "anticlockwise",
+    "left",
+    "逆时针",
+    "左转"
+  ],
+  "clockwise_alt": [
+    "clockwise",
+    "right",
+    "顺时针",
+    "右转"
+  ],
+  "rotate_x": [
+    "rotate",
+    "X",
+    "revolve",
+    "旋转",
+    "x轴",
+    "绕"
+  ],
+  "rotate_y": [
+    "rotate",
+    "Y",
+    "revolve",
+    "旋转",
+    "y轴",
+    "绕"
+  ],
+  "drawing_board": [
+    "drawing",
+    "board",
+    "learn",
+    "画板",
+    "学习",
+    "绘画"
+  ],
+  "sticker": [
+    "sticker",
+    "paster",
+    "label",
+    "stamp",
+    "贴纸",
+    "标签",
+    "邮票"
+  ],
+  "artboard": [
+    "drawing",
+    "board",
+    "art",
+    "画板",
+    "艺术",
+    "绘画"
+  ],
+  "background": [
+    "background",
+    "texture",
+    "pattern",
+    "背景",
+    "材质",
+    "纹样"
+  ],
+  "board": [
+    "mould",
+    "board",
+    "art",
+    "画板",
+    "艺术",
+    "模板"
+  ],
+  "vector_group": [
+    "vector",
+    "group",
+    "curve",
+    "组",
+    "锚点",
+    "曲线"
+  ],
+  "exposure": [
+    "exposure",
+    "bright",
+    "light",
+    "曝光",
+    "调亮",
+    "光"
+  ],
+  "layer": [
+    "layer",
+    "multiple",
+    "section",
+    "层",
+    "多层",
+    "部分"
+  ],
+  "shadow": [
+    "shadow",
+    "dark",
+    "dim",
+    "阴影",
+    "暗",
+    "暗淡"
+  ],
+  "x_skew": [
+    "x",
+    "skew",
+    "trapezoid",
+    "X轴",
+    "斜切",
+    "梯形"
+  ],
+  "y_skew": [
+    "y",
+    "skew",
+    "trapezoid",
+    "Y轴",
+    "斜切",
+    "梯形"
+  ],
+  "fold_horizontal": [
+    "fold",
+    "horizontal",
+    "arrow",
+    "折叠",
+    "水平",
+    "箭头"
+  ],
+  "fold_vertical": [
+    "fold",
+    "vertical",
+    "arrow",
+    "折叠",
+    "竖直",
+    "箭头"
+  ],
+  "layout_bottom_close": [
+    "bottom",
+    "bar",
+    "close",
+    "collapse",
+    "向下",
+    "关闭",
+    "收缩"
+  ],
+  "layout_bottom_open": [
+    "bottom",
+    "bar",
+    "open",
+    "expand",
+    "向下",
+    "打开",
+    "扩展"
+  ],
+  "layout_leftbar_close": [
+    "left",
+    "bar",
+    "close",
+    "collapse",
+    "向左",
+    "关闭",
+    "收缩"
+  ],
+  "layout_leftbar_open": [
+    "left",
+    "bar",
+    "open",
+    "expand",
+    "向左",
+    "打开",
+    "扩展"
+  ],
+  "layout_rightbar_close": [
+    "right",
+    "bar",
+    "close",
+    "collapse",
+    "向右",
+    "关闭",
+    "收缩"
+  ],
+  "layout_rightbar_open": [
+    "right",
+    "bar",
+    "open",
+    "expand",
+    "向右",
+    "打开",
+    "扩展"
+  ],
+  "layout_top_close": [
+    "top",
+    "bar",
+    "close",
+    "collapse",
+    "顶部",
+    "关闭",
+    "收缩"
+  ],
+  "layout_top_open": [
+    "top",
+    "bar",
+    "open",
+    "expand",
+    "顶部",
+    "打开",
+    "扩展"
+  ],
+  "magic_3": [
+    "magic",
+    "AI",
+    "wand",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "美化",
+    "特效"
+  ],
+  "magic_hat_2": [
+    "magic",
+    "hat",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔术",
+    "帽子",
+    "特效"
+  ],
+  "magic_hat": [
+    "magic",
+    "hat",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔术",
+    "帽子",
+    "特效"
+  ],
+  "mirror": [
+    "flip",
+    "mirror",
+    "rotate",
+    "翻转",
+    "镜像",
+    "旋转"
+  ],
+  "unfold_horizontal": [
+    "unfold",
+    "horizontal",
+    "arrow",
+    "展开",
+    "水平",
+    "箭头"
+  ],
+  "unfold_vertical": [
+    "unfold",
+    "vertical",
+    "arrow",
+    "展开",
+    "竖直",
+    "箭头"
+  ],
+  "combine": [
+    "combine",
+    "merge",
+    "amalgamate",
+    "unite",
+    "路径合并",
+    "合并",
+    "融合",
+    "统一"
+  ],
+  "components": [
+    "parts",
+    "components",
+    "elements",
+    "ingredients",
+    "组件",
+    "零件",
+    "元素"
+  ],
+  "ease_in_control_point": [
+    "ease",
+    "function",
+    "transition",
+    "point",
+    "animation",
+    "control",
+    "缓入控制点",
+    "缓动",
+    "过渡点",
+    "动画控制"
+  ],
+  "ease_in": [
+    "ease",
+    "gradual",
+    "start",
+    "smooth",
+    "beginning",
+    "slow",
+    "initiation",
+    "缓入",
+    "缓动",
+    "逐渐开始",
+    "平稳起步, 缓慢开始"
+  ],
+  "ease_in_out_control_point": [
+    "ease",
+    "function",
+    "transition",
+    "point",
+    "animation",
+    "control",
+    "缓入缓出控制点",
+    "缓动",
+    "过渡点",
+    "动画控制"
+  ],
+  "ease_out_control_point": [
+    "ease",
+    "function,",
+    "transition",
+    "point,",
+    "animation",
+    "control",
+    "缓出控制点",
+    "缓动",
+    "过渡点",
+    "动画控制"
+  ],
+  "ease_out": [
+    "gradual",
+    "ease",
+    "end",
+    "smooth",
+    "ending",
+    "slow",
+    "termination",
+    "缓出",
+    "缓动",
+    "逐渐结束",
+    "平稳结束",
+    "缓慢终止"
+  ],
+  "easy_in_out": [
+    "smooth",
+    "ease",
+    "transition",
+    "gradual",
+    "change",
+    "gentle",
+    "shift",
+    "缓进缓出",
+    "缓出",
+    "平滑过渡",
+    "逐渐变化"
+  ],
+  "exclude": [
+    "exclude",
+    "omit",
+    "remove",
+    "disregard",
+    "差集",
+    "排除",
+    "忽略",
+    "移除",
+    "忽视"
+  ],
+  "intersect": [
+    "intersect",
+    "overlap",
+    "cross",
+    "meet",
+    "交集",
+    "相交",
+    "重叠",
+    "交叉",
+    "相遇"
+  ],
+  "section": [
+    "section",
+    "part",
+    "segment",
+    "division",
+    "选区",
+    "部分",
+    "分段",
+    "划分"
+  ],
+  "subtract": [
+    "subtract",
+    "deduct",
+    "remove",
+    "decrease",
+    "减去顶层",
+    "减去",
+    "扣除",
+    "移除",
+    "减少"
+  ],
+  "union": [
+    "union",
+    "merge",
+    "combination",
+    "joining",
+    "联集",
+    "并集",
+    "合并",
+    "组合",
+    "连接"
+  ],
+  "paint_brush_ai": [
+    "brush",
+    "painter",
+    "color",
+    "picker",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "美化",
+    "刷子",
+    "涂画",
+    "颜色",
+    "拾色器"
+  ],
+  "quill_pen_ai": [
+    "quill",
+    "pen",
+    "write",
+    "edit",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "美化",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "羽毛笔"
+  ],
+  "background_base": [
+    "background",
+    "texture",
+    "pattern",
+    "背景",
+    "材质",
+    "纹样"
+  ],
+  "brush_2_ai": [
+    "brush",
+    "painter",
+    "color",
+    "picker",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "刷子",
+    "涂画",
+    "颜色",
+    "拾色器"
+  ],
+  "pen_ai": [
+    "edit",
+    "pen",
+    "write",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "钢笔"
+  ],
+  "whiteboard": [
+    "drawing",
+    "whiteboard",
+    "board",
+    "learn",
+    "画板",
+    "白板",
+    "学习",
+    "绘画"
+  ],
+  "brackets": [
+    "brackets",
+    "square",
+    "array",
+    "括号",
+    "方括号",
+    "数组"
+  ],
+  "braces": [
+    "braces",
+    "curly",
+    "code",
+    "括号",
+    "代码",
+    "大括号"
+  ],
+  "bug": [
+    "bug",
+    "error",
+    "insect",
+    "括号",
+    "昆虫",
+    "漏洞"
+  ],
+  "code": [
+    "code",
+    "programmer",
+    "snippet",
+    "editor",
+    "代码",
+    "程序员",
+    "片断",
+    "编辑器"
+  ],
+  "command": [
+    "command",
+    "keyboard",
+    "shortcut",
+    "命令",
+    "键盘",
+    "快捷方式"
+  ],
+  "cursor": [
+    "pointer",
+    "indicator",
+    "cursor",
+    "指针",
+    "指示器",
+    "光标"
+  ],
+  "git_branch": [
+    "git",
+    "branch",
+    "version",
+    "control",
+    "版本",
+    "控制",
+    "分支"
+  ],
+  "parentheses": [
+    "parentheses",
+    "round",
+    "bracket",
+    "括弧",
+    "括号",
+    "圆括弧"
+  ],
+  "terminal": [
+    "terminal",
+    "shell",
+    "console",
+    "终端",
+    "命令",
+    "控制台"
+  ],
+  "web": [
+    "web",
+    "window",
+    "webpage",
+    "website",
+    "browser",
+    "网络",
+    "网页",
+    "网站",
+    "窗口",
+    "浏览器"
+  ],
+  "department": [
+    "department",
+    "branch",
+    "group",
+    "mind",
+    "map",
+    "思维导图",
+    "部",
+    "分支",
+    "分组"
+  ],
+  "directory": [
+    "directory",
+    "catalogue",
+    "list",
+    "目录",
+    "列表",
+    "根目录"
+  ],
+  "git_commit": [
+    "git",
+    "commit",
+    "code",
+    "version",
+    "代码",
+    "提交",
+    "版本"
+  ],
+  "git_compare": [
+    "git",
+    "compare",
+    "code",
+    "version",
+    "代码",
+    "比较",
+    "版本"
+  ],
+  "git_merge": [
+    "git",
+    "merge",
+    "merge",
+    "version",
+    "代码",
+    "合并",
+    "版本"
+  ],
+  "git_pull_request_close": [
+    "git",
+    "merge",
+    "request",
+    "version",
+    "代码",
+    "拉取失败",
+    "版本"
+  ],
+  "git_pull_request": [
+    "git",
+    "merge",
+    "request",
+    "version",
+    "代码",
+    "拉取",
+    "版本"
+  ],
+  "hotkey": [
+    "hotkey",
+    "keyboard",
+    "shortcut",
+    "快捷键",
+    "热键",
+    "键盘",
+    "快捷方式"
+  ],
+  "performance": [
+    "performance",
+    "monitor",
+    "性能",
+    "监视器"
+  ],
+  "terminal_box": [
+    "terminal",
+    "box",
+    "console",
+    "command",
+    "终端盒",
+    "控制台",
+    "命令"
+  ],
+  "sitemap": [
+    "sitemap",
+    "roadmap",
+    "list",
+    "mind",
+    "map",
+    "思维导图",
+    "站点地图",
+    "路线图",
+    "分栏"
+  ],
+  "brackets_angle": [
+    "brackets",
+    "angle",
+    "code",
+    "尖括号",
+    "符号"
+  ],
+  "inspect": [
+    "inspect",
+    "code",
+    "检查",
+    "代码"
+  ],
+  "cursor_2": [
+    "pointer",
+    "indicator",
+    "cursor",
+    "指针",
+    "指示器",
+    "光标"
+  ],
+  "cursor_3": [
+    "pointer",
+    "indicator",
+    "cursor",
+    "指针",
+    "指示器",
+    "光标"
+  ],
+  "git_branch_2": [
+    "git",
+    "branch",
+    "version",
+    "control",
+    "版本",
+    "控制",
+    "分支"
+  ],
+  "git_merge_2": [
+    "git",
+    "merge",
+    "merge",
+    "version",
+    "代码",
+    "合并",
+    "版本"
+  ],
+  "mcp": [
+    "mcp",
+    "MCP 协议",
+    "模型上下文协议",
+    "MCP 服务器",
+    "Model Context Protocol",
+    "MCP server",
+    "MCP client"
+  ],
+  "robot": [
+    "robot",
+    "机器人",
+    "机器人编程",
+    "工业机器人",
+    "robotics",
+    "robot arm",
+    "humanoid robot"
+  ],
+  "terminal_ai": [
+    "terminal",
+    "shell",
+    "console",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "终端",
+    "命令",
+    "控制台"
+  ],
+  "terminal_box_ai": [
+    "terminal",
+    "box",
+    "console",
+    "command",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "终端盒",
+    "控制台",
+    "命令"
+  ],
+  "vibe_coding": [
+    "vibe_coding",
+    "轻松编程",
+    "氛围编码",
+    "心流编程",
+    "vibe coding",
+    "flow state programming",
+    "program"
+  ],
+  "airplay": [
+    "airplay",
+    "cast",
+    "broadcast",
+    "mirroring",
+    "投屏",
+    "播送",
+    "播放",
+    "镜像"
+  ],
+  "alarm_1": [
+    "alarm",
+    "time",
+    "clock",
+    "ring",
+    "警报",
+    "闹钟",
+    "定时",
+    "时间"
+  ],
+  "alarm_2": [
+    "alarm",
+    "time",
+    "clock",
+    "ring",
+    "警报",
+    "闹钟",
+    "定时",
+    "时间"
+  ],
+  "bulb": [
+    "bulb",
+    "mind",
+    "thought",
+    "思维",
+    "想法",
+    "电灯泡"
+  ],
+  "bulb_2": [
+    "bulb",
+    "mind",
+    "thought",
+    "思维",
+    "想法",
+    "电灯泡"
+  ],
+  "cellphone": [
+    "cellphone",
+    "mobile",
+    "phone",
+    "iphone",
+    "smartphone",
+    "手机",
+    "移动电话",
+    "智能手机"
+  ],
+  "cellphone_2": [
+    "cellphone",
+    "mobile",
+    "phone",
+    "iphone",
+    "smartphone",
+    "手机",
+    "移动电话",
+    "智能手机"
+  ],
+  "cellphone_2_horizontal": [
+    "cellphone",
+    "mobile",
+    "phone",
+    "iphone",
+    "smartphone",
+    "horizontal",
+    "手机",
+    "移动电话",
+    "智能手机",
+    "水平"
+  ],
+  "computer": [
+    "computer",
+    "desktop",
+    "monitor",
+    "desktop",
+    "imac",
+    "电脑",
+    "显示器",
+    "台式电脑",
+    "计算机"
+  ],
+  "device": [
+    "device",
+    "computer",
+    "tablet",
+    "phone",
+    "设备",
+    "电脑",
+    "平板",
+    "手机"
+  ],
+  "flash": [
+    "flash",
+    "lightning",
+    "thunderbolt",
+    "charger",
+    "power",
+    "闪光",
+    "发光",
+    "雷电",
+    "充电",
+    "电源"
+  ],
+  "flashlight": [
+    "flashlight",
+    "torch",
+    "light",
+    "手电筒",
+    "火把",
+    "发光"
+  ],
+  "game_1": [
+    "game",
+    "switch",
+    "playstation",
+    "xbox",
+    "gamepad",
+    "游戏",
+    "游戏手柄",
+    "游戏机"
+  ],
+  "game_2": [
+    "game",
+    "switch",
+    "playstation",
+    "xbox",
+    "gamepad",
+    "游戏",
+    "游戏手柄",
+    "游戏机"
+  ],
+  "iMac": [
+    "computer",
+    "desktop",
+    "monitor",
+    "desktop",
+    "imac",
+    "电脑",
+    "显示器",
+    "台式电脑",
+    "计算机"
+  ],
+  "keyboard": [
+    "keyboard",
+    "typing",
+    "input",
+    "键盘",
+    "输入",
+    "打字"
+  ],
+  "laptop": [
+    "laptop",
+    "notebook",
+    "computer",
+    "笔记本电脑",
+    "便携式电脑"
+  ],
+  "mouse": [
+    "mouse",
+    "click",
+    "pointer",
+    "鼠标",
+    "点击",
+    "指针"
+  ],
+  "pad": [
+    "pad",
+    "iPad",
+    "phablet",
+    "tablet",
+    "平板",
+    "电脑",
+    "平板手机"
+  ],
+  "print": [
+    "print",
+    "printer",
+    "office",
+    "打印机",
+    "打印",
+    "办公"
+  ],
+  "radio": [
+    "radio",
+    "broadcast",
+    "receiver",
+    "收音机",
+    "广播",
+    "接收机"
+  ],
+  "stopwatch": [
+    "stopwatch",
+    "timer",
+    "sports",
+    "秒表",
+    "定时器",
+    "运动",
+    "计时"
+  ],
+  "tv_1": [
+    "tv",
+    "display",
+    "watch",
+    "video",
+    "电视",
+    "显示器",
+    "观看",
+    "视频"
+  ],
+  "tv_2": [
+    "tv",
+    "display",
+    "watch",
+    "video",
+    "电视",
+    "显示器",
+    "观看",
+    "视频"
+  ],
+  "watch": [
+    "watch",
+    "timer",
+    "hour",
+    "clock",
+    "手表",
+    "时间",
+    "小时",
+    "时钟"
+  ],
+  "battery_charging": [
+    "battery",
+    "charging",
+    "电池",
+    "充电"
+  ],
+  "battery": [
+    "battery",
+    "energy",
+    "power",
+    "electricity",
+    "电池",
+    "能量",
+    "电"
+  ],
+  "bluetooth": [
+    "bluetooth",
+    "wireless",
+    "connect",
+    "蓝牙",
+    "连接"
+  ],
+  "bluetooth_off": [
+    "bluetooth",
+    "wireless",
+    "connect",
+    "蓝牙",
+    "连接",
+    "关闭"
+  ],
+  "ceiling_lamp": [
+    "ceiling",
+    "lamp",
+    "灯泡",
+    "照明"
+  ],
+  "desk_lamp": [
+    "light",
+    "lamp",
+    "台灯",
+    "照明"
+  ],
+  "qrcode": [
+    "qrcode",
+    "scan",
+    "data",
+    "二维码",
+    "扫描",
+    "数据"
+  ],
+  "radar": [
+    "radar",
+    "wireless",
+    "雷达",
+    "无线"
+  ],
+  "remote": [
+    "remote",
+    "control",
+    "device",
+    "遥控",
+    "控制",
+    "电视"
+  ],
+  "sandglass": [
+    "sandglass",
+    "hourglass",
+    "沙漏",
+    "计时器"
+  ],
+  "scan_2": [
+    "scan",
+    "code",
+    "radar",
+    "扫描",
+    "探测",
+    "雷达"
+  ],
+  "scan": [
+    "scan",
+    "code",
+    "radar",
+    "扫描",
+    "探测",
+    "雷达"
+  ],
+  "telescope": [
+    "telescope",
+    "observation",
+    "vision",
+    "望远镜",
+    "观察",
+    "视野"
+  ],
+  "wifi": [
+    "wifi",
+    "connect",
+    "wireless",
+    "无线网络",
+    "连接"
+  ],
+  "wifi_off": [
+    "wifi_off",
+    "connect",
+    "wireless",
+    "无线网络",
+    "连接断开"
+  ],
+  "chip": [
+    "chip",
+    "processor",
+    "cpu",
+    "芯片",
+    "处理器",
+    "中央处理器"
+  ],
+  "fridge": [
+    "fridge",
+    "cooler",
+    "freezer",
+    "kitchen",
+    "冰箱",
+    "冷却器",
+    "冰柜",
+    "厨房"
+  ],
+  "microscope": [
+    "microscope",
+    "experiment",
+    "science",
+    "显微镜",
+    "实验",
+    "科学"
+  ],
+  "cellphone_vibration": [
+    "cellphone",
+    "vibration",
+    "手机",
+    "振动",
+    "抖一抖"
+  ],
+  "computer_camera": [
+    "camera",
+    "video",
+    "recording",
+    "摄像头",
+    "录像",
+    "视频"
+  ],
+  "computer_camera_off": [
+    "camera",
+    "video",
+    "recording",
+    "false",
+    "摄像头",
+    "录像",
+    "视频",
+    "关闭"
+  ],
+  "dashboard_2": [
+    "dashboard",
+    "gauge",
+    "speed",
+    "odometer",
+    "仪表盘",
+    "测量仪器",
+    "速度",
+    "里程表"
+  ],
+  "dashboard": [
+    "dashboard",
+    "gauge",
+    "speed",
+    "odometer",
+    "仪表盘",
+    "测量仪器",
+    "速度",
+    "里程表"
+  ],
+  "radar_2": [
+    "radar",
+    "wireless",
+    "雷达",
+    "无线"
+  ],
+  "speaker": [
+    "speaker",
+    "sound",
+    "music",
+    "音响",
+    "扬声器",
+    "音乐"
+  ],
+  "plugin": [
+    "plugin",
+    "plug",
+    "charger",
+    "extension",
+    "插件",
+    "插头",
+    "充电",
+    "扩展"
+  ],
+  "plugin_2": [
+    "plugin",
+    "picture puzzle",
+    "extension",
+    "插件",
+    "拼图",
+    "扩展"
+  ],
+  "server": [
+    "server",
+    "storage",
+    "hosting",
+    "服务器",
+    "存储",
+    "主机"
+  ],
+  "server_2": [
+    "server",
+    "storage",
+    "hosting",
+    "disk",
+    "服务器",
+    "存储",
+    "主机",
+    "盘"
+  ],
+  "battery_automotive": [
+    "automotive",
+    "battery",
+    "charging",
+    "汽车 ",
+    "电池",
+    "充电"
+  ],
+  "dashboard_3": [
+    "dashboard",
+    "gauge",
+    "speed",
+    "odometer",
+    "仪表盘",
+    "测量仪器",
+    "速度",
+    "里程表"
+  ],
+  "dashboard_4": [
+    "dashboard",
+    "gauge",
+    "speed",
+    "odometer",
+    "仪表盘",
+    "测量仪器",
+    "速度",
+    "里程表"
+  ],
+  "display": [
+    "display",
+    "screen",
+    "屏幕",
+    "显示器"
+  ],
+  "light": [
+    "light",
+    "bulb",
+    "power",
+    "mind",
+    "thought",
+    "思维",
+    "想法",
+    "灯",
+    "灯泡",
+    "亮光",
+    "电源"
+  ],
+  "qrcode_2": [
+    "qrcode",
+    "scan",
+    "data",
+    "二维码",
+    "扫描",
+    "数据"
+  ],
+  "router_modem": [
+    "router",
+    "modem",
+    "wifi",
+    "路由器",
+    "猫",
+    "无线上网"
+  ],
+  "usb": [
+    "USB",
+    "drive",
+    "connect",
+    "驱动",
+    "连接",
+    "设备"
+  ],
+  "usb_flash_disk": [
+    "USB",
+    "flash",
+    "disk",
+    "U盘",
+    "存储",
+    "数据"
+  ],
+  "air_condition": [
+    "air",
+    "condition",
+    "air-conditioner",
+    "空调",
+    "家电"
+  ],
+  "air_condition_open": [
+    "air",
+    "condition",
+    "open",
+    "air-conditioner",
+    "空调",
+    "打开",
+    "家电"
+  ],
+  "base_station": [
+    "base",
+    "station",
+    "broadcast",
+    "signal",
+    "基站",
+    "广播",
+    "信号塔"
+  ],
+  "base_station_2": [
+    "base",
+    "station",
+    "broadcast",
+    "signal",
+    "基站",
+    "广播",
+    "信号塔"
+  ],
+  "rss": [
+    "rss",
+    "feed",
+    "subscribe",
+    "订阅"
+  ],
+  "rss_2": [
+    "rss",
+    "feed",
+    "subscribe",
+    "订阅"
+  ],
+  "wash_machine": [
+    "wash",
+    "machine",
+    "clean",
+    "洗衣机",
+    "干净"
+  ],
+  "camcorder_2": [
+    "camera",
+    "camcorder",
+    "record",
+    "摄像机",
+    "摄影机",
+    "录像",
+    "监控"
+  ],
+  "drone": [
+    "drone",
+    "craft",
+    "fly",
+    "无人机",
+    "飞行器",
+    "飞"
+  ],
+  "laptop_2": [
+    "laptop",
+    "notebook",
+    "computer",
+    "笔记本电脑",
+    "便携式电脑"
+  ],
+  "battery_1": [
+    "battery",
+    "energy",
+    "power",
+    "electricity",
+    "电池",
+    "能量",
+    "电"
+  ],
+  "battery_2": [
+    "battery",
+    "energy",
+    "power",
+    "electricity",
+    "电池",
+    "能量",
+    "电"
+  ],
+  "battery_3": [
+    "battery",
+    "energy",
+    "power",
+    "electricity",
+    "电池",
+    "能量",
+    "电"
+  ],
+  "battery_4": [
+    "battery",
+    "energy",
+    "power",
+    "electricity",
+    "电池",
+    "能量",
+    "电"
+  ],
+  "battery_5": [
+    "battery",
+    "energy",
+    "power",
+    "electricity",
+    "电池",
+    "能量",
+    "电"
+  ],
+  "cube_3d": [
+    "3d",
+    "cube",
+    "sphere",
+    "三维",
+    "立方体",
+    "球体"
+  ],
+  "airpods_2": [
+    "airpods",
+    "headphone",
+    "headset",
+    "music",
+    "audio",
+    "耳机",
+    "音乐",
+    "声音"
+  ],
+  "barcode": [
+    "barcode",
+    "scan",
+    "product",
+    "条形码",
+    "扫描",
+    "产品"
+  ],
+  "barcode_scan": [
+    "barcode",
+    "scan",
+    "product",
+    "条形码",
+    "扫描",
+    "产品"
+  ],
+  "cardboard_vr": [
+    "cardboard",
+    "VR",
+    "virtual",
+    "虚拟",
+    "现实",
+    "3d眼镜"
+  ],
+  "escalator_down": [
+    "escalator",
+    "down",
+    "elevator",
+    "lift",
+    "自动扶梯",
+    "电梯",
+    "向下"
+  ],
+  "escalator_up": [
+    "escalator",
+    "up",
+    "elevator",
+    "lift",
+    "自动扶梯",
+    "电梯",
+    "向上"
+  ],
+  "midi": [
+    "midi",
+    "piano",
+    "music",
+    "钢琴",
+    "音乐",
+    "键盘"
+  ],
+  "watch_2": [
+    "watch",
+    "timer",
+    "hour",
+    "clock",
+    "手表",
+    "时间",
+    "小时",
+    "时钟"
+  ],
+  "aspect_ratio": [
+    "aspect",
+    "ratio",
+    "dimension",
+    "size",
+    "宽高比",
+    "尺寸"
+  ],
+  "home_wifi": [
+    "home",
+    "wifi",
+    "connect",
+    "wireless",
+    "家庭无线网络",
+    "连接"
+  ],
+  "keyboard_2": [
+    "keyboard",
+    "typing",
+    "input",
+    "键盘",
+    "输入",
+    "打字"
+  ],
+  "gradienter": [
+    "gradienter",
+    "measure",
+    "apparatus",
+    "水平仪",
+    "测量",
+    "仪器"
+  ],
+  "panoramas": [
+    "panoramas",
+    "interface",
+    "frame",
+    "全景",
+    "界面",
+    "画幅"
+  ],
+  "vison_pro": [
+    "vison",
+    "pro",
+    "cephalic",
+    "vr",
+    "apple",
+    "头显",
+    "虚拟现实"
+  ],
+  "guitar": [
+    "guitar",
+    "music",
+    "ukulele",
+    "吉它",
+    "音乐",
+    "尤克里里"
+  ],
+  "instrument": [
+    "instrument",
+    "dashboard",
+    "scale",
+    "仪器",
+    "仪表盘",
+    "称"
+  ],
+  "telescope_2": [
+    "telescope",
+    "observation",
+    "vision",
+    "望远镜",
+    "观察",
+    "视野"
+  ],
+  "high_voltage_power": [
+    "high",
+    "voltage",
+    "power",
+    "electric",
+    "高压",
+    "电网",
+    "供电"
+  ],
+  "homepod": [
+    "homepod",
+    "speaker",
+    "sound",
+    "apple",
+    "音响",
+    "扬声器",
+    "音乐"
+  ],
+  "homepod_mini": [
+    "homepod",
+    "speaker",
+    "sound",
+    "apple",
+    "音响",
+    "扬声器",
+    "音乐"
+  ],
+  "tower_crane": [
+    "tower",
+    "crane",
+    "construct",
+    "塔吊",
+    "建造",
+    "建设"
+  ],
+  "desk_lamp_2": [
+    "light",
+    "lamp",
+    "台灯",
+    "照明"
+  ],
+  "monitor": [
+    "display",
+    "screen",
+    "monitor",
+    "显示器",
+    "屏幕",
+    "电脑显示器"
+  ],
+  "sandglass_2": [
+    "sandglass",
+    "hourglass",
+    "沙漏",
+    "计时器"
+  ],
+  "solar_panel": [
+    "solar",
+    "energy",
+    "photovoltaic",
+    "panel",
+    "renewable",
+    "energy",
+    "太阳能",
+    "光伏电池板",
+    "可再生能源"
+  ],
+  "storage": [
+    "storage",
+    "space",
+    "capacity",
+    "data",
+    "存储",
+    "空间",
+    "容量",
+    "数据"
+  ],
+  "fax": [
+    "fax",
+    "phone",
+    "call",
+    "landline",
+    "传真",
+    "电话",
+    "固定电话"
+  ],
+  "projector": [
+    "projector",
+    "play",
+    "film",
+    "投影仪",
+    "放映",
+    "电影"
+  ],
+  "projector_screen": [
+    "projector",
+    "play",
+    "screen",
+    "cast",
+    "投影仪",
+    "放映",
+    "幕布",
+    "投屏"
+  ],
+  "remote_control": [
+    "remote",
+    "control",
+    "device",
+    "遥控",
+    "控制",
+    "电视"
+  ],
+  "shower": [
+    "shower",
+    "bath",
+    "bathroom",
+    "tub",
+    "淋浴",
+    "洗澡",
+    "浴缸",
+    "室"
+  ],
+  "cellphone_2_ai": [
+    "cellphone",
+    "mobile",
+    "phone",
+    "iphone",
+    "smartphone",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "手机",
+    "移动电话",
+    "智能手机"
+  ],
+  "ai": [
+    "star",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "星星",
+    "魔法",
+    "火花"
+  ],
+  "flash_circle": [
+    "flash",
+    "lightning",
+    "thunderbolt",
+    "charger",
+    "power",
+    "圆圈",
+    "闪光",
+    "发光",
+    "雷电",
+    "充电",
+    "circle"
+  ],
+  "bulb_ai": [
+    "bulb",
+    "mind",
+    "thought",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "思维",
+    "想法",
+    "电灯泡"
+  ],
+  "bulb_ai_2": [
+    "bulb",
+    "mind",
+    "thought",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "思维",
+    "想法",
+    "电灯泡"
+  ],
+  "stopwatch_2": [
+    "stopwatch",
+    "timer",
+    "sports",
+    "秒表",
+    "定时器",
+    "运动",
+    "计时"
+  ],
+  "stopwatch_2_off": [
+    "stopwatch",
+    "timer",
+    "sports",
+    "off",
+    "关闭",
+    "秒表",
+    "定时器",
+    "运动",
+    "计时",
+    "关闭",
+    "停止"
+  ],
+  "align_right": [
+    "align",
+    "right",
+    "typography",
+    "text",
+    "editor",
+    "右对齐",
+    "段落",
+    "文本",
+    "编辑器"
+  ],
+  "align_center": [
+    "align",
+    "center",
+    "typography",
+    "text",
+    "editor",
+    "居中对齐",
+    "段落",
+    "文本",
+    "编辑器"
+  ],
+  "align_left": [
+    "align",
+    "left",
+    "typography",
+    "text",
+    "editor",
+    "左对齐",
+    "段落",
+    "文本",
+    "编辑器"
+  ],
+  "at": [
+    "at",
+    "@",
+    "email",
+    "symbol",
+    "在",
+    "符号",
+    "邮箱"
+  ],
+  "bold": [
+    "bold",
+    "typeface",
+    "font",
+    "粗体",
+    "字体",
+    "加粗"
+  ],
+  "edit": [
+    "edit",
+    "pencil",
+    "write",
+    "笔",
+    "编辑",
+    "书写",
+    "修改"
+  ],
+  "font": [
+    "font",
+    "typography",
+    "typeface",
+    "text",
+    "字体",
+    "排版",
+    "文本"
+  ],
+  "font_size": [
+    "font",
+    "size",
+    "typography",
+    "typeface",
+    "text",
+    "字体大小",
+    "字体",
+    "排版",
+    "文本"
+  ],
+  "hashtag": [
+    "hashtag",
+    "#",
+    "hash",
+    "symbol",
+    "井号",
+    "符号",
+    "标签"
+  ],
+  "Heading_1": [
+    "Heading",
+    "h1",
+    "typography",
+    "text",
+    "一级标题",
+    "标题",
+    "排版",
+    "文本"
+  ],
+  "Heading_2": [
+    "Heading",
+    "h2",
+    "typography",
+    "text",
+    "二级标题",
+    "标题",
+    "排版",
+    "文本"
+  ],
+  "Heading_3": [
+    "Heading",
+    "h3",
+    "typography",
+    "text",
+    "三级标题",
+    "标题",
+    "排版",
+    "文本"
+  ],
+  "indent_decrease": [
+    "indent",
+    "decrease",
+    "缩进",
+    "减少"
+  ],
+  "indent_increase": [
+    "indent",
+    "increase",
+    "缩进",
+    "增加"
+  ],
+  "italic": [
+    "italic",
+    "typography",
+    "text",
+    "斜体",
+    "排版",
+    "文本"
+  ],
+  "list_check": [
+    "list",
+    "check",
+    "无序列表"
+  ],
+  "list_ordered": [
+    "list",
+    "ordered",
+    "有序列表"
+  ],
+  "menu": [
+    "menu",
+    "list",
+    "line",
+    "菜单",
+    "清单",
+    "行"
+  ],
+  "paint": [
+    "paint",
+    "color",
+    "picker",
+    "油漆桶",
+    "涂画",
+    "颜色",
+    "着色器"
+  ],
+  "pencil": [
+    "edit",
+    "pencil",
+    "write",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "铅笔"
+  ],
+  "strikethrough": [
+    "strikethrough",
+    "typography",
+    "text",
+    "删除线",
+    "排版",
+    "文本"
+  ],
+  "table": [
+    "table",
+    "spreadsheet",
+    "layout",
+    "grid",
+    "表格",
+    "电子表格",
+    "布局",
+    "网格"
+  ],
+  "text": [
+    "text",
+    "letter",
+    "words",
+    "write",
+    "文本",
+    "文字",
+    "输入",
+    "写字"
+  ],
+  "underline": [
+    "underline",
+    "typography",
+    "text",
+    "下划线",
+    "排版",
+    "文本"
+  ],
+  "translate": [
+    "translate",
+    "language",
+    "tongue",
+    "翻译",
+    "语言",
+    "中英文"
+  ],
+  "AZ_sort_ascending_letters": [
+    "sort",
+    "ascending",
+    "letters",
+    "down",
+    "排序",
+    "升序",
+    "字母",
+    "正序"
+  ],
+  "and": [
+    "and",
+    "&",
+    "和",
+    "连接"
+  ],
+  "asterisk": [
+    "asterisk",
+    "*",
+    "星号",
+    "重点"
+  ],
+  "dividing_line": [
+    "divider",
+    "separator",
+    "分隔线",
+    "分开"
+  ],
+  "eraser": [
+    "eraser",
+    "remove",
+    "wipe-out",
+    "橡皮",
+    "移除",
+    "擦除"
+  ],
+  "formula": [
+    "formula",
+    "sum",
+    "equation",
+    "公式",
+    "求和",
+    "方程"
+  ],
+  "omega": [
+    "omega",
+    "Ω",
+    "欧米茄"
+  ],
+  "paragraph": [
+    "paragraph",
+    "pilcrow",
+    "editor",
+    "段落",
+    "段落符",
+    "编辑器"
+  ],
+  "pen_2": [
+    "edit",
+    "pen",
+    "write",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "钢笔"
+  ],
+  "quote_left": [
+    "quote",
+    "left",
+    "左引号"
+  ],
+  "quote_right": [
+    "quote",
+    "right",
+    "右引号"
+  ],
+  "sort_ascending": [
+    "sort",
+    "ascending",
+    "排序",
+    "升序",
+    "正序"
+  ],
+  "sort_descending": [
+    "sort",
+    "descending",
+    "排序",
+    "降序",
+    "倒序"
+  ],
+  "ZA_sort_descending_letters": [
+    "sort",
+    "descending",
+    "letters",
+    "down",
+    "排序",
+    "降序",
+    "字母",
+    "倒序"
+  ],
+  "line_height": [
+    "line",
+    "height",
+    "space",
+    "inline",
+    "行高",
+    "间距",
+    "行"
+  ],
+  "list_check_2": [
+    "list",
+    "check",
+    "to-do",
+    "agenda",
+    "列表",
+    "待办",
+    "议程"
+  ],
+  "list_check_3": [
+    "list",
+    "check",
+    "checklist",
+    "图文",
+    "列表",
+    "清单"
+  ],
+  "edit_2": [
+    "edit",
+    "pencil",
+    "write",
+    "笔",
+    "编辑",
+    "书写",
+    "修改"
+  ],
+  "edit_3": [
+    "edit",
+    "pencil",
+    "write",
+    "笔",
+    "编辑",
+    "书写",
+    "修改"
+  ],
+  "column": [
+    "column",
+    "layout",
+    "grid",
+    "分栏",
+    "布局",
+    "网格"
+  ],
+  "frame": [
+    "frame",
+    "artboard",
+    "框架",
+    "画板"
+  ],
+  "letter_spacing": [
+    "letter",
+    "spacing",
+    "font",
+    "character",
+    "字间距",
+    "字",
+    "字母"
+  ],
+  "spacing_horizontal": [
+    "spacing",
+    "horizontal",
+    "水平间距"
+  ],
+  "spacing_vertical": [
+    "spacing",
+    "vertical",
+    "垂直间距"
+  ],
+  "emoji": [
+    "emoji",
+    "mood",
+    "face",
+    "emotion",
+    "表情",
+    "心情",
+    "脸",
+    "表情符号"
+  ],
+  "emoji_2": [
+    "emoji",
+    "mood",
+    "face",
+    "emotion",
+    "表情",
+    "心情",
+    "脸",
+    "表情符号"
+  ],
+  "pencil_2": [
+    "edit",
+    "pencil",
+    "write",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "铅笔"
+  ],
+  "list_collapse": [
+    "list",
+    "collapse",
+    "menu",
+    "列表",
+    "展开",
+    "菜单"
+  ],
+  "list_expansion": [
+    "list",
+    "expansion",
+    "menu",
+    "列表",
+    "收起",
+    "菜单"
+  ],
+  "align_justify": [
+    "align",
+    "justify",
+    "alignment",
+    "两端对齐",
+    "对齐"
+  ],
+  "signature": [
+    "signature",
+    "certificate",
+    "write",
+    "证明",
+    "签名",
+    "写",
+    "签字"
+  ],
+  "list_search": [
+    "list",
+    "search",
+    "find",
+    "列表",
+    "搜索",
+    "查找"
+  ],
+  "text_color": [
+    "text",
+    "color",
+    "format",
+    "文字",
+    "颜色",
+    "格式"
+  ],
+  "cursor_text": [
+    "cursor",
+    "text",
+    "input",
+    "type",
+    "光标",
+    "输入",
+    "文本",
+    "类型"
+  ],
+  "textbox": [
+    "cursor",
+    "text",
+    "input",
+    "box",
+    "光标",
+    "输入",
+    "文本框"
+  ],
+  "translate_2": [
+    "translate",
+    "language",
+    "tongue",
+    "翻译",
+    "语言"
+  ],
+  "asterisk_2": [
+    "asterisk",
+    "*",
+    "星号",
+    "重点"
+  ],
+  "table_3": [
+    "table",
+    "spreedsheet",
+    "layout",
+    "grid",
+    "表格",
+    "电子表格",
+    "布局",
+    "网格"
+  ],
+  "space": [
+    "space",
+    "type",
+    "mark",
+    "grid",
+    "空格",
+    "打字",
+    "符号"
+  ],
+  "AZ_sort_descending_letters": [
+    "sort",
+    "descending",
+    "letters",
+    "up",
+    "排序",
+    "降序",
+    "字母",
+    "倒序"
+  ],
+  "ZA_sort_ascending_letters": [
+    "sort",
+    "ascending",
+    "letters",
+    "up",
+    "排序",
+    "升序",
+    "字母",
+    "正序"
+  ],
+  "numbers_09_sort_descending": [
+    "sort",
+    "descending",
+    "number",
+    "down",
+    "排序",
+    "降序",
+    "数字",
+    "倒序"
+  ],
+  "numbers_09_sort_ascending": [
+    "sort",
+    "ascending",
+    "letters",
+    "up",
+    "排序",
+    "升序",
+    "数字",
+    "正序"
+  ],
+  "numbers_90_sort_descending": [
+    "sort",
+    "descending",
+    "number",
+    "down",
+    "排序",
+    "降序",
+    "数字",
+    "倒序"
+  ],
+  "numbers_90_sort_ascending": [
+    "sort",
+    "ascending",
+    "letters",
+    "up",
+    "排序",
+    "升序",
+    "数字",
+    "正序"
+  ],
+  "text_2": [
+    "text",
+    "letter",
+    "words",
+    "write",
+    "文本",
+    "文字",
+    "输入",
+    "写字"
+  ],
+  "blockquote": [
+    "blockquote",
+    "quotation",
+    "citation",
+    "text",
+    "引文",
+    "引用",
+    "引述",
+    "文字"
+  ],
+  "edit_4": [
+    "edit",
+    "pencil",
+    "write",
+    "笔",
+    "编辑",
+    "书写",
+    "修改"
+  ],
+  "pencil_ruler": [
+    "pencil",
+    "ruler",
+    "stationery",
+    "measure",
+    "笔",
+    "尺",
+    "文具",
+    "测量"
+  ],
+  "pencil_3": [
+    "edit",
+    "pencil",
+    "write",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "铅笔"
+  ],
+  "subtitle": [
+    "subtitle",
+    "badge",
+    "caption",
+    "字幕",
+    "标识"
+  ],
+  "text_area": [
+    "text",
+    "area",
+    "words",
+    "write",
+    "文本区",
+    "文字区",
+    "输入",
+    "区",
+    "写字"
+  ],
+  "text_direction_left": [
+    "text",
+    "direction",
+    "left",
+    "right",
+    "rtl",
+    "文字",
+    "方向",
+    "从右向左"
+  ],
+  "text_direction_right": [
+    "text",
+    "direction",
+    "left",
+    "right",
+    "ltr",
+    "文字",
+    "方向",
+    "从左向右"
+  ],
+  "pencil_2_ai": [
+    "edit",
+    "pencil",
+    "write",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "美化",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "铅笔"
+  ],
+  "textbox_ai": [
+    "cursor",
+    "text",
+    "input",
+    "box",
+    null,
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "优化",
+    "光标",
+    "输入",
+    "文本框"
+  ],
+  "content_ai": [
+    "content",
+    "text",
+    "paper",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "内容",
+    "文字",
+    "文本",
+    "文章"
+  ],
+  "translate_2_ai": [
+    "translate",
+    "language",
+    "tongue",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "翻译",
+    "语言"
+  ],
+  "edit_2_ai": [
+    "edit",
+    "pencil",
+    "write",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "笔",
+    "编辑",
+    "书写",
+    "修改"
+  ],
+  "edit_3_ai": [
+    "edit",
+    "pencil",
+    "write",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "笔",
+    "编辑",
+    "书写",
+    "修改"
+  ],
+  "eraser_ai": [
+    "eraser",
+    "remove",
+    "wipe-out",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "橡皮",
+    "移除",
+    "擦除"
+  ],
+  "pen_2_ai": [
+    "edit",
+    "pen",
+    "write",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "钢笔"
+  ],
+  "pencil_3_ai": [
+    "edit",
+    "pencil",
+    "write",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "铅笔"
+  ],
+  "percentage": [
+    "percent sign",
+    "percent symbol",
+    "mathematics",
+    "notation",
+    "百分号",
+    "数学",
+    "符号",
+    "百分之"
+  ],
+  "pencil_ai": [
+    "edit",
+    "pencil",
+    "write",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "笔",
+    "编辑",
+    "书写",
+    "修改",
+    "铅笔"
+  ],
+  "signature_2": [
+    "signature",
+    "certificate",
+    "write",
+    "证明",
+    "签名",
+    "写",
+    "签字"
+  ],
+  "signature_2_ai": [
+    "signature",
+    "certificate",
+    "write",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "证明",
+    "签名",
+    "写",
+    "签字"
+  ],
+  "book_3": [
+    "book",
+    "dictionary",
+    "booklet",
+    "书籍",
+    "词典",
+    "小册子"
+  ],
+  "book_2": [
+    "book",
+    "dictionary",
+    "novel",
+    "书籍",
+    "词典",
+    "小说"
+  ],
+  "book": [
+    "book",
+    "read",
+    "magazine",
+    "novel",
+    "书籍",
+    "阅读",
+    "杂志",
+    "小说"
+  ],
+  "bookmark": [
+    "bookmark",
+    "read",
+    "tag",
+    "clip",
+    "书签",
+    "阅读",
+    "标签",
+    "标记"
+  ],
+  "counter": [
+    "counter",
+    "calculator",
+    "subtract",
+    "math",
+    "计算器",
+    "计数",
+    "数学"
+  ],
+  "diary": [
+    "note",
+    "jot",
+    "diary",
+    "memo",
+    "笔记本",
+    "记事本",
+    "日记本",
+    "备忘录"
+  ],
+  "globe": [
+    "world",
+    "earth",
+    "globe",
+    "世界",
+    "地球",
+    "全球",
+    "地球仪"
+  ],
+  "mortarboard": [
+    "mortarboard",
+    "degree",
+    "graduate",
+    "博士",
+    "学位",
+    "硕士帽"
+  ],
+  "notebook": [
+    "note",
+    "jot",
+    "diary",
+    "memo",
+    "笔记本",
+    "记事本",
+    "日记本",
+    "备忘录"
+  ],
+  "science": [
+    "science",
+    "physics",
+    "atomic",
+    "科学",
+    "物理",
+    "原子"
+  ],
+  "eyeglass": [
+    "eyeglass",
+    "sight",
+    "see",
+    "眼镜",
+    "视野",
+    "看"
+  ],
+  "flask": [
+    "flask",
+    "chemistry",
+    "烧杯"
+  ],
+  "flask_2": [
+    "flask",
+    "chemistry",
+    "烧杯",
+    "试剂瓶"
+  ],
+  "book_4": [
+    "book",
+    "read",
+    "dictionary",
+    "novel",
+    "书籍",
+    "阅读",
+    "字典",
+    "小说"
+  ],
+  "book_5": [
+    "book",
+    "library",
+    "booklet",
+    "书籍",
+    "图书馆",
+    "小册子"
+  ],
+  "desk": [
+    "desk",
+    "office",
+    "table",
+    "bureau",
+    "桌子",
+    "办公桌",
+    "电脑桌"
+  ],
+  "notebook_2": [
+    "note",
+    "jot",
+    "diary",
+    "memo",
+    "笔记本",
+    "记事本",
+    "日记本",
+    "备忘录"
+  ],
+  "counter_2": [
+    "counter",
+    "calculator",
+    "subtract",
+    "math",
+    "计算器",
+    "计数",
+    "数学"
+  ],
+  "book_6": [
+    "book",
+    "read",
+    "magazine",
+    "novel",
+    "书籍",
+    "阅读",
+    "杂志",
+    "小说"
+  ],
+  "certificate_2": [
+    "certificate",
+    "security",
+    "qualification",
+    "protect",
+    "证书",
+    "安全认证",
+    "资质",
+    "保护"
+  ],
+  "balance": [
+    "balance",
+    "scale",
+    "weight",
+    "libra",
+    "公平",
+    "天平",
+    "称重",
+    "天称座"
+  ],
+  "drum": [
+    "drum",
+    "music",
+    "音乐",
+    "鼓"
+  ],
+  "folding_fan": [
+    "folding",
+    "fan",
+    "折扇",
+    "扇子"
+  ],
+  "book_marks": [
+    "bookmark",
+    "read",
+    "tag",
+    "clip",
+    "书签",
+    "阅读",
+    "标签",
+    "标记"
+  ],
+  "black_board_2": [
+    "blackboard",
+    "teach",
+    "chalkboard",
+    "learn",
+    "黑板",
+    "教学",
+    "学习"
+  ],
+  "black_board": [
+    "blackboard",
+    "teach",
+    "chalkboard",
+    "learn",
+    "黑板",
+    "教学",
+    "学习"
+  ],
+  "magnet": [
+    "magnet",
+    "pole",
+    "iron",
+    "attract",
+    "磁铁",
+    "磁极",
+    "铁",
+    "吸"
+  ],
+  "speech": [
+    "speech",
+    "teach",
+    "report",
+    "演讲",
+    "教学",
+    "汇报"
+  ],
+  "backpack": [
+    "backpack",
+    "school",
+    "learning",
+    "travel",
+    "背包",
+    "学校",
+    "学习",
+    "旅行"
+  ],
+  "compass_2": [
+    "compass",
+    "geometry",
+    "architecture",
+    "圆规",
+    "几何",
+    "建筑"
+  ],
+  "flask_3": [
+    "flask",
+    "chemistry",
+    "烧杯",
+    "试剂瓶"
+  ],
+  "test_tube": [
+    "laboratory",
+    "experiment",
+    "tube",
+    "实验管",
+    "试管",
+    "试剂管"
+  ],
+  "bookmark_add": [
+    "bookmark",
+    "read",
+    "tag",
+    "clip",
+    "add",
+    "书签",
+    "阅读",
+    "标签",
+    "标记",
+    "添加"
+  ],
+  "bookmark_remove": [
+    "bookmark",
+    "read",
+    "tag",
+    "clip",
+    "remover",
+    "delete",
+    "书签",
+    "阅读",
+    "标签",
+    "标记",
+    "移除",
+    "删除"
+  ],
+  "bookmark_edit": [
+    "bookmark",
+    "read",
+    "tag",
+    "clip",
+    "edit",
+    "书签",
+    "阅读",
+    "标签",
+    "标记",
+    "编辑"
+  ],
+  "book_ai": [
+    "book",
+    "read",
+    "magazine",
+    "novel",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "书籍",
+    "阅读",
+    "杂志",
+    "小说"
+  ],
+  "book_2_ai": [
+    "book",
+    "dictionary",
+    "novel",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "书籍",
+    "词典",
+    "小说"
+  ],
+  "book_6_ai": [
+    "book",
+    "read",
+    "magazine",
+    "novel",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "书籍",
+    "阅读",
+    "杂志",
+    "小说"
+  ],
+  "angel": [
+    "angel",
+    "halo",
+    "god",
+    "天使",
+    "光环",
+    "神"
+  ],
+  "angry": [
+    "angry",
+    "mad",
+    "emoji",
+    "生气",
+    "愤怒",
+    "表情"
+  ],
+  "confused": [
+    "confused",
+    "puzzled",
+    "emoji",
+    "疑惑",
+    "困惑",
+    "表情"
+  ],
+  "happy": [
+    "happy",
+    "joyful",
+    "emoji",
+    "开心",
+    "快乐",
+    "表情"
+  ],
+  "look_down": [
+    "look",
+    "down",
+    "south",
+    "向下",
+    "看",
+    "向南"
+  ],
+  "look_left": [
+    "look",
+    "left",
+    "west",
+    "向左",
+    "看",
+    "向西"
+  ],
+  "look_right": [
+    "look",
+    "right",
+    "east",
+    "向右",
+    "看",
+    "向东"
+  ],
+  "look_up": [
+    "look",
+    "up",
+    "north",
+    "向上",
+    "看",
+    "向北"
+  ],
+  "omg": [
+    "omg",
+    "surprise",
+    "amazed",
+    "天哪",
+    "惊讶",
+    "吃惊"
+  ],
+  "puzzled": [
+    "confused",
+    "puzzled",
+    "ask",
+    "疑惑",
+    "困惑",
+    "问"
+  ],
+  "sad": [
+    "sad",
+    "sadness",
+    "grieved",
+    "悲伤",
+    "伤心",
+    "难受"
+  ],
+  "sick": [
+    "sick",
+    "suffering",
+    "unhealthy",
+    "生病",
+    "痛苦",
+    "不健康"
+  ],
+  "silent": [
+    "silent",
+    "quite",
+    "Prohibition",
+    "禁言",
+    "沉默",
+    "安静"
+  ],
+  "sob": [
+    "sob",
+    "cry",
+    "weep",
+    "哭",
+    "啜泣",
+    "流泪"
+  ],
+  "surprise": [
+    "omg",
+    "surprise",
+    "amazed",
+    "天哪",
+    "惊讶",
+    "吃惊"
+  ],
+  "sweats": [
+    "sweats",
+    "embarrassed",
+    "emoji",
+    "汗",
+    "尴尬",
+    "表情"
+  ],
+  "terror": [
+    "terror",
+    "scare",
+    "emoji",
+    "惊恐",
+    "恐惧",
+    "表情"
+  ],
+  "tongue": [
+    "tongue",
+    "joke",
+    "naughty",
+    "吐舌头",
+    "玩笑",
+    "淘气"
+  ],
+  "unhappy_dizzy": [
+    "giddy",
+    "dizzy",
+    "displeased",
+    "晕",
+    "头晕",
+    "不高兴"
+  ],
+  "unhappy": [
+    "unhappy",
+    "sad",
+    "grieved",
+    "不开心",
+    "悲伤",
+    "难受"
+  ],
+  "laugh": [
+    "laugh",
+    "happy",
+    "grin",
+    "大笑",
+    "开心",
+    "咧嘴笑"
+  ],
+  "meh": [
+    "meh",
+    "neutral",
+    "frowning",
+    "么",
+    "冷漠",
+    "不开心"
+  ],
+  "box": [
+    "box",
+    "collection",
+    "package",
+    "delivery",
+    "盒子",
+    "送货",
+    "包裹",
+    "箱子",
+    "收藏"
+  ],
+  "attachment_2": [
+    "attachment",
+    "paperclip",
+    "office",
+    "附件",
+    "回形针",
+    "办公"
+  ],
+  "attachment": [
+    "attachment",
+    "paperclip",
+    "office",
+    "附件",
+    "回形针",
+    "办公"
+  ],
+  "box_2": [
+    "box",
+    "collection",
+    "package",
+    "delivery",
+    "盒子",
+    "送货",
+    "包裹",
+    "箱子",
+    "收藏"
+  ],
+  "clipboard": [
+    "clipboard",
+    "copy",
+    "task",
+    "checklist",
+    "bill",
+    "todo",
+    "任务",
+    "清单",
+    "待办",
+    "剪贴板",
+    "清单",
+    "任务"
+  ],
+  "copy": [
+    "copy",
+    "clipboard",
+    "clone",
+    "duplicate",
+    "复制",
+    "粘贴",
+    "克隆",
+    "剪贴板"
+  ],
+  "document": [
+    "file",
+    "paper",
+    "document",
+    "page",
+    "word",
+    "页面",
+    "文章",
+    "电子文档",
+    "文件",
+    "文档"
+  ],
+  "download_2": [
+    "download",
+    "save",
+    "archive",
+    "下载",
+    "存档",
+    "保存"
+  ],
+  "download": [
+    "download",
+    "save",
+    "archive",
+    "下载",
+    "存档",
+    "保存"
+  ],
+  "file": [
+    "file",
+    "paper",
+    "document",
+    "page",
+    "word",
+    "页面",
+    "文章",
+    "电子文档",
+    "文件",
+    "文档"
+  ],
+  "folder_2": [
+    "folder",
+    "directory",
+    "文件夹",
+    "目录"
+  ],
+  "folder": [
+    "folder",
+    "directory",
+    "文件夹",
+    "目录"
+  ],
+  "folder_open": [
+    "folder",
+    "open",
+    "directory",
+    "文件夹",
+    "打开",
+    "目录"
+  ],
+  "inbox": [
+    "inbox",
+    "mailbox",
+    "post",
+    "tray",
+    "收件箱",
+    "邮箱",
+    "托盘"
+  ],
+  "link_2": [
+    "link",
+    "chain",
+    "connect",
+    "链接",
+    "链条",
+    "连接"
+  ],
+  "link": [
+    "link",
+    "chain",
+    "connect",
+    "链接",
+    "链条",
+    "连接"
+  ],
+  "news": [
+    "news",
+    "newspaper",
+    "article",
+    "paper",
+    "media",
+    "新闻",
+    "报纸",
+    "文章",
+    "媒体",
+    "纸"
+  ],
+  "news_2": [
+    "news",
+    "newspaper",
+    "article",
+    "paper",
+    "media",
+    "新闻",
+    "报纸",
+    "文章",
+    "媒体",
+    "纸"
+  ],
+  "paper": [
+    "news",
+    "newspaper",
+    "article",
+    "paper",
+    "media",
+    "新闻",
+    "报纸",
+    "文章",
+    "媒体",
+    "纸"
+  ],
+  "pic_2": [
+    "picture",
+    "photo",
+    "image",
+    "landscape",
+    "photography",
+    "wallpaper",
+    "gallery",
+    "画廊",
+    "壁纸",
+    "摄影",
+    "图片",
+    "照片",
+    "相册"
+  ],
+  "pic": [
+    "picture",
+    "photo",
+    "image",
+    "landscape",
+    "photography",
+    "wallpaper",
+    "gallery",
+    "画廊",
+    "壁纸",
+    "摄影",
+    "图片",
+    "照片",
+    "相册"
+  ],
+  "pin": [
+    "pinned",
+    "noticeboard",
+    "clip",
+    "别针",
+    "大头针",
+    "固定",
+    "公告栏"
+  ],
+  "search": [
+    "search",
+    "find",
+    "magnifier",
+    "搜索",
+    "寻找",
+    "放大镜"
+  ],
+  "doc": [
+    "file",
+    "paper",
+    "document",
+    "page",
+    "word",
+    "页面",
+    "文章",
+    "电子文档",
+    "文件",
+    "文档"
+  ],
+  "file_download": [
+    "download",
+    "save",
+    "archive",
+    "下载",
+    "存档",
+    "保存"
+  ],
+  "file_export": [
+    "file",
+    "export",
+    "文件导出"
+  ],
+  "file_import": [
+    "file",
+    "import",
+    "文件导入"
+  ],
+  "file_music": [
+    "file",
+    "music",
+    "音乐文件"
+  ],
+  "file_new": [
+    "file",
+    "new",
+    "add",
+    "新建文件"
+  ],
+  "file_upload": [
+    "file",
+    "upload",
+    "文件上传"
+  ],
+  "folder_open_2": [
+    "folder",
+    "open",
+    "directory",
+    "文件夹",
+    "打开",
+    "目录"
+  ],
+  "pdf": [
+    "file",
+    "pdf",
+    "document"
+  ],
+  "ppt": [
+    "file",
+    "ppt",
+    "document",
+    "幻灯片"
+  ],
+  "save": [
+    "file",
+    "save",
+    "check",
+    "文件",
+    "保存",
+    "保留"
+  ],
+  "xls": [
+    "file",
+    "document",
+    "excel",
+    "电子表格"
+  ],
+  "unlink_2": [
+    "unlink",
+    "unconnected",
+    "remove",
+    "断开链接",
+    "断开联系",
+    "移除"
+  ],
+  "unlink": [
+    "unlink",
+    "unconnected",
+    "remove",
+    "断开链接",
+    "断开联系",
+    "移除"
+  ],
+  "file_zip": [
+    "file",
+    "zip",
+    "rar",
+    "package",
+    "压缩包"
+  ],
+  "zoom_in": [
+    "zoom",
+    "in",
+    "magnifying",
+    "inspect",
+    "检查",
+    "放大"
+  ],
+  "zoom_out": [
+    "zoom",
+    "out",
+    "magnifying",
+    "inspect",
+    "检查",
+    "缩小"
+  ],
+  "download_3": [
+    "cloud",
+    "download",
+    "save",
+    "archive",
+    "云",
+    "下载",
+    "保存",
+    "存档"
+  ],
+  "upload_2": [
+    "upload",
+    "arrow",
+    "上传",
+    "向上",
+    "箭头"
+  ],
+  "upload_3": [
+    "cloud",
+    "upload",
+    "云",
+    "上传",
+    "向上"
+  ],
+  "upload": [
+    "upload",
+    "arrow",
+    "上传",
+    "向上",
+    "箭头"
+  ],
+  "box_3": [
+    "box",
+    "collection",
+    "package",
+    "delivery",
+    "盒子",
+    "送货",
+    "包裹",
+    "箱子",
+    "收藏"
+  ],
+  "inbox_2": [
+    "inbox",
+    "mailbox",
+    "post",
+    "tray",
+    "收件箱",
+    "邮箱",
+    "托盘"
+  ],
+  "album_2": [
+    "album",
+    "folder",
+    "合集",
+    "文件夹"
+  ],
+  "bill": [
+    "receive",
+    "pay",
+    "bill",
+    "付钱",
+    "支付",
+    "账单"
+  ],
+  "bill_2": [
+    "receive",
+    "pay",
+    "bill",
+    "付钱",
+    "支付",
+    "账单"
+  ],
+  "document_2": [
+    "file",
+    "paper",
+    "document",
+    "page",
+    "word",
+    "页面",
+    "文章",
+    "电子文档",
+    "文件",
+    "文档"
+  ],
+  "document_3": [
+    "file",
+    "paper",
+    "document",
+    "page",
+    "word",
+    "页面",
+    "文章",
+    "电子文档",
+    "文件",
+    "文档"
+  ],
+  "documents": [
+    "file",
+    "paper",
+    "document",
+    "page",
+    "word",
+    "copy",
+    "复制",
+    "页面",
+    "文章",
+    "电子文档",
+    "文件",
+    "文档"
+  ],
+  "external_link": [
+    "external",
+    "link",
+    "connect",
+    "redirect",
+    "外链",
+    "链接",
+    "连接",
+    "重定向"
+  ],
+  "file_certificate": [
+    "certificate",
+    "security",
+    "qualification",
+    "protect",
+    "证书",
+    "安全认证",
+    "资质",
+    "保护"
+  ],
+  "file_check": [
+    "file",
+    "check",
+    "choice",
+    "success",
+    "文档",
+    "选中",
+    "选择",
+    "完成"
+  ],
+  "file_code": [
+    "file",
+    "code",
+    "文件",
+    "代码"
+  ],
+  "file_info": [
+    "file",
+    "information",
+    "文件",
+    "属性"
+  ],
+  "file_more": [
+    "file",
+    "more",
+    "文件",
+    "更多"
+  ],
+  "file_search": [
+    "file",
+    "search",
+    "文件",
+    "搜索"
+  ],
+  "file_star": [
+    "file",
+    "star",
+    "favorites",
+    "文件",
+    "星标",
+    "收藏夹"
+  ],
+  "file_unknown": [
+    "file",
+    "unknown",
+    "question",
+    "文件",
+    "未知",
+    "问题"
+  ],
+  "file_warning": [
+    "file",
+    "warning",
+    "alert",
+    "文件",
+    "警示",
+    "警告"
+  ],
+  "profile": [
+    "file",
+    "profile",
+    "document",
+    "paper",
+    "文件",
+    "文档",
+    "文章",
+    "个人信息"
+  ],
+  "save_2": [
+    "file",
+    "save",
+    "check",
+    "文件",
+    "保存",
+    "保留"
+  ],
+  "copy_2": [
+    "copy",
+    "clipboard",
+    "clone",
+    "duplicate",
+    "复制",
+    "粘贴",
+    "克隆",
+    "剪贴板"
+  ],
+  "copy_3": [
+    "copy",
+    "clipboard",
+    "clone",
+    "duplicate",
+    "复制",
+    "粘贴",
+    "克隆",
+    "剪贴板"
+  ],
+  "pin_2": [
+    "pinned",
+    "noticeboard",
+    "clip",
+    "别针",
+    "大头针",
+    "固定",
+    "公告栏"
+  ],
+  "search_2": [
+    "search",
+    "find",
+    "magnifier",
+    "搜索",
+    "寻找",
+    "放大镜"
+  ],
+  "search_3": [
+    "search",
+    "find",
+    "magnifier",
+    "搜索",
+    "寻找",
+    "放大镜"
+  ],
+  "folder_3": [
+    "folder",
+    "directory",
+    "文件夹",
+    "目录"
+  ],
+  "photo_album": [
+    "picture",
+    "photo",
+    "image",
+    "album",
+    "合集",
+    "照片",
+    "相册"
+  ],
+  "photo_album_2": [
+    "picture",
+    "photo",
+    "image",
+    "album",
+    "合集",
+    "照片",
+    "相册"
+  ],
+  "file_forbid": [
+    "file",
+    "forbid",
+    "off",
+    "文件",
+    "禁止",
+    "关"
+  ],
+  "file_locked": [
+    "file",
+    "encryption",
+    "lock",
+    "security",
+    "文件",
+    "锁",
+    "安全",
+    "加密"
+  ],
+  "file_security": [
+    "certificate",
+    "security",
+    "qualification",
+    "protect",
+    "证书",
+    "安全认证",
+    "资质",
+    "保护"
+  ],
+  "folder_check": [
+    "folder",
+    "check",
+    "choice",
+    "success",
+    "文件夹",
+    "选中",
+    "选择",
+    "完成"
+  ],
+  "folder_delete": [
+    "delete",
+    "back",
+    "backspace",
+    "remove",
+    "回退",
+    "删除",
+    "退格",
+    "移除"
+  ],
+  "folder_download": [
+    "folder",
+    "download",
+    "save",
+    "文件夹",
+    "下载",
+    "保存"
+  ],
+  "folder_forbid": [
+    "folder",
+    "forbid",
+    "off",
+    "文件夹",
+    "禁止",
+    "关"
+  ],
+  "folder_info": [
+    "folder",
+    "information",
+    "文件夹",
+    "属性"
+  ],
+  "folder_locked": [
+    "folder",
+    "encryption",
+    "lock",
+    "security",
+    "文件夹",
+    "锁",
+    "安全",
+    "加密"
+  ],
+  "folder_locked_2": [
+    "folder",
+    "encryption",
+    "lock",
+    "security",
+    "文件夹",
+    "锁",
+    "安全",
+    "加密"
+  ],
+  "folder_minus": [
+    "delete",
+    "back",
+    "backspace",
+    "minus",
+    "回退",
+    "删除",
+    "退格",
+    "移除"
+  ],
+  "folder_more": [
+    "folder",
+    "more",
+    "文件夹",
+    "更多"
+  ],
+  "folder_security": [
+    "certificate",
+    "security",
+    "folder",
+    "protect",
+    "证书",
+    "安全认证",
+    "文件夹",
+    "保护"
+  ],
+  "folder_star": [
+    "folder",
+    "star",
+    "favorites",
+    "文件夹",
+    "星标",
+    "收藏夹"
+  ],
+  "folder_upload": [
+    "folder",
+    "upload",
+    "arrow",
+    "文件夹",
+    "上传",
+    "向上",
+    "箭头"
+  ],
+  "folder_warning": [
+    "folder",
+    "warning",
+    "alert",
+    "文件夹",
+    "警示",
+    "警告"
+  ],
+  "new_folder": [
+    "folder",
+    "new",
+    "add",
+    "新建文件夹",
+    "添加文件夹"
+  ],
+  "passport": [
+    "certificate",
+    "security",
+    "qualification",
+    "visa",
+    "证书",
+    "安全认证",
+    "资质",
+    "签证"
+  ],
+  "markdown": [
+    "markdown",
+    "md",
+    "文档",
+    "标记语言"
+  ],
+  "folders": [
+    "folder",
+    "directory",
+    "文件夹",
+    "目录"
+  ],
+  "archive": [
+    "archive",
+    "box",
+    "collect",
+    "存档",
+    "箱子",
+    "收集"
+  ],
+  "inventory": [
+    "inventory",
+    "bill",
+    "list",
+    "todo",
+    "清单",
+    "待办",
+    "分类"
+  ],
+  "link_3": [
+    "link",
+    "chain",
+    "connect",
+    "链接",
+    "链条",
+    "连接"
+  ],
+  "package_2": [
+    "package",
+    "box",
+    "collection",
+    "盒子",
+    "箱子",
+    "收藏",
+    "包裹"
+  ],
+  "package": [
+    "package",
+    "box",
+    "collection",
+    "盒子",
+    "箱子",
+    "收藏",
+    "包裹"
+  ],
+  "task_2": [
+    "clipboard",
+    "copy",
+    "task",
+    "checklist",
+    "bill",
+    "todo",
+    "任务",
+    "清单",
+    "待办",
+    "剪贴板",
+    "清单",
+    "任务"
+  ],
+  "task": [
+    "clipboard",
+    "copy",
+    "task",
+    "checklist",
+    "bill",
+    "todo",
+    "任务",
+    "清单",
+    "待办",
+    "剪贴板",
+    "清单",
+    "任务"
+  ],
+  "to_do": [
+    "todo",
+    "wait",
+    "time",
+    "document",
+    "待办",
+    "等待",
+    "时间",
+    "文档"
+  ],
+  "unarchive": [
+    "unarchive",
+    "box",
+    "collect",
+    "解档",
+    "箱子",
+    "收集"
+  ],
+  "report_forms": [
+    "report",
+    "form",
+    "excel",
+    "xls",
+    "报表",
+    "表格",
+    "表单"
+  ],
+  "folder_zip": [
+    "folder",
+    "zip",
+    "rar",
+    "package",
+    "压缩包"
+  ],
+  "paper_2": [
+    "news",
+    "newspaper",
+    "article",
+    "paper",
+    "media",
+    "新闻",
+    "报纸",
+    "文章",
+    "媒体",
+    "纸"
+  ],
+  "pic_ai": [
+    "picture",
+    "photo",
+    "image",
+    "landscape",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "美化",
+    "图片",
+    "照片",
+    "相册"
+  ],
+  "search_ai": [
+    "search",
+    "find",
+    "magnifier",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "搜索",
+    "寻找",
+    "放大镜"
+  ],
+  "paste": [
+    "copy",
+    "clipboard",
+    "clone",
+    "duplicate",
+    "paste",
+    "复制",
+    "粘贴",
+    "克隆",
+    "剪贴板"
+  ],
+  "empty_box": [
+    "copy",
+    "clipboard",
+    "clone",
+    "duplicate",
+    "paste",
+    "复制",
+    "粘贴",
+    "克隆",
+    "剪贴板"
+  ],
+  "attachment_3": [
+    "attachment",
+    "paperclip",
+    "office",
+    "附件",
+    "回形针",
+    "办公"
+  ],
+  "box_4": [
+    "box",
+    "collection",
+    "package",
+    "delivery",
+    "盒子",
+    "送货",
+    "包裹",
+    "箱子",
+    "收藏"
+  ],
+  "file_ai": [
+    "file",
+    "paper",
+    "document",
+    "page",
+    "word",
+    "ai",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "页面",
+    "文章",
+    "电子文档",
+    "文件",
+    "文档"
+  ],
+  "search_2_ai": [
+    "search",
+    "find",
+    "magnifier",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "搜索",
+    "寻找",
+    "放大镜"
+  ],
+  "search_2_none": [
+    "search",
+    "find",
+    "magnifier",
+    "none",
+    "搜索",
+    "寻找",
+    "放大镜",
+    "无",
+    "空"
+  ],
+  "search_3_ai": [
+    "search",
+    "find",
+    "magnifier",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "搜索",
+    "寻找",
+    "放大镜"
+  ],
+  "search_none": [
+    "search",
+    "find",
+    "magnifier",
+    "none",
+    "搜索",
+    "寻找",
+    "放大镜",
+    "无",
+    "空"
+  ],
+  "bowl": [
+    "dinner",
+    "rice",
+    "bowl",
+    "meal",
+    "饭",
+    "碗",
+    "餐",
+    "正餐"
+  ],
+  "bread": [
+    "bread",
+    "donut",
+    "cake",
+    "baking",
+    "蛋糕",
+    "面包",
+    "烘培"
+  ],
+  "cake": [
+    "birthday",
+    "cake",
+    "baking",
+    "生日",
+    "蛋糕",
+    "烘培"
+  ],
+  "drink": [
+    "drink",
+    "bubble tea",
+    "coke",
+    "饮料",
+    "奶茶",
+    "可乐"
+  ],
+  "fish": [
+    "fish",
+    "animal",
+    "seafood",
+    "鱼",
+    "动物",
+    "海产品"
+  ],
+  "glass_cup": [
+    "drink",
+    "glass cup",
+    "饮料",
+    "玻璃杯"
+  ],
+  "lollipop": [
+    "lollipop",
+    "christmas",
+    "candy",
+    "sweet",
+    "棒棒糖",
+    "糖果",
+    "甜",
+    "圣诞节"
+  ],
+  "teacup": [
+    "teacup",
+    "coffee",
+    "茶",
+    "咖啡"
+  ],
+  "wineglass_2": [
+    "wineglass",
+    "goblet",
+    "fragile",
+    "红酒杯",
+    "高脚杯",
+    "易碎"
+  ],
+  "wineglass": [
+    "wineglass",
+    "goblet",
+    "fragile",
+    "红酒杯",
+    "高脚杯",
+    "易碎"
+  ],
+  "candy": [
+    "candy",
+    "sweet",
+    "christmas",
+    "sugar",
+    "糖果",
+    "圣诞节",
+    "甜"
+  ],
+  "candy_2": [
+    "candy",
+    "sweet",
+    "christmas",
+    "sugar",
+    "糖果",
+    "圣诞节",
+    "甜"
+  ],
+  "champagne": [
+    "champagne",
+    "wine",
+    "glass",
+    "christmas",
+    "香槟",
+    "酒",
+    "酒杯",
+    "圣诞节"
+  ],
+  "chicken": [
+    "chicken",
+    "food",
+    "christmas",
+    "食物",
+    "鸡肉",
+    "鸡腿",
+    "圣诞节"
+  ],
+  "cookie": [
+    "cookie",
+    "food",
+    "christmas",
+    "饼干",
+    "小圆饼",
+    "食物",
+    "圣诞节"
+  ],
+  "cookie_man": [
+    "cookie",
+    "man",
+    "food",
+    "christmas",
+    "饼干人",
+    "曲奇饼",
+    "食物",
+    "圣诞节"
+  ],
+  "cupcake": [
+    "cupcake",
+    "food",
+    "christmas",
+    "蛋糕",
+    "食物",
+    "圣诞节"
+  ],
+  "fork": [
+    "fork",
+    "tool",
+    "kitchen",
+    "restaurant",
+    "西餐",
+    "叉子",
+    "厨房",
+    "工具"
+  ],
+  "fork_knife": [
+    "fork",
+    "knife",
+    "tool",
+    "kitchen",
+    "restaurant",
+    "西餐",
+    "叉子",
+    "厨房",
+    "工具",
+    "刀"
+  ],
+  "fork_spoon": [
+    "fork",
+    "spoon",
+    "tool",
+    "kitchen",
+    "restaurant",
+    "西餐",
+    "叉子",
+    "厨房",
+    "工具",
+    "勺"
+  ],
+  "spoon": [
+    "spoon",
+    "tool",
+    "kitchen",
+    "restaurant",
+    "西餐",
+    "厨房",
+    "工具",
+    "勺"
+  ],
+  "wine": [
+    "wine",
+    "bottle",
+    "drink",
+    "酒",
+    "瓶",
+    "饮料"
+  ],
+  "sugar_coated_haws": [
+    "sugar",
+    "coated",
+    "haws",
+    "冰糖葫芦",
+    "串串",
+    "甜"
+  ],
+  "carrot": [
+    "carrot",
+    "vegetable",
+    "food",
+    "胡萝卜",
+    "蔬菜",
+    "食物"
+  ],
+  "chopsticks": [
+    "chopsticks",
+    "stick",
+    "筷子",
+    "棍子"
+  ],
+  "egg_crack": [
+    "egg",
+    "crack",
+    "broken",
+    "鸡蛋",
+    "蛋碎",
+    "破损"
+  ],
+  "egg": [
+    "egg",
+    "chicken",
+    "easter",
+    "鸡蛋",
+    "鸡",
+    "复活节蛋"
+  ],
+  "ice_cream_2": [
+    "ice",
+    "cream",
+    "candy",
+    "frozen",
+    "冰淇淋",
+    "甜点",
+    "奶油",
+    "冰冻"
+  ],
+  "ice_cream": [
+    "ice",
+    "cream",
+    "candy",
+    "frozen",
+    "冰淇淋",
+    "甜点",
+    "奶油",
+    "冰冻"
+  ],
+  "bone": [
+    "bone",
+    "dog",
+    "skeleton",
+    "骨头",
+    "狗",
+    "骨骼"
+  ],
+  "birthday_2": [
+    "birthday",
+    "cake",
+    "baking",
+    "生日",
+    "蛋糕",
+    "烘培"
+  ],
+  "feeder": [
+    "feeder",
+    "baby",
+    "milk",
+    "奶瓶",
+    "婴儿",
+    "喂奶"
+  ],
+  "fries": [
+    "fries",
+    "potato",
+    "french",
+    "food",
+    "薯条",
+    "炸薯条",
+    "法式炸薯条",
+    "食物"
+  ],
+  "hamburger": [
+    "hamburger",
+    "burger",
+    "cheeseburger",
+    "food",
+    "汉堡",
+    "芝士汉堡",
+    "汉堡包",
+    "食物"
+  ],
+  "pizza": [
+    "pizza",
+    "cheese",
+    "italy",
+    "food",
+    "披萨",
+    "奶酪",
+    "意大利",
+    "食物"
+  ],
+  "bottle_glass": [
+    "wineglass",
+    "goblet",
+    "wine",
+    "fragile",
+    "红酒杯",
+    "高脚杯",
+    "易碎",
+    "酒"
+  ],
+  "dinner": [
+    "dinner",
+    "rice",
+    "bowl",
+    "meal",
+    "饭",
+    "碗",
+    "餐",
+    "正餐"
+  ],
+  "dish_cover": [
+    "dinner",
+    "dish",
+    "cover",
+    "meal",
+    "kitchen",
+    "restaurant",
+    "饭",
+    "盘盖",
+    "西餐",
+    "厨房",
+    "餐馆"
+  ],
+  "donut": [
+    "bread",
+    "donut",
+    "cake",
+    "baking",
+    "蛋糕",
+    "面包",
+    "烘培"
+  ],
+  "electric_cooker": [
+    "cooker",
+    "rice",
+    "meal",
+    "baking",
+    "电饭煲",
+    "煮饭",
+    "餐"
+  ],
+  "fried_egg": [
+    "fried",
+    "egg",
+    "breakfast",
+    "food",
+    "煎蛋",
+    "早餐",
+    "食物"
+  ],
+  "soup_pot": [
+    "soup",
+    "pot",
+    "cooking",
+    "food",
+    "汤锅",
+    "煲汤",
+    "煮",
+    "食物"
+  ],
+  "soup_pot_2": [
+    "soup",
+    "pot",
+    "cooking",
+    "food",
+    "汤锅",
+    "煲汤",
+    "煮",
+    "食物"
+  ],
+  "spatula": [
+    "spatula",
+    "tool",
+    "cooking",
+    "food",
+    "锅铲",
+    "炒菜",
+    "工具",
+    "食物"
+  ],
+  "chef_hat": [
+    "chef",
+    "hat",
+    "cooking",
+    "kitchen",
+    "food",
+    "厨师帽",
+    "烹饪",
+    "厨房",
+    "食物"
+  ],
+  "heart_hand": [
+    "heart",
+    "hand",
+    "handshake",
+    "care",
+    "爱心",
+    "握手",
+    "关怀"
+  ],
+  "airbnb": [
+    "airbnb",
+    "apartment",
+    "holiday",
+    "爱彼迎",
+    "公寓",
+    "假期"
+  ],
+  "alipay": [
+    "Alipay",
+    "payment",
+    "finance",
+    "支付宝",
+    "付款",
+    "金融"
+  ],
+  "android": [
+    "android",
+    "OS",
+    "software",
+    "robot",
+    "安卓",
+    "系统",
+    "软件",
+    "机器人"
+  ],
+  "android_2": [
+    "android",
+    "OS",
+    "software",
+    "robot",
+    "安卓",
+    "系统",
+    "软件",
+    "机器人"
+  ],
+  "apple": [
+    "apple",
+    "OS",
+    "software",
+    "苹果",
+    "系统",
+    "软件"
+  ],
+  "appstore": [
+    "appstore",
+    "shop",
+    "application",
+    "应用商店",
+    "软件商店"
+  ],
+  "facebook": [
+    "facebook",
+    "social",
+    "app",
+    "脸书",
+    "社交",
+    "应用"
+  ],
+  "instagram": [
+    "instagram",
+    "photo",
+    "community",
+    "社区",
+    "照片",
+    "应用"
+  ],
+  "linkedin": [
+    "linkedin",
+    "work",
+    "corporation",
+    "领英",
+    "工作",
+    "公司"
+  ],
+  "medium": [
+    "medium",
+    "article",
+    "paper",
+    "media",
+    "文章",
+    "专著",
+    "媒体"
+  ],
+  "messenger": [
+    "messenger",
+    "communication",
+    "messages",
+    "聊天",
+    "沟通",
+    "信息"
+  ],
+  "meta": [
+    "meta",
+    "facebook",
+    "元",
+    "脸书"
+  ],
+  "paypal": [
+    "PayPal",
+    "payment",
+    "finance",
+    "贝宝",
+    "付款",
+    "金融"
+  ],
+  "pinterest": [
+    "pinterest",
+    "images",
+    "图片",
+    "兴趣"
+  ],
+  "snapchat": [
+    "snapchat",
+    "app",
+    "social",
+    "阅后即焚",
+    "应用"
+  ],
+  "telegram": [
+    "telegram",
+    "communication",
+    "app",
+    "电报",
+    "沟通",
+    "应用"
+  ],
+  "tiktok": [
+    "tiktok",
+    "video",
+    "app",
+    "抖音",
+    "短视频",
+    "应用"
+  ],
+  "twitter": [
+    "twitter",
+    "communication",
+    "social",
+    "app",
+    "bird",
+    "推特",
+    "沟通",
+    "应用",
+    "鸟"
+  ],
+  "wechat": [
+    "WeChat",
+    "communication",
+    "social",
+    "messages",
+    "微信",
+    "沟通",
+    "消息"
+  ],
+  "whatsapp": [
+    "whatsapp",
+    "communication",
+    "social",
+    "messages",
+    "联系",
+    "社交",
+    "消息"
+  ],
+  "youtube": [
+    "YouTube",
+    "video",
+    "youtuber",
+    "channel",
+    "油罐",
+    "长视频",
+    "频道"
+  ],
+  "chrome": [
+    "chrome",
+    "browser",
+    "software",
+    "谷歌",
+    "浏览器",
+    "软件"
+  ],
+  "dribbble": [
+    "dribbble",
+    "design",
+    "追波",
+    "设计"
+  ],
+  "github": [
+    "github",
+    "code",
+    "program",
+    "cat",
+    "追波",
+    "代码",
+    "编程",
+    "猫"
+  ],
+  "google": [
+    "google",
+    "alphabet",
+    "",
+    "谷歌",
+    "字母表"
+  ],
+  "google_play": [
+    "appstore",
+    "shop",
+    "application",
+    "应用商店",
+    "软件商店"
+  ],
+  "moment": [
+    "moment",
+    "aperture",
+    "朋友圈",
+    "光圈"
+  ],
+  "qq": [
+    "messenger",
+    "chat",
+    "messages",
+    "penguin",
+    "聊天",
+    "消息",
+    "信息",
+    "企鹅"
+  ],
+  "weibo": [
+    "weibo",
+    "communication",
+    "social",
+    "app",
+    "微博",
+    "社交",
+    "应用"
+  ],
+  "windows": [
+    "Microsot",
+    "OS",
+    "software",
+    "微软",
+    "系统",
+    "软件"
+  ],
+  "discord": [
+    "discord",
+    "communication",
+    "social",
+    "talks",
+    "语音",
+    "沟通",
+    "交流"
+  ],
+  "git_lab": [
+    "git",
+    "lab",
+    "code",
+    "programming",
+    "fox",
+    "狐狸",
+    "代码",
+    "编程"
+  ],
+  "mingcute": [
+    "mingcute",
+    "icon",
+    "library",
+    "明科",
+    "图标",
+    "库"
+  ],
+  "react": [
+    "react",
+    "library",
+    "库"
+  ],
+  "reddit": [
+    "reddit",
+    "website",
+    "红迪",
+    "网站"
+  ],
+  "spotify": [
+    "spotify",
+    "music",
+    "streaming",
+    "音乐",
+    "流媒体"
+  ],
+  "vkontakte": [
+    "vkontakte",
+    "communication",
+    "social",
+    "app",
+    "vk",
+    "沟通",
+    "应用"
+  ],
+  "vue": [
+    "vue",
+    "library",
+    "库"
+  ],
+  "kakao_talk": [
+    "kakao",
+    "talk",
+    "communication",
+    "social",
+    "messages",
+    "联系",
+    "社交",
+    "消息"
+  ],
+  "line_app": [
+    "line",
+    "communication",
+    "social",
+    "messages",
+    "联系",
+    "社交",
+    "消息"
+  ],
+  "carplay": [
+    "carplay",
+    "apple",
+    "control",
+    "车机",
+    "中控",
+    "苹果车载系统"
+  ],
+  "trello_board": [
+    "trello",
+    "presentation",
+    "card",
+    "worktile",
+    "看板",
+    "卡片",
+    "清单"
+  ],
+  "mastercard": [
+    "mastercard",
+    "payment",
+    "finance",
+    "card",
+    "万事达",
+    "支付",
+    "金融",
+    "卡"
+  ],
+  "stripe": [
+    "stripe",
+    "payment",
+    "finance",
+    "支付",
+    "付款",
+    "金融"
+  ],
+  "visa": [
+    "visa",
+    "payment",
+    "finance",
+    "card",
+    "支付",
+    "付款",
+    "金融",
+    "卡"
+  ],
+  "codepen": [
+    "codepen",
+    "codes",
+    "programing",
+    "website",
+    "前端",
+    "代码",
+    "编程",
+    "网站"
+  ],
+  "dingtalk": [
+    "dingding",
+    "talk",
+    "office",
+    "钉钉",
+    "办公",
+    "平台"
+  ],
+  "firefox": [
+    "firefox",
+    "browser",
+    "internet",
+    "火狐",
+    "浏览器",
+    "网络"
+  ],
+  "mastodon": [
+    "mastodon",
+    "social",
+    "app",
+    "乳齿象",
+    "应用"
+  ],
+  "figma": [
+    "figma",
+    "design",
+    "ui",
+    "无花果",
+    "设计",
+    "界面"
+  ],
+  "nintendo_switch": [
+    "nintendo",
+    "switch",
+    "game",
+    "任天堂",
+    "游戏机",
+    "电玩"
+  ],
+  "openai": [
+    "openai",
+    "chatgpt",
+    "ai",
+    "人工智能",
+    "聊天机器人"
+  ],
+  "xbox": [
+    "xbox",
+    "game",
+    "videogame",
+    "电子游戏机",
+    "微软",
+    "电玩"
+  ],
+  "airdrop": [
+    "airdrop",
+    "mac",
+    "transport",
+    "隔空投送",
+    "苹果电脑",
+    "传输"
+  ],
+  "edge": [
+    "edge",
+    "browser",
+    "internet",
+    "浏览器",
+    "微软",
+    "网络"
+  ],
+  "linux": [
+    "linux",
+    "os",
+    "computer",
+    "企鹅",
+    "操作系统",
+    "电脑"
+  ],
+  "safari": [
+    "safari",
+    "browser",
+    "internet",
+    "浏览器",
+    "苹果",
+    "网络"
+  ],
+  "linear": [
+    "linear",
+    "app",
+    "应用"
+  ],
+  "notion": [
+    "notion",
+    "note",
+    "app",
+    "概念",
+    "笔记",
+    "应用"
+  ],
+  "viber_messenger": [
+    "viber",
+    "messenger",
+    "app",
+    "即时通讯",
+    "聊天"
+  ],
+  "wechat_pay": [
+    "wechat",
+    "pay",
+    "payment",
+    "finance",
+    "微信支付",
+    "付款",
+    "金融"
+  ],
+  "social_x": [
+    "twitter",
+    "communication",
+    "social",
+    "app",
+    "X",
+    "推特",
+    "沟通",
+    "应用",
+    "鸟"
+  ],
+  "drive": [
+    "drive",
+    "disk",
+    "google",
+    "netdisk",
+    "storage",
+    "网盘",
+    "硬盘",
+    "谷歌",
+    "存储"
+  ],
+  "dropbox": [
+    "dropbox",
+    "disk",
+    "google",
+    "netdisk",
+    "storage",
+    "网盘",
+    "硬盘",
+    "存储"
+  ],
+  "wechat_miniprogram": [
+    "wechat",
+    "miniprogram",
+    "code",
+    "app",
+    "微信",
+    "小程序",
+    "应用"
+  ],
+  "github_2": [
+    "github",
+    "code",
+    "program",
+    "cat",
+    "追波",
+    "代码",
+    "编程",
+    "猫"
+  ],
+  "gumroad": [
+    "gumroad",
+    "digital",
+    "goods",
+    "marketplace",
+    "数字平台",
+    "在线市场",
+    "销售数字商品"
+  ],
+  "lemon_squeezy": [
+    "lemon",
+    "squeezy",
+    "digital",
+    "goods",
+    "marketplace",
+    "数字平台",
+    "在线市场",
+    "销售数字商品"
+  ],
+  "arc_browser": [
+    "arc",
+    "browser",
+    "software",
+    "上网",
+    "浏览器",
+    "软件"
+  ],
+  "behance": [
+    "behance",
+    "design",
+    "be",
+    "设计"
+  ],
+  "bluesky_social": [
+    "bluesky",
+    "communication",
+    "social",
+    "app",
+    "butterfly",
+    "蓝天",
+    "沟通",
+    "应用",
+    "蝴蝶"
+  ],
+  "grok": [
+    "grok",
+    "chat",
+    "ai",
+    "人工智能",
+    "聊天机器人"
+  ],
+  "nfc": [
+    "nfc",
+    "payment",
+    "chip",
+    "contactless",
+    "近场通信",
+    "支付",
+    "芯片",
+    "无接触"
+  ],
+  "threads": [
+    "threads",
+    "photo",
+    "community",
+    "社区",
+    "照片",
+    "应用"
+  ],
+  "layers": [
+    "layers",
+    "design",
+    "ui",
+    "设计",
+    "设计师",
+    "用户界面"
+  ],
+  "siri": [
+    "siri",
+    "apple",
+    "assistant",
+    "ai",
+    "苹果",
+    "助手",
+    "人工智能"
+  ],
+  "vscode": [
+    "vscode",
+    "microsoft",
+    "software",
+    "programmer",
+    "微软",
+    "软件",
+    "程序员"
+  ],
+  "bilibili": [
+    "bilibili",
+    "video",
+    "channel",
+    "哔哩哔哩",
+    "长视频",
+    "频道"
+  ],
+  "netease_music": [
+    "netease",
+    "music",
+    "song",
+    "网易云音乐",
+    "歌曲",
+    "听歌"
+  ],
+  "follow": [
+    "follow",
+    "reader",
+    "subscribe",
+    "关注",
+    "阅读器",
+    "订阅"
+  ],
+  "apple_intelligence": [
+    "intelligence",
+    "artificial",
+    "apple",
+    "assistant",
+    "ai",
+    "苹果",
+    "助手",
+    "人工智能"
+  ],
+  "apple_intelligence_frame": [
+    "intelligence",
+    "artificial",
+    "apple",
+    "assistant",
+    "ai",
+    "苹果",
+    "助手",
+    "人工智能"
+  ],
+  "siri_frame": [
+    "intelligence",
+    "artificial",
+    "siri",
+    "apple",
+    "assistant",
+    "ai",
+    "苹果",
+    "助手",
+    "人工智能"
+  ],
+  "copilot": [
+    "intelligence",
+    "artificial",
+    "copilot",
+    "microsoft",
+    "assistant",
+    "ai",
+    "微软",
+    "助手",
+    "人工智能"
+  ],
+  "claude": [
+    "claude",
+    "AI聊天机器人",
+    "人工智能",
+    "Anthropic",
+    "claude 3",
+    "large language model",
+    "AI chatbot",
+    "LLM"
+  ],
+  "deepseek": [
+    "deepseek",
+    "深度求索",
+    "AI编程",
+    "编程大模型",
+    "人工智能",
+    "deepseek coder",
+    "AI",
+    "coding model"
+  ],
+  "google_gemini": [
+    "google_gemini",
+    "谷歌Gemini",
+    "双子座模型",
+    "谷歌AI",
+    "AI聊天机器人",
+    "Google AI",
+    "large language model",
+    "AI chatbot"
+  ],
+  "grok_2": [
+    "grok",
+    "xAI",
+    "马斯克AI",
+    "X平台AI",
+    "实时AI",
+    "grok ai",
+    "elon musk",
+    "chatbot",
+    "real-time AI"
+  ],
+  "iOS": [
+    "iOS",
+    "苹果系统",
+    "iPhone",
+    "操作系统",
+    "移动端系统",
+    "Apple",
+    "iOS 18",
+    "operating system",
+    "iPhone OS"
+  ],
+  "misskey": [
+    "misskey",
+    "社交媒体",
+    "联邦宇宙",
+    "去中心化",
+    "开源社交",
+    "misskey",
+    "fediverse",
+    "decentralized social media",
+    "open source"
+  ],
+  "mqtt": [
+    "mqtt",
+    "物联网",
+    "消息协议",
+    "实时通信",
+    "轻量级协议",
+    "MQTT",
+    "IoT",
+    "message protocol",
+    "publish-subscribe"
+  ],
+  "perplexity": [
+    "perplexity",
+    "AI搜索",
+    "答案引擎",
+    "搜索引擎",
+    "AI工具",
+    "perplexity ai",
+    "AI search",
+    "answer engine",
+    "search engine"
+  ],
+  "roblox": [
+    "roblox",
+    "罗布乐思",
+    "游戏平台",
+    "元宇宙",
+    "沙盒游戏",
+    "roblox",
+    "metaverse",
+    "gaming platform",
+    "sandbox game"
+  ],
+  "steam": [
+    "steam",
+    "steam平台",
+    "游戏商店",
+    "V社",
+    "PC游戏",
+    "steam",
+    "valve",
+    "game store",
+    "PC gaming",
+    "game launcher"
+  ],
+  "substack": [
+    "substack",
+    "订阅平台",
+    "电子报",
+    "创作者经济",
+    "写作平台",
+    "substack",
+    "newsletter",
+    "subscription platform",
+    "writers"
+  ],
+  "twitch": [
+    "twitch",
+    "游戏直播",
+    "直播平台",
+    "老鼠台",
+    "实时流媒体",
+    "twitch",
+    "live streaming",
+    "gaming",
+    "streamers"
+  ],
+  "ubuntu": [
+    "ubuntu",
+    "乌班图",
+    "Linux",
+    "操作系统",
+    "开源",
+    "服务器系统",
+    "ubuntu",
+    "Linux",
+    "operating system",
+    "open source",
+    "desktop OS"
+  ],
+  "yahoo": [
+    "yahoo",
+    "雅虎",
+    "门户网站",
+    "搜索引擎",
+    "雅虎邮箱",
+    "yahoo",
+    "search engine",
+    "web portal",
+    "yahoo mail"
+  ],
+  "earth": [
+    "world",
+    "earth",
+    "globe",
+    "language",
+    "世界",
+    "地球",
+    "全球",
+    "语言"
+  ],
+  "compass": [
+    "compass",
+    "navigation",
+    "direction",
+    "discover",
+    "罗盘",
+    "指南针",
+    "发现"
+  ],
+  "location_2": [
+    "location",
+    "map",
+    "position",
+    "pin",
+    "位置",
+    "地图",
+    "地点",
+    "标记"
+  ],
+  "location": [
+    "location",
+    "map",
+    "position",
+    "pin",
+    "位置",
+    "地图",
+    "地点",
+    "标记"
+  ],
+  "map": [
+    "map",
+    "navigation",
+    "position",
+    "地图",
+    "导航",
+    "位置"
+  ],
+  "navigation": [
+    "location",
+    "navigation",
+    "定位",
+    "导航",
+    "位置"
+  ],
+  "planet": [
+    "planet",
+    "space",
+    "astronomy",
+    "行星",
+    "太空",
+    "天文"
+  ],
+  "route": [
+    "route",
+    "path",
+    "travel",
+    "路线",
+    "路径",
+    "旅行"
+  ],
+  "world_2": [
+    "world",
+    "earth",
+    "globe",
+    "language",
+    "世界",
+    "地球",
+    "全球",
+    "语言"
+  ],
+  "world": [
+    "world",
+    "earth",
+    "globe",
+    "language",
+    "世界",
+    "地球",
+    "全球",
+    "语言"
+  ],
+  "aiming": [
+    "aiming",
+    "focus",
+    "target",
+    "瞄准",
+    "焦点",
+    "目标"
+  ],
+  "aiming_2": [
+    "aiming",
+    "focus",
+    "target",
+    "瞄准",
+    "焦点",
+    "目标"
+  ],
+  "anchor": [
+    "anchor",
+    "ship",
+    "harbor",
+    "锚",
+    "船",
+    "港口"
+  ],
+  "clock": [
+    "clock",
+    "location",
+    "打卡",
+    "位置"
+  ],
+  "clock_2": [
+    "clock",
+    "location",
+    "打卡",
+    "位置"
+  ],
+  "directions": [
+    "directions",
+    "navigation",
+    "discover",
+    "指路牌",
+    "导航",
+    "发现"
+  ],
+  "foot": [
+    "foot",
+    "footprint",
+    "脚",
+    "脚印",
+    "足迹"
+  ],
+  "lifebuoy": [
+    "lifebuoy",
+    "help",
+    "support",
+    "游泳圈",
+    "救生圈",
+    "帮助"
+  ],
+  "live_location": [
+    "live",
+    "location",
+    "navigation",
+    "实时定位",
+    "导航",
+    "位置"
+  ],
+  "map_pin": [
+    "location",
+    "map",
+    "位置",
+    "地图标记",
+    "定位"
+  ],
+  "road": [
+    "road",
+    "traffic",
+    "travel",
+    "道路",
+    "交通",
+    "旅行"
+  ],
+  "traffic_cone": [
+    "cone",
+    "traffic",
+    "warning",
+    "路锥",
+    "交通",
+    "提醒"
+  ],
+  "map_2": [
+    "map",
+    "navigation",
+    "position",
+    "地图",
+    "导航",
+    "位置"
+  ],
+  "parking": [
+    "parking",
+    "area",
+    "car",
+    "parking lot",
+    "停车场",
+    "停车区"
+  ],
+  "rest_area": [
+    "rest",
+    "area",
+    "washroom",
+    "toilet",
+    "休息区",
+    "服务区",
+    "洗手间"
+  ],
+  "directions_2": [
+    "directions",
+    "navigation",
+    "discover",
+    "指路牌",
+    "导航",
+    "发现"
+  ],
+  "location_3": [
+    "location",
+    "map",
+    "position",
+    "pin",
+    "位置",
+    "地图",
+    "地点",
+    "标记"
+  ],
+  "umbrella_2": [
+    "umbrella",
+    "beach",
+    "travel",
+    "遮阳伞",
+    "海滩",
+    "旅行"
+  ],
+  "bed": [
+    "bed",
+    "sleep",
+    "bedroom",
+    "rest",
+    "床",
+    "睡觉",
+    "卧室",
+    "休息"
+  ],
+  "bed_2": [
+    "bed",
+    "sleep",
+    "bedroom",
+    "rest",
+    "床",
+    "睡觉",
+    "卧室",
+    "休息"
+  ],
+  "earth_2": [
+    "world",
+    "earth",
+    "globe",
+    "language",
+    "世界",
+    "地球",
+    "全球",
+    "语言"
+  ],
+  "earth_latitude": [
+    "latitude",
+    "world",
+    "earth",
+    "globe",
+    "language",
+    "纬度",
+    "世界",
+    "地球",
+    "全球",
+    "语言"
+  ],
+  "earth_longitude": [
+    "longitude",
+    "world",
+    "earth",
+    "globe",
+    "language",
+    "经度",
+    "世界",
+    "地球",
+    "全球",
+    "语言"
+  ],
+  "hours": [
+    "24",
+    "time",
+    "day",
+    "service",
+    "24小时",
+    "日夜",
+    "时间",
+    "服务"
+  ],
+  "tunnel": [
+    "tunnel",
+    "train",
+    "underground",
+    "隧道",
+    "火车",
+    "地下"
+  ],
+  "compass_3": [
+    "compass",
+    "navigation",
+    "direction",
+    "discover",
+    "罗盘",
+    "指南针",
+    "发现"
+  ],
+  "earth_3": [
+    "world",
+    "earth",
+    "globe",
+    "language",
+    "世界",
+    "地球",
+    "全球",
+    "语言"
+  ],
+  "globe_2": [
+    "world",
+    "earth",
+    "globe",
+    "language",
+    "世界",
+    "地球",
+    "全球",
+    "语言"
+  ],
+  "earth_4": [
+    "world",
+    "earth",
+    "globe",
+    "language",
+    "世界",
+    "地球",
+    "全球",
+    "语言"
+  ],
+  "camera_2": [
+    "camera",
+    "photography",
+    "lens",
+    "相机",
+    "镜头",
+    "拍照"
+  ],
+  "album": [
+    "album",
+    "music",
+    "专辑",
+    "唱片",
+    "光盘",
+    "音乐"
+  ],
+  "camcorder": [
+    "camera",
+    "camcorder",
+    "record",
+    "摄像机",
+    "摄影机",
+    "录像"
+  ],
+  "camera": [
+    "camera",
+    "photography",
+    "lens",
+    "相机",
+    "镜头",
+    "拍照"
+  ],
+  "clapperboard": [
+    "clapperboard",
+    "film",
+    "胶片",
+    "电影",
+    "打板"
+  ],
+  "disc": [
+    "disc",
+    "music",
+    "专辑",
+    "唱片",
+    "光盘",
+    "音乐"
+  ],
+  "fast_forward": [
+    "fast",
+    "forward",
+    "ahead",
+    "skip",
+    "向前",
+    "跳过",
+    "快进"
+  ],
+  "fast_rewind": [
+    "fast",
+    "rewind",
+    "backwards",
+    "skip",
+    "向后",
+    "跳过",
+    "快退"
+  ],
+  "film": [
+    "movie",
+    "film",
+    "photography",
+    "电影",
+    "摄影",
+    "胶片"
+  ],
+  "fullscreen_exit": [
+    "fullscreen",
+    "exit",
+    "shrink",
+    "minimize",
+    "resize",
+    "收缩",
+    "减小",
+    "改变大小",
+    "退出全屏"
+  ],
+  "fullscreen": [
+    "fullscreen",
+    "expand",
+    "resize",
+    "全屏",
+    "扩大",
+    "改变大小"
+  ],
+  "headphone_2": [
+    "headphone",
+    "headset",
+    "music",
+    "audio",
+    "耳机",
+    "音乐",
+    "声音"
+  ],
+  "headphone": [
+    "headphone",
+    "headset",
+    "music",
+    "audio",
+    "耳机",
+    "音乐",
+    "声音"
+  ],
+  "mic": [
+    "mic",
+    "microphone",
+    "audio",
+    "podcast",
+    "麦",
+    "麦克风",
+    "音频",
+    "广播"
+  ],
+  "microphone": [
+    "mic",
+    "microphone",
+    "audio",
+    "podcast",
+    "麦",
+    "麦克风",
+    "音频",
+    "广播"
+  ],
+  "movie": [
+    "movie",
+    "film",
+    "photography",
+    "电影",
+    "摄影",
+    "胶片"
+  ],
+  "music_2": [
+    "music",
+    "sound",
+    "album",
+    "melody",
+    "音乐",
+    "声音",
+    "专辑",
+    "旋律"
+  ],
+  "music": [
+    "music",
+    "sound",
+    "album",
+    "melody",
+    "音乐",
+    "声音",
+    "专辑",
+    "旋律"
+  ],
+  "notification": [
+    "notification",
+    "alarm",
+    "bell",
+    "christmas",
+    "通知",
+    "警报",
+    "闹铃",
+    "圣诞节"
+  ],
+  "pause_circle": [
+    "pause",
+    "audio",
+    "stop",
+    "media",
+    "暂停",
+    "音频",
+    "停止",
+    "媒体"
+  ],
+  "pause": [
+    "pause",
+    "audio",
+    "stop",
+    "media",
+    "暂停",
+    "音频",
+    "停止",
+    "媒体"
+  ],
+  "play_circle": [
+    "play",
+    "audio",
+    "start",
+    "media",
+    "播放",
+    "音频",
+    "开始",
+    "媒体"
+  ],
+  "play": [
+    "play",
+    "audio",
+    "start",
+    "media",
+    "播放",
+    "音频",
+    "开始",
+    "媒体"
+  ],
+  "repeat": [
+    "repeat",
+    "transformation",
+    "exchange",
+    "change",
+    "swap",
+    "转换",
+    "切换",
+    "交换",
+    "重复",
+    "循环"
+  ],
+  "repeat_one": [
+    "repeat",
+    "one",
+    "audio",
+    "media",
+    "单曲循环",
+    "音频",
+    "媒体"
+  ],
+  "service": [
+    "service",
+    "服务",
+    "客服"
+  ],
+  "shuffle": [
+    "shuffle",
+    "random",
+    "audio",
+    "media",
+    "随机",
+    "音频",
+    "媒体"
+  ],
+  "skip_forward": [
+    "skip_forward",
+    "audio",
+    "next",
+    "media",
+    "下一个",
+    "下一曲",
+    "音频",
+    "媒体"
+  ],
+  "skip_previous": [
+    "skip_previous",
+    "audio",
+    "back",
+    "media",
+    "上一个",
+    "上一曲",
+    "音频",
+    "媒体"
+  ],
+  "stop_circle": [
+    "stop",
+    "audio",
+    "media",
+    "停止",
+    "音频",
+    "媒体"
+  ],
+  "stop": [
+    "stop",
+    "audio",
+    "media",
+    "停止",
+    "音频",
+    "媒体"
+  ],
+  "video": [
+    "video",
+    "film",
+    "play",
+    "视频",
+    "影片",
+    "播放"
+  ],
+  "volume": [
+    "volume",
+    "music",
+    "sound",
+    "alarm",
+    "notification",
+    "音量",
+    "喇叭",
+    "声音",
+    "通知"
+  ],
+  "mic_off": [
+    "mic",
+    "off",
+    "闭麦",
+    "关闭"
+  ],
+  "notification_off": [
+    "notification",
+    "off",
+    "alarm",
+    "bell",
+    "关闭通知",
+    "关闭",
+    "警报",
+    "闹铃"
+  ],
+  "notification_newdot": [
+    "reddot",
+    "notification",
+    "alarm",
+    "reminder",
+    "通知",
+    "警报",
+    "闹铃",
+    "提醒"
+  ],
+  "volume_mute": [
+    "volume",
+    "mute",
+    "off",
+    "静音"
+  ],
+  "volume_off": [
+    "volume",
+    "mute",
+    "off",
+    "静音"
+  ],
+  "horn": [
+    "horn",
+    "alarm",
+    "sound",
+    "notification",
+    "喇叭",
+    "警报",
+    "声音",
+    "通知"
+  ],
+  "live_photo": [
+    "live",
+    "photo",
+    "动图"
+  ],
+  "music_3": [
+    "music",
+    "sound",
+    "album",
+    "melody",
+    "音乐",
+    "声音",
+    "专辑",
+    "旋律"
+  ],
+  "voice": [
+    "voice",
+    "sound",
+    "wave",
+    "acoustic",
+    "声音",
+    "声波",
+    "响声"
+  ],
+  "mic_2": [
+    "mic",
+    "microphone",
+    "audio",
+    "podcast",
+    "麦",
+    "麦克风",
+    "音频",
+    "广播"
+  ],
+  "announcement": [
+    "volume",
+    "music",
+    "sound",
+    "alarm",
+    "notification",
+    "音量",
+    "喇叭",
+    "声音",
+    "通知"
+  ],
+  "airpods": [
+    "airpods",
+    "headphone",
+    "headset",
+    "music",
+    "audio",
+    "耳机",
+    "音乐",
+    "声音"
+  ],
+  "audio_tape": [
+    "tape",
+    "audio",
+    "record",
+    "cassette",
+    "磁带",
+    "录音",
+    "声音",
+    "音乐"
+  ],
+  "camera_rotate": [
+    "camera",
+    "rotate",
+    "selfie",
+    "相机",
+    "旋转",
+    "自拍"
+  ],
+  "expand_player": [
+    "expand",
+    "maximize",
+    "full",
+    "放大",
+    "最大化",
+    "全屏"
+  ],
+  "miniplayer": [
+    "minimize",
+    "resize",
+    "miniplayer",
+    "小窗",
+    "最小化",
+    "调小"
+  ],
+  "record_mail": [
+    "record",
+    "mail",
+    "voicemail",
+    "语音信箱",
+    "留言箱",
+    "录音"
+  ],
+  "rotate_to_horizontal": [
+    "rotate",
+    "horizontal",
+    "screen",
+    "旋转",
+    "水平方向",
+    "横屏"
+  ],
+  "rotate_to_vertical": [
+    "rotate",
+    "vertical",
+    "screen",
+    "旋转",
+    "竖直方向",
+    "竖屏"
+  ],
+  "bell_ringing": [
+    "bell",
+    "ringing",
+    "alarm",
+    "notification",
+    "铃声",
+    "警报",
+    "通知"
+  ],
+  "playlist_2": [
+    "playlist",
+    "music",
+    "list",
+    "播放清单",
+    "音乐",
+    "列表"
+  ],
+  "playlist": [
+    "playlist",
+    "music",
+    "list",
+    "播放清单",
+    "音乐",
+    "列表"
+  ],
+  "shuffle_2": [
+    "shuffle",
+    "random",
+    "audio",
+    "media",
+    "随机",
+    "音频",
+    "媒体"
+  ],
+  "voice_2": [
+    "voice",
+    "sound",
+    "wave",
+    "acoustic",
+    "声音",
+    "声波",
+    "响声"
+  ],
+  "camcorder_3": [
+    "camera",
+    "camcorder",
+    "record",
+    "摄像机",
+    "摄影机",
+    "录像",
+    "监控"
+  ],
+  "horn_2": [
+    "horn",
+    "alarm",
+    "sound",
+    "notification",
+    "喇叭",
+    "警报",
+    "声音",
+    "通知"
+  ],
+  "camcorder_off": [
+    "camera",
+    "camcorder",
+    "record",
+    "off",
+    "shut",
+    "摄像机",
+    "摄影机",
+    "录像",
+    "禁止",
+    "关闭"
+  ],
+  "camera_2_off": [
+    "camera",
+    "off",
+    "shut",
+    "相机",
+    "拍照",
+    "禁止",
+    "关闭"
+  ],
+  "danmaku": [
+    "danmaku",
+    "bullet",
+    "screen",
+    "barrage",
+    "comment",
+    "弹幕",
+    "评论"
+  ],
+  "danmaku_on": [
+    "danmaku",
+    "bullet",
+    "screen",
+    "barrage",
+    "comment",
+    "on",
+    "open",
+    "弹幕",
+    "评论",
+    "打开",
+    "开启"
+  ],
+  "danmaku_off": [
+    "danmaku",
+    "bullet",
+    "screen",
+    "barrage",
+    "comment",
+    "off",
+    "shut",
+    "弹幕",
+    "评论",
+    "禁止",
+    "关闭"
+  ],
+  "live": [
+    "tv",
+    "display",
+    "watch",
+    "live",
+    "电视",
+    "显示器",
+    "观看",
+    "直播"
+  ],
+  "sound_line": [
+    "voice",
+    "sound",
+    "wave",
+    "acoustic",
+    "声音",
+    "声波",
+    "响声"
+  ],
+  "video_camera": [
+    "camera",
+    "camcorder",
+    "record",
+    "摄像机",
+    "摄影机",
+    "录像",
+    "监控"
+  ],
+  "video_camera_2": [
+    "camera",
+    "camcorder",
+    "record",
+    "摄像机",
+    "摄影机",
+    "录像",
+    "监控"
+  ],
+  "camera_2_ai": [
+    "camera",
+    "photography",
+    "lens",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "美化",
+    "相机",
+    "镜头",
+    "拍照"
+  ],
+  "mic_2_ai": [
+    "mic",
+    "microphone",
+    "audio",
+    "podcast",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "麦",
+    "麦克风",
+    "音频",
+    "广播"
+  ],
+  "music_2_ai": [
+    "music",
+    "sound",
+    "album",
+    "melody",
+    "magic",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "魔法",
+    "音乐",
+    "声音",
+    "专辑",
+    "旋律"
+  ],
+  "rewind_backward_5": [
+    "fast",
+    "rewind",
+    "backwards",
+    "skip",
+    "5",
+    "向后",
+    "跳过",
+    "快退"
+  ],
+  "rewind_forward_5": [
+    "fast",
+    "forward",
+    "ahead",
+    "skip",
+    "5",
+    "向前",
+    "跳过",
+    "快进"
+  ],
+  "rewind_backward_10": [
+    "fast",
+    "rewind",
+    "backwards",
+    "skip",
+    "10",
+    "向后",
+    "跳过",
+    "快退"
+  ],
+  "rewind_forward_10": [
+    "fast",
+    "forward",
+    "ahead",
+    "skip",
+    "10",
+    "向前",
+    "跳过",
+    "快进"
+  ],
+  "rewind_backward_15": [
+    "fast",
+    "rewind",
+    "backwards",
+    "skip",
+    "15",
+    "向后",
+    "跳过",
+    "快退"
+  ],
+  "rewind_forward_15": [
+    "fast",
+    "forward",
+    "ahead",
+    "skip",
+    "15",
+    "向前",
+    "跳过",
+    "快进"
+  ],
+  "rewind_backward_30": [
+    "fast",
+    "rewind",
+    "backwards",
+    "skip",
+    "30",
+    "向后",
+    "跳过",
+    "快退"
+  ],
+  "rewind_forward_30": [
+    "fast",
+    "forward",
+    "ahead",
+    "skip",
+    "30",
+    "向前",
+    "跳过",
+    "快进"
+  ],
+  "rewind_backward_square_5": [
+    "fast",
+    "rewind",
+    "backwards",
+    "skip",
+    "5",
+    "向后",
+    "跳过",
+    "快退"
+  ],
+  "rewind_forward_square_5": [
+    "fast",
+    "forward",
+    "ahead",
+    "skip",
+    "5",
+    "向前",
+    "跳过",
+    "快进"
+  ],
+  "rewind_backward_square_10": [
+    "fast",
+    "rewind",
+    "backwards",
+    "skip",
+    "10",
+    "向后",
+    "跳过",
+    "快退"
+  ],
+  "rewind_forward_square_10": [
+    "fast",
+    "forward",
+    "ahead",
+    "skip",
+    "10",
+    "向前",
+    "跳过",
+    "快进"
+  ],
+  "rewind_backward_square_15": [
+    "fast",
+    "rewind",
+    "backwards",
+    "skip",
+    "15",
+    "向后",
+    "跳过",
+    "快退"
+  ],
+  "rewind_forward_square_15": [
+    "fast",
+    "forward",
+    "ahead",
+    "skip",
+    "15",
+    "向前",
+    "跳过",
+    "快进"
+  ],
+  "rewind_backward_square_30": [
+    "fast",
+    "rewind",
+    "backwards",
+    "skip",
+    "30",
+    "向后",
+    "跳过",
+    "快退"
+  ],
+  "rewind_forward_square_30": [
+    "fast",
+    "forward",
+    "ahead",
+    "skip",
+    "30",
+    "向前",
+    "跳过",
+    "快进"
+  ],
+  "camcorder_ai": [
+    "camera",
+    "camcorder",
+    "record",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "摄像机",
+    "摄影机",
+    "录像"
+  ],
+  "video_ai": [
+    "video",
+    "film",
+    "play",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "视频",
+    "影片",
+    "播放"
+  ],
+  "cactus_2": [
+    "cactus",
+    "desert",
+    "仙人掌",
+    "沙漠"
+  ],
+  "cactus": [
+    "cactus",
+    "desert",
+    "仙人掌",
+    "沙漠"
+  ],
+  "dandelion": [
+    "dandelion",
+    "plant",
+    "蒲公英",
+    "植物"
+  ],
+  "flowerpot": [
+    "flowerpot",
+    "plant",
+    "green",
+    "花盆",
+    "绿植"
+  ],
+  "grass": [
+    "grass",
+    "plant",
+    "草",
+    "植物"
+  ],
+  "leaf_2": [
+    "leaf",
+    "greenery",
+    "plant",
+    "clover",
+    "叶子",
+    "四叶草",
+    "绿植"
+  ],
+  "leaf_3": [
+    "leaf",
+    "greenery",
+    "love",
+    "clover",
+    "叶子",
+    "四叶草",
+    "爱心"
+  ],
+  "leaf": [
+    "leaf",
+    "greenery",
+    "plant",
+    "叶子",
+    "落叶",
+    "绿植"
+  ],
+  "lotus": [
+    "lotus",
+    "flower",
+    "plant",
+    "莲花",
+    "花",
+    "植物"
+  ],
+  "maple_leaf": [
+    "maple",
+    "leaf",
+    "tree",
+    "枫叶",
+    "落叶",
+    "枫树"
+  ],
+  "pumpkin": [
+    "pumpkin",
+    "food",
+    "plant",
+    "南瓜",
+    "食物",
+    "植物"
+  ],
+  "tree": [
+    "tree",
+    "christmas",
+    "pine",
+    "decorate",
+    "树",
+    "圣诞树",
+    "圣诞节",
+    "松树",
+    "装饰"
+  ],
+  "tree_2": [
+    "tree",
+    "greenery",
+    "forest",
+    "trunk",
+    "树",
+    "森林",
+    "树林",
+    "树干"
+  ],
+  "tree_3": [
+    "tree",
+    "greenery",
+    "forest",
+    "trunk",
+    "树",
+    "森林",
+    "树林",
+    "树干"
+  ],
+  "tree_4": [
+    "tree",
+    "greenery",
+    "forest",
+    "trunk",
+    "树",
+    "森林",
+    "树林",
+    "树干"
+  ],
+  "pig": [
+    "pig",
+    "animal",
+    "pork",
+    "piggy",
+    "猪",
+    "动物",
+    "猪肉",
+    "小猪"
+  ],
+  "bird": [
+    "bird",
+    "birdie",
+    "dickey",
+    "鸟",
+    "小鸟",
+    "鸟类"
+  ],
+  "butterfly": [
+    "butterfly",
+    "fly",
+    " wings",
+    "蝴蝶",
+    "飞",
+    "翅膀"
+  ],
+  "cat": [
+    "cat",
+    "pet",
+    "animal",
+    "猫",
+    "宠物",
+    "动物"
+  ],
+  "dog": [
+    "dog",
+    "pet",
+    "puppy",
+    "狗",
+    "宠物",
+    "小狗"
+  ],
+  "dragonfly": [
+    "dragonfly",
+    "fly",
+    "wings",
+    "蜻蜓",
+    "飞",
+    "翅膀"
+  ],
+  "flower": [
+    "flower",
+    "botany",
+    "garden",
+    "rose",
+    "花",
+    "植物",
+    "花园"
+  ],
+  "flower_2": [
+    "flower",
+    "botany",
+    "garden",
+    "rose",
+    "花",
+    "植物",
+    "花园"
+  ],
+  "flower_3": [
+    "flower",
+    "botany",
+    "garden",
+    "rose",
+    "花",
+    "植物",
+    "花园"
+  ],
+  "flower_4": [
+    "flower",
+    "botany",
+    "garden",
+    "rose",
+    "花",
+    "植物",
+    "花园"
+  ],
+  "mushroom": [
+    "mushroom",
+    "food",
+    "fungus",
+    "plant",
+    "蘑菇",
+    "植物",
+    "菌"
+  ],
+  "paw": [
+    "paw",
+    "animal",
+    "pets",
+    "foot",
+    "爪子",
+    "动物",
+    "宠物",
+    "足"
+  ],
+  "rabbit": [
+    "rabbit",
+    "animal",
+    "兔子",
+    "动物"
+  ],
+  "butterfly_2": [
+    "butterfly",
+    "fly",
+    "wings",
+    "蝴蝶",
+    "飞",
+    "翅膀"
+  ],
+  "campfire": [
+    "campfire",
+    "bonfire",
+    "pit",
+    "篝火",
+    "营火",
+    "野炊"
+  ],
+  "mountain": [
+    "mountain",
+    "peak",
+    "summit",
+    "snow",
+    "fujiyama",
+    "山峰",
+    "高峰",
+    "山",
+    "雪山",
+    "富士山"
+  ],
+  "mountain_2": [
+    "mountain",
+    "peak",
+    "summit",
+    "hiking",
+    "山峰",
+    "高峰",
+    "山",
+    "徒步"
+  ],
+  "sunflower": [
+    "flower",
+    "sunflower",
+    "botany",
+    "garden",
+    "rose",
+    "花",
+    "太阳花",
+    "植物",
+    "花园"
+  ],
+  "mickeymouse": [
+    "mickey",
+    "mouse",
+    "kids",
+    "cartoon",
+    "米奇",
+    "米老鼠",
+    "小孩",
+    "卡通"
+  ],
+  "bear": [
+    "bear",
+    "teddy",
+    "kids",
+    "toy",
+    "熊",
+    "泰迪熊",
+    "小孩",
+    "玩具"
+  ],
+  "chess": [
+    "chess",
+    "knight",
+    "game",
+    "sports",
+    "国际象棋",
+    "骑士",
+    "游戏",
+    "运动"
+  ],
+  "toy_horse": [
+    "horse",
+    "toy",
+    "child",
+    "rocking",
+    "木马",
+    "玩具",
+    "儿童",
+    "摇"
+  ],
+  "wreath": [
+    "wreath",
+    "garland",
+    "decorate",
+    "christmas",
+    "花环",
+    "装饰",
+    "圣诞节"
+  ],
+  "apple_fruit": [
+    "apple fruit",
+    "苹果",
+    "水果图标",
+    "健康食物",
+    "Apple",
+    "fruit icon",
+    "food illustration",
+    "healthy snack"
+  ],
+  "rose": [
+    "rose",
+    "玫瑰花",
+    "鲜花图标",
+    "爱情象征",
+    "Rose",
+    "flower icon",
+    "love symbol",
+    "floral design"
+  ],
+  "drawer_2": [
+    "drawer",
+    "cabinet",
+    "furniture",
+    "抽屉",
+    "柜子",
+    "家具"
+  ],
+  "drawer": [
+    "drawer",
+    "cabinet",
+    "furniture",
+    "抽屉",
+    "柜子",
+    "家具"
+  ],
+  "face_mask": [
+    "face",
+    "mask",
+    "medical",
+    "virus",
+    "口罩",
+    "医用",
+    "病毒"
+  ],
+  "wardrobe_2": [
+    "wardrobe",
+    "cabinet",
+    "furniture",
+    "衣柜",
+    "柜子",
+    "家具"
+  ],
+  "wardrobe": [
+    "wardrobe",
+    "cabinet",
+    "furniture",
+    "衣柜",
+    "柜子",
+    "家具"
+  ],
+  "yinyang": [
+    "yinyang",
+    "taichi",
+    "太极",
+    "阴阳"
+  ],
+  "axe": [
+    "axe",
+    "tool",
+    "hatchet",
+    "斧头",
+    "工具",
+    "砍伐"
+  ],
+  "hammer": [
+    "hammer",
+    "tool",
+    "construction",
+    "锤子",
+    "工具",
+    "施工"
+  ],
+  "hand_card": [
+    "hand",
+    "card",
+    "swipe",
+    "刷卡",
+    "持卡"
+  ],
+  "hand_heart": [
+    "hand",
+    "heart",
+    "love",
+    "爱",
+    "心",
+    "献"
+  ],
+  "hoe": [
+    "hoe",
+    "dig",
+    "farm",
+    "cultivate",
+    "锄头",
+    "挖",
+    "种地",
+    "耕种"
+  ],
+  "pickax": [
+    "pickax",
+    "dig",
+    "farm",
+    "cultivate",
+    "鹤嘴锄",
+    "种地",
+    "耕种"
+  ],
+  "pot": [
+    "pot",
+    "water",
+    "kettle",
+    "洒水壶",
+    "浇水",
+    "水壶"
+  ],
+  "rake": [
+    "rake",
+    "farm",
+    "cultivate",
+    "耙子",
+    "种地",
+    "耕种"
+  ],
+  "shovel": [
+    "shovel",
+    "dig",
+    "farm",
+    "铁锹",
+    "挖",
+    "铲",
+    "种地"
+  ],
+  "bomb": [
+    "bomb",
+    "explosion",
+    "weapon",
+    "炸弹",
+    "爆炸",
+    "武器"
+  ],
+  "boom": [
+    "boom",
+    "explosion",
+    "spark",
+    "轰隆",
+    "爆",
+    "火花"
+  ],
+  "capsule": [
+    "capsule",
+    "drug",
+    "medicine",
+    "胶囊",
+    "药",
+    "药物"
+  ],
+  "star_2": [
+    "star",
+    "favorites",
+    "星星",
+    "星标",
+    "收藏夹"
+  ],
+  "cross_2": [
+    "cross",
+    "church",
+    "prayer",
+    "十字叉",
+    "教堂",
+    "祷告"
+  ],
+  "curtain": [
+    "curtain",
+    "window",
+    "窗帘",
+    "窗户",
+    "幕布"
+  ],
+  "kite": [
+    "kite",
+    "fly",
+    "风筝",
+    "飞"
+  ],
+  "thought": [
+    "thought",
+    "bubble",
+    "idea",
+    "思维",
+    "想法",
+    "主意"
+  ],
+  "virus": [
+    "virus",
+    "illness",
+    "infection",
+    "病毒",
+    "疾病",
+    "感染"
+  ],
+  "first_aid_kit": [
+    "first",
+    "emergency",
+    "medical",
+    "kit",
+    "急救箱",
+    "医疗包",
+    "求援包"
+  ],
+  "injection": [
+    "injection",
+    "vaccine",
+    "syringe",
+    "immunization",
+    "打针",
+    "注射",
+    "针筒",
+    "免疫接种"
+  ],
+  "nurse": [
+    "nurse",
+    "healthcare",
+    "caregiver",
+    "护士",
+    "医护人员",
+    "护理"
+  ],
+  "prescription": [
+    "prescription",
+    "medication",
+    "order",
+    "drug",
+    "处方",
+    "药方",
+    "处方药"
+  ],
+  "stethoscope": [
+    "stethoscope",
+    "instrument",
+    "auscultation",
+    "doctor",
+    "听诊器",
+    "仪器",
+    "医生"
+  ],
+  "bedside_table": [
+    "bedside",
+    "table",
+    "cabinet",
+    "furniture",
+    "床头柜",
+    "柜子",
+    "家具"
+  ],
+  "bedside_table_2": [
+    "bedside",
+    "table",
+    "cabinet",
+    "furniture",
+    "床头柜",
+    "柜子",
+    "家具"
+  ],
+  "bottle": [
+    "bottle",
+    "flask",
+    "medicine",
+    "furniture",
+    "瓶子",
+    "药瓶",
+    "罐"
+  ],
+  "crystal_ball": [
+    "crystal",
+    "ball",
+    "magic",
+    "toy",
+    "AI",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "水晶",
+    "球",
+    "魔法",
+    "玩具"
+  ],
+  "random": [
+    "random",
+    "dice",
+    "gambling",
+    "5",
+    "随机",
+    "骰子",
+    "赌博"
+  ],
+  "screwdriver": [
+    "screwdriver",
+    "fix",
+    "tool",
+    "螺丝刀",
+    "修理",
+    "工具"
+  ],
+  "shower_gel": [
+    "shower",
+    "gel",
+    "shampoo",
+    "clean",
+    "沐浴露",
+    "洗发水",
+    "清洁"
+  ],
+  "star_topper": [
+    "star",
+    "topper",
+    "christmas",
+    "tree",
+    "星星",
+    "顶",
+    "圣诞"
+  ],
+  "lipstick": [
+    "lipstick",
+    "beauty",
+    "cosmetics",
+    "lippy",
+    "口红",
+    "唇膏",
+    "化妆品",
+    "美"
+  ],
+  "parfum": [
+    "perfume",
+    "parfum",
+    "spray",
+    "cosmetics",
+    "香水",
+    "喷香水",
+    "化妆品"
+  ],
+  "flower_5": [
+    "flower",
+    "botany",
+    "garden",
+    "rose",
+    "花",
+    "植物",
+    "花园"
+  ],
+  "watering_can": [
+    "spray",
+    "bottle",
+    "water",
+    "nozzle",
+    "喷壶",
+    "喷雾",
+    "喷水",
+    "喷嘴"
+  ],
+  "beard": [
+    "beard",
+    "mustache",
+    "face",
+    "胡须",
+    "胡子",
+    "脸"
+  ],
+  "body": [
+    "body",
+    "waist",
+    "身体",
+    "腰"
+  ],
+  "ear": [
+    "ear",
+    "hearing",
+    "耳朵",
+    "听力"
+  ],
+  "eye_2": [
+    "eye",
+    "watch",
+    "view",
+    "眼睛",
+    "观察",
+    "看"
+  ],
+  "eyebrow": [
+    "eyebrow",
+    "eye",
+    "眼",
+    "眉毛"
+  ],
+  "face": [
+    "face",
+    "head",
+    "脸",
+    "面部",
+    "头"
+  ],
+  "hair": [
+    "hair",
+    "woman",
+    "女性",
+    "头发"
+  ],
+  "hair_2": [
+    "hair",
+    "woman",
+    "女性",
+    "头发"
+  ],
+  "mouth": [
+    "mouth",
+    "lip",
+    "嘴",
+    "嘴唇"
+  ],
+  "nose": [
+    "nose",
+    "鼻子"
+  ],
+  "bow_tie": [
+    "bow",
+    "bowknot",
+    "tie",
+    "accessories",
+    "蝴蝶结",
+    "领结",
+    "配饰"
+  ],
+  "brief": [
+    "briefs",
+    "past",
+    "underpants",
+    "diapers",
+    "内裤",
+    "短裤",
+    "纸尿裤"
+  ],
+  "coat": [
+    "coat",
+    "jacket",
+    "overcoat",
+    "suit",
+    "外套",
+    "上衣",
+    "大衣"
+  ],
+  "dental": [
+    "dental",
+    "tooth",
+    "mouth",
+    "牙科",
+    "牙齿",
+    "口腔"
+  ],
+  "finger_press": [
+    "finger",
+    "press",
+    "hand",
+    "gesture",
+    "手势",
+    "手指",
+    "按压"
+  ],
+  "finger_rock": [
+    "finger",
+    "rock",
+    "hand",
+    "love",
+    "gesture",
+    "手指",
+    "爱",
+    "手势"
+  ],
+  "finger_swipe": [
+    "finger",
+    "swipe",
+    "move",
+    "gesture",
+    "手指",
+    "轻扫",
+    "手势"
+  ],
+  "finger_tap": [
+    "finger",
+    "tap",
+    "click",
+    "gesture",
+    "手指",
+    "点击",
+    "手势"
+  ],
+  "glove": [
+    "glove",
+    "warm",
+    "christmas",
+    "手套",
+    "保暖",
+    "圣诞节"
+  ],
+  "hand": [
+    "hand",
+    "palm",
+    "gesture",
+    "stop",
+    "手",
+    "手掌",
+    "手势",
+    "停止"
+  ],
+  "hand_finger_2": [
+    "hand",
+    "finger",
+    "forefinger",
+    "手",
+    "食指",
+    "手指"
+  ],
+  "hand_finger": [
+    "hand",
+    "finger",
+    "forefinger",
+    "手",
+    "食指",
+    "手指"
+  ],
+  "hand_grab": [
+    "hand",
+    "grab",
+    "hold",
+    "fist",
+    "抓",
+    "握",
+    "拳头",
+    "手"
+  ],
+  "hand_two_fingers": [
+    "hand",
+    "finger",
+    "two",
+    "手",
+    "两根",
+    "手指"
+  ],
+  "hat_2": [
+    "cap",
+    "hat",
+    "headgear",
+    "帽子",
+    "礼帽",
+    "头套"
+  ],
+  "hat": [
+    "cap",
+    "hat",
+    "headgear",
+    "帽子",
+    "礼帽",
+    "头套"
+  ],
+  "middle_finger": [
+    "hand",
+    "finger",
+    "middle",
+    "手",
+    "中指",
+    "手指"
+  ],
+  "necktie": [
+    "necktie",
+    "business",
+    "tie",
+    "领带",
+    "商业",
+    "职业"
+  ],
+  "scarf": [
+    "scarf",
+    "warm",
+    "accessories",
+    "围巾",
+    "保暖",
+    "配饰"
+  ],
+  "shirt": [
+    "shirt",
+    "clothes",
+    "blouse",
+    "衬衣",
+    "衣服",
+    "衬衫"
+  ],
+  "shoe_2": [
+    "shoe",
+    "heels",
+    "woman",
+    "鞋",
+    "高跟鞋",
+    "女鞋"
+  ],
+  "shoe": [
+    "shoe",
+    "sport",
+    "man",
+    "鞋",
+    "运动鞋",
+    "男鞋"
+  ],
+  "shorts": [
+    "shorts",
+    "trouser",
+    "underpants",
+    "短裤",
+    "裤子",
+    "内裤"
+  ],
+  "skirt": [
+    "skirt",
+    "dress",
+    "clothes",
+    "裙子",
+    "连衣裙",
+    "衣服"
+  ],
+  "sock": [
+    "history",
+    "past",
+    "recovery",
+    "christmas",
+    "历史",
+    "过去",
+    "恢复",
+    "圣诞节"
+  ],
+  "t_shirt_2": [
+    "t",
+    "shirt",
+    "skin",
+    "clothes",
+    "shirt",
+    "t恤",
+    "衣服",
+    "皮肤",
+    "t恤",
+    "T恤"
+  ],
+  "trouser": [
+    "trousers",
+    "jeans",
+    "pants",
+    "裤子",
+    "牛仔裤",
+    "长裤"
+  ],
+  "vest": [
+    "vest",
+    "sleeveless",
+    "clothes",
+    "背心",
+    "马甲",
+    "无袖"
+  ],
+  "bowknot": [
+    "bow",
+    "bowknot",
+    "tie",
+    "accessories",
+    "christmas",
+    "蝴蝶结",
+    "领结",
+    "配饰",
+    "圣诞节"
+  ],
+  "christmas_hat": [
+    "christmas",
+    "hat",
+    "nightcap",
+    "cap",
+    "圣诞",
+    "帽子",
+    "睡帽"
+  ],
+  "deer": [
+    "deer",
+    "antler",
+    "christmas",
+    "鹿",
+    "鹿角",
+    "圣诞节"
+  ],
+  "father_christmas": [
+    "father",
+    "christmas",
+    "圣诞老人",
+    "爷爷"
+  ],
+  "head": [
+    "head",
+    "person",
+    "brain",
+    "头",
+    "人",
+    "脑"
+  ],
+  "incognito_mode": [
+    "incognito",
+    "mode",
+    "spy",
+    "无痕模式",
+    "间谍",
+    "隐私"
+  ],
+  "skull": [
+    "skull",
+    "halloween",
+    "skeleton",
+    "horror",
+    "骷髅头",
+    "头骨",
+    "万圣节",
+    "恐怖"
+  ],
+  "baby": [
+    "baby",
+    "infant",
+    "child",
+    "婴儿",
+    "儿童",
+    "小孩"
+  ],
+  "brain": [
+    "brain",
+    "mind",
+    "iq",
+    "脑",
+    "思维",
+    "智商"
+  ],
+  "hands_clapping": [
+    "hands",
+    "clapping",
+    "welcome",
+    "good",
+    "鼓掌",
+    "欢迎",
+    "赞赏"
+  ],
+  "dress": [
+    "skirt",
+    "dress",
+    "clothes",
+    "裙子",
+    "连衣裙",
+    "衣服"
+  ],
+  "heartbeat_2": [
+    "heartbeat",
+    "pulse",
+    "lifeline",
+    "heartrate",
+    "心跳",
+    "脉搏",
+    "生命线",
+    "心率"
+  ],
+  "love": [
+    "heart",
+    "love",
+    "valentine",
+    "romantic",
+    "爱",
+    "情人节",
+    "浪漫"
+  ],
+  "pray": [
+    "pray",
+    "blessing",
+    "faith",
+    "祈祷",
+    "祷告",
+    "祝福",
+    "信仰"
+  ],
+  "lungs": [
+    "lungs",
+    "respiratory",
+    "pulmonary",
+    "肺",
+    "呼吸",
+    "肺部",
+    "器官"
+  ],
+  "finger_love": [
+    "finger love",
+    "手势比心",
+    "爱心手势",
+    "手势图标",
+    "Finger heart",
+    "korean love sign",
+    "hand gesture",
+    "love icon"
+  ],
+  "finger_victory": [
+    "finger victory",
+    "胜利手势",
+    "V字手势",
+    "和平手势",
+    "V sign",
+    "peace sign",
+    "victory gesture"
+  ],
+  "head_ai": [
+    "head ai",
+    "人工智能",
+    "科技图标",
+    "大脑和AI",
+    "Head and AI",
+    "artificial intelligence",
+    "technology icon",
+    "machine learning"
+  ],
+  "wave_hand": [
+    "wave hand",
+    "挥手",
+    "打招呼手势",
+    "告别图标",
+    "Waving hand",
+    "hello gesture",
+    "goodbye icon",
+    "hand symbol"
+  ],
+  "pentagon": [
+    "pentagon",
+    "home",
+    "house",
+    "dashboard",
+    "五边形",
+    "主页",
+    "房子",
+    "家"
+  ],
+  "heart": [
+    "heart",
+    "love",
+    "心",
+    "爱心"
+  ],
+  "hexagon": [
+    "hexagon",
+    "polygons",
+    "shapes",
+    "六边形",
+    "多边形",
+    "形状"
+  ],
+  "round": [
+    "round",
+    "round",
+    "shapes",
+    "圆圈",
+    "圆形",
+    "形状"
+  ],
+  "shield_shape": [
+    "shield",
+    "security",
+    "safe",
+    "protect",
+    "安全",
+    "盾",
+    "保护"
+  ],
+  "square": [
+    "square",
+    "window",
+    "正方形",
+    "最大化",
+    "一口叉"
+  ],
+  "star": [
+    "star",
+    "favorites",
+    "星星",
+    "星标",
+    "收藏夹"
+  ],
+  "triangle": [
+    "triangle",
+    "polygons",
+    "shapes",
+    "三角形",
+    "多边形",
+    "形状"
+  ],
+  "diamond": [
+    "diamond",
+    "rectangle",
+    "polygons",
+    "菱形",
+    "方形",
+    "多边形"
+  ],
+  "octagon": [
+    "octagon",
+    "polygons",
+    "shapes",
+    "八边形",
+    "多边形",
+    "形状"
+  ],
+  "clubs": [
+    "clubs",
+    "poker",
+    "gamble",
+    "梅花",
+    "扑克",
+    "赌博"
+  ],
+  "heart_half": [
+    "heart",
+    "half",
+    "love",
+    "半心",
+    "爱心",
+    "一半"
+  ],
+  "spade": [
+    "spade",
+    "poker",
+    "gamble",
+    "黑桃",
+    "扑克",
+    "赌博"
+  ],
+  "star_half": [
+    "star",
+    "half",
+    "favorites",
+    "半星",
+    "星星",
+    "一半"
+  ],
+  "heart_crack": [
+    "heart",
+    "crack",
+    "broken",
+    "心",
+    "碎",
+    "裂"
+  ],
+  "diamond_square": [
+    "diamond",
+    "square",
+    "poker",
+    "gambling",
+    "菱形",
+    "方块",
+    "扑克",
+    "赌博"
+  ],
+  "sector": [
+    "circular",
+    "sector",
+    "pie",
+    "radian",
+    "扇形",
+    "饼状",
+    "弧度"
+  ],
+  "cylinder": [
+    "cylinder",
+    "geometry",
+    "tube",
+    "圆柱体",
+    "管子",
+    "几何体"
+  ],
+  "line": [
+    "line",
+    "geometry",
+    "straight",
+    "直线",
+    "线段",
+    "几何体"
+  ],
+  "rectangle": [
+    "rectangle",
+    "geometry",
+    "shape",
+    "长方形",
+    "形状",
+    "几何体"
+  ],
+  "rectangle_vertical": [
+    "rectangle",
+    "geometry",
+    "shape",
+    "vertical",
+    "长方形",
+    "形状",
+    "几何体",
+    "竖直"
+  ],
+  "cylinder_2": [
+    "cylinder",
+    "geometry",
+    "tube",
+    "圆柱体",
+    "管子",
+    "几何体"
+  ],
+  "hemisphere": [
+    "hemisphere",
+    "geometry",
+    "shape",
+    "3d",
+    "半球",
+    "形状",
+    "几何体"
+  ],
+  "hemisphere_2": [
+    "hemisphere",
+    "geometry",
+    "shape",
+    "3d",
+    "半球",
+    "形状",
+    "几何体"
+  ],
+  "barbell": [
+    "barbell",
+    "fitness",
+    "gym",
+    "powerlift",
+    "杠铃",
+    "健身房",
+    "举重"
+  ],
+  "air_balloon": [
+    "air",
+    "balloon",
+    "fire",
+    "travel",
+    "fly",
+    "热气球",
+    "旅游",
+    "飞"
+  ],
+  "american_football": [
+    "american",
+    "football",
+    "soccer",
+    "足球",
+    "美式",
+    "橄榄球"
+  ],
+  "backboard": [
+    "backboard",
+    "basketball",
+    "篮板",
+    "蓝框",
+    "篮球"
+  ],
+  "badminton": [
+    "badminton",
+    "feather",
+    "sport",
+    "羽毛球",
+    "体育运动"
+  ],
+  "baseball": [
+    "baseball",
+    "sport",
+    "棒球",
+    "体育运动"
+  ],
+  "basketball": [
+    "basketball",
+    "sport",
+    "nba",
+    "篮球",
+    "体育运动",
+    "美职篮"
+  ],
+  "fitness": [
+    "fitness",
+    "arm",
+    "power",
+    "健身",
+    "胳膊",
+    "力量"
+  ],
+  "football": [
+    "football",
+    "soccer",
+    "sport",
+    "足球",
+    "体育运动"
+  ],
+  "parachute": [
+    "parachute",
+    "aircraft",
+    "land",
+    "降落伞",
+    "飞行器",
+    "落地"
+  ],
+  "pingpong": [
+    "pingpong",
+    "table",
+    "tennis",
+    "racket",
+    "乒乓球",
+    "桌球",
+    "球拍"
+  ],
+  "playground": [
+    "playground",
+    "field",
+    "ground",
+    "球场",
+    "场地",
+    "操场"
+  ],
+  "skateboard": [
+    "skateboard",
+    "adventure",
+    "sport",
+    "滑板",
+    "极限",
+    "运动"
+  ],
+  "surfboard": [
+    "surfboard",
+    "longboard",
+    "sport",
+    "冲浪板",
+    "冲浪",
+    "体育运动"
+  ],
+  "swimming_pool": [
+    "swimming",
+    "pool",
+    "vacation",
+    "游泳池",
+    "游泳",
+    "假期"
+  ],
+  "toxophily": [
+    "toxophily",
+    "bow",
+    "arrow",
+    "弓箭",
+    "射箭",
+    "运动"
+  ],
+  "volleyball": [
+    "volleyball",
+    "sport",
+    "排球",
+    "体育运动"
+  ],
+  "sword": [
+    "sword",
+    "weapon",
+    "war",
+    "game",
+    "剑",
+    "武器",
+    "战争",
+    "游戏"
+  ],
+  "baseball_2": [
+    "baseball",
+    "sport",
+    "棒球",
+    "体育运动"
+  ],
+  "beachball": [
+    "beachball",
+    "colorful",
+    "ball",
+    "cursor",
+    "沙滩球",
+    "彩球",
+    "充气球",
+    "指针球"
+  ],
+  "whistle": [
+    "whistle",
+    "sport",
+    "referee",
+    "哨子",
+    "口哨",
+    "裁判"
+  ],
+  "disabled": [
+    "disabled",
+    "wheelchair",
+    "accessible",
+    "handicapped",
+    "残疾",
+    "轮椅",
+    "无障碍",
+    "残疾人"
+  ],
+  "disabled_2": [
+    "disabled",
+    "wheelchair",
+    "accessible",
+    "handicapped",
+    "残疾",
+    "轮椅",
+    "无障碍",
+    "残疾人"
+  ],
+  "wheelchair": [
+    "disabled",
+    "wheelchair",
+    "accessible",
+    "handicapped",
+    "残疾",
+    "轮椅",
+    "无障碍",
+    "残疾人"
+  ],
+  "cooldown": [
+    "cooldown",
+    "运动放松",
+    "整理运动",
+    "拉伸",
+    "post-workout",
+    "stretching",
+    "recovery"
+  ],
+  "figure": [
+    "figure",
+    "身材",
+    "体型塑造",
+    "健美",
+    "body shape",
+    "physique",
+    "sculpting"
+  ],
+  "flexibility": [
+    "flexibility",
+    "柔韧性",
+    "拉伸运动",
+    "关节活动度",
+    "stretching",
+    "range of motion",
+    "mobility exercises"
+  ],
+  "high_knees": [
+    "high knees",
+    "高抬腿",
+    "有氧运动",
+    "跑步训练",
+    "cardio drill",
+    "running warm-up",
+    "plyometrics"
+  ],
+  "hiking": [
+    "hiking",
+    "徒步",
+    "远足",
+    "登山",
+    "trekking",
+    "outdoor sports",
+    "trail walking"
+  ],
+  "hop": [
+    "hop",
+    "单脚跳",
+    "弹跳训练",
+    "敏捷性",
+    "single leg jump",
+    "plyometric training",
+    "agility drill"
+  ],
+  "indoor_rowing": [
+    "indoor rowing",
+    "室内划船",
+    "划船机",
+    "有氧器械",
+    "rowing machine",
+    "ergometer",
+    "cardio equipment"
+  ],
+  "jump": [
+    "jump",
+    "跳跃",
+    "弹跳力",
+    "爆发力",
+    "plyometrics",
+    "vertical jump",
+    "explosive power"
+  ],
+  "lie_down": [
+    "lie_down",
+    "躺下",
+    "休息",
+    "仰卧姿势",
+    "reclining pose",
+    "rest position",
+    "supine"
+  ],
+  "play_football": [
+    "play football",
+    "踢足球",
+    "足球运动",
+    "团队运动",
+    "soccer",
+    "football game",
+    "team sport"
+  ],
+  "run_treadmill": [
+    "run treadmill",
+    "跑步机",
+    "跑步训练",
+    "室内跑步",
+    "treadmill running",
+    "indoor cardio",
+    "gym equipment"
+  ],
+  "skateboarding": [
+    "skateboarding",
+    "滑板",
+    "街头运动",
+    "极限运动",
+    "skateboard",
+    "action sports",
+    "street skating"
+  ],
+  "snowboarding": [
+    "snowboarding",
+    "单板滑雪",
+    "雪上运动",
+    "冬季运动",
+    "snowboard",
+    "winter sports",
+    "slope riding"
+  ],
+  "squats": [
+    "squats",
+    "深蹲",
+    "力量训练",
+    "腿部训练",
+    "strength training",
+    "leg workout",
+    "bodyweight exercise"
+  ],
+  "stair_stepper": [
+    "stair stepper",
+    "爬楼梯机",
+    "踏步机",
+    "有氧运动",
+    "stepper machine",
+    "stair climber",
+    "cardio workout"
+  ],
+  "swimming": [
+    "swimming",
+    "游泳",
+    "水中运动",
+    "泳池",
+    "aquatic sports",
+    "pool workout",
+    "freestyle"
+  ],
+  "warm_up": [
+    "warm up",
+    "热身运动",
+    "准备活动",
+    "拉伸",
+    "pre-workout",
+    "stretching",
+    "exercise prep"
+  ],
+  "warm_up_2": [
+    "warm up",
+    "动态热身",
+    "运动前准备",
+    "关节活动",
+    "dynamic warm-up",
+    "pre-exercise routine",
+    "joint mobilization"
+  ],
+  "warm_up_3": [
+    "warm up",
+    "静态拉伸",
+    "赛前热身",
+    "肌肉激活",
+    "static stretching",
+    "muscle activation",
+    "pre-game prep"
+  ],
+  "weightlifting": [
+    "weightlifting",
+    "举重",
+    "力量训练",
+    "健身房",
+    "powerlifting",
+    "strength training",
+    "gym workout"
+  ],
+  "yoga": [
+    "yoga",
+    "瑜伽",
+    "冥想",
+    "体式",
+    "meditation",
+    "yoga pose",
+    "mindfulness"
+  ],
+  "zazen": [
+    "zazen",
+    "坐禅",
+    "禅修",
+    "冥想",
+    "Zen meditation",
+    "sitting practice",
+    "mindfulness"
+  ],
+  "check_circle": [
+    "checks",
+    "tick",
+    "success",
+    "confirm",
+    "完成",
+    "选中",
+    "正确",
+    "√"
+  ],
+  "add_circle": [
+    "add_circle",
+    "plus",
+    "new",
+    "+",
+    "添加",
+    "创建",
+    "加"
+  ],
+  "alert": [
+    "alert",
+    "warning",
+    "danger",
+    "caution",
+    "警告",
+    "危险",
+    "警报",
+    "警示"
+  ],
+  "brush": [
+    "brush",
+    "painter",
+    "color",
+    "picker",
+    "刷子",
+    "涂画",
+    "颜色",
+    "拾色器"
+  ],
+  "check": [
+    "checks",
+    "tick",
+    "success",
+    "confirm",
+    "完成",
+    "选中",
+    "正确",
+    "√"
+  ],
+  "close_circle": [
+    "close",
+    "error",
+    "fault",
+    "delete",
+    "关闭",
+    "错误",
+    "x",
+    "删除"
+  ],
+  "close": [
+    "close",
+    "error",
+    "fault",
+    "delete",
+    "关闭",
+    "错误",
+    "x",
+    "删除",
+    "一口叉"
+  ],
+  "delete": [
+    "delete",
+    "garbage",
+    "remove",
+    "uninstall",
+    "删除",
+    "移除",
+    "垃圾箱",
+    "卸载"
+  ],
+  "eye_close": [
+    "hide",
+    "closed",
+    "eye",
+    "invisible",
+    "隐藏",
+    "闭眼",
+    "眼睛",
+    "不可见"
+  ],
+  "eye": [
+    "eye",
+    "watch",
+    "view",
+    "眼睛",
+    "观察",
+    "看"
+  ],
+  "fire": [
+    "flame",
+    "fire",
+    "bonfire",
+    "火焰",
+    "火",
+    "火堆"
+  ],
+  "forbid_circle": [
+    "forbid",
+    "circle",
+    "cancelled",
+    "prevent",
+    "stop",
+    "取消",
+    "阻止",
+    "停止",
+    "禁止"
+  ],
+  "grid": [
+    "grid",
+    "more",
+    "classify",
+    "网格",
+    "更多",
+    "分类"
+  ],
+  "history": [
+    "history",
+    "past",
+    "recovery",
+    "历史",
+    "过去",
+    "恢复"
+  ],
+  "information": [
+    "information",
+    "info",
+    "support",
+    "help",
+    "信息",
+    "支持",
+    "帮助",
+    "提示"
+  ],
+  "key_1": [
+    "key",
+    "authentication",
+    "login",
+    "encrypted",
+    "钥匙",
+    "验证",
+    "登录",
+    "加密"
+  ],
+  "key_2": [
+    "key",
+    "authentication",
+    "login",
+    "encrypted",
+    "钥匙",
+    "验证",
+    "登录",
+    "加密"
+  ],
+  "lock": [
+    "lock",
+    "security",
+    "password",
+    "锁",
+    "安全",
+    "密码"
+  ],
+  "minus_circle": [
+    "minus",
+    "subtraction",
+    "difference",
+    "arithmetic",
+    "减去",
+    "算术",
+    "差",
+    "减"
+  ],
+  "power": [
+    "power",
+    "charged",
+    "on",
+    "off",
+    "switch",
+    "开关",
+    "电源",
+    "充电",
+    "开",
+    "关"
+  ],
+  "question": [
+    "question",
+    "ask",
+    "help",
+    "info",
+    "support",
+    "帮助",
+    "提示",
+    "支持",
+    "问",
+    "问题"
+  ],
+  "refresh_1": [
+    "refresh",
+    "synchronization",
+    "reload",
+    "restart",
+    "刷新",
+    "同步",
+    "重新加载",
+    "重启"
+  ],
+  "refresh_2": [
+    "refresh",
+    "synchronization",
+    "reload",
+    "restart",
+    "刷新",
+    "同步",
+    "重新加载",
+    "重启"
+  ],
+  "send_plane": [
+    "send",
+    "plane",
+    "mail",
+    "发送",
+    "飞机",
+    "发出"
+  ],
+  "settings_1": [
+    "adjustments",
+    "settings",
+    "gear",
+    "control",
+    "调整",
+    "设置",
+    "齿轮",
+    "控制"
+  ],
+  "settings_2": [
+    "adjustments",
+    "settings",
+    "control",
+    "调整",
+    "设置",
+    "控制"
+  ],
+  "settings_3": [
+    "adjustments",
+    "settings",
+    "gear",
+    "control",
+    "调整",
+    "设置",
+    "齿轮",
+    "控制"
+  ],
+  "share_forward": [
+    "share",
+    "forward",
+    "export",
+    "forward",
+    "导出",
+    "分享",
+    "转发"
+  ],
+  "shield": [
+    "shield",
+    "security",
+    "safe",
+    "protect",
+    "安全",
+    "盾",
+    "保护"
+  ],
+  "t_shirt": [
+    "t",
+    "shirt",
+    "skin",
+    "clothes",
+    "shirt",
+    "t恤",
+    "衣服",
+    "皮肤",
+    "t恤",
+    "T恤"
+  ],
+  "thumb_down": [
+    "thumb_down",
+    "dislike",
+    "bad",
+    "踩",
+    "不喜欢",
+    "差",
+    "坏"
+  ],
+  "thumb_up": [
+    "thumb_up",
+    "like",
+    "good",
+    "顶",
+    "顶好",
+    "喜欢",
+    "赞赏",
+    "支持",
+    "点赞"
+  ],
+  "time": [
+    "time",
+    "clock",
+    "timer",
+    "alarm",
+    "watch",
+    "时间",
+    "时钟",
+    "计时器",
+    "闹钟",
+    "钟表"
+  ],
+  "version": [
+    "version",
+    "app",
+    "variant",
+    "版本",
+    "应用程序",
+    "变体"
+  ],
+  "warning": [
+    "alert",
+    "warning",
+    "danger",
+    "caution",
+    "警告",
+    "危险",
+    "警报",
+    "警示",
+    "提示"
+  ],
+  "door": [
+    "door",
+    "entrance",
+    "exit",
+    "门",
+    "出口",
+    "入口"
+  ],
+  "entrance": [
+    "enter",
+    "door",
+    "entrance",
+    "进门",
+    "入口",
+    "进入"
+  ],
+  "exit": [
+    "exit",
+    "door",
+    "出门",
+    "出口",
+    "退出"
+  ],
+  "grid_2": [
+    "grid",
+    "more",
+    "classify",
+    "网格",
+    "更多",
+    "分类"
+  ],
+  "open_door": [
+    "open",
+    "door",
+    "entrance",
+    "exit",
+    "开门",
+    "出口",
+    "入口"
+  ],
+  "settings_4": [
+    "adjustments",
+    "settings",
+    "gear",
+    "control",
+    "调整",
+    "设置",
+    "齿轮",
+    "控制"
+  ],
+  "share_2": [
+    "share",
+    "forward",
+    "export",
+    "forward",
+    "导出",
+    "分享",
+    "转发"
+  ],
+  "share_3": [
+    "share",
+    "forward",
+    "export",
+    "forward",
+    "导出",
+    "分享",
+    "转发"
+  ],
+  "tool": [
+    "tool",
+    "fix",
+    "工具",
+    "修理"
+  ],
+  "minimize": [
+    "minimize",
+    "minus",
+    "最小化",
+    "减",
+    "一口叉"
+  ],
+  "restore": [
+    "restore",
+    "window",
+    "窗口化",
+    "还原",
+    "一口叉"
+  ],
+  "alert_octagon": [
+    "alert",
+    "octagon",
+    "warning",
+    "danger",
+    "caution",
+    "警告",
+    "危险",
+    "警报",
+    "警示"
+  ],
+  "certificate": [
+    "certificate",
+    "official",
+    "qualification",
+    "认证",
+    "官方",
+    "资质"
+  ],
+  "delete_back": [
+    "delete",
+    "back",
+    "backspace",
+    "remove",
+    "回退",
+    "删除",
+    "退格",
+    "移除"
+  ],
+  "unlock": [
+    "unlock",
+    "open",
+    "开锁",
+    "解锁"
+  ],
+  "safety_certificate": [
+    "safety",
+    "certificate",
+    "security",
+    "qualification",
+    "protect",
+    "证书",
+    "安全认证",
+    "资质",
+    "保护"
+  ],
+  "filter_2": [
+    "filter",
+    "funnel",
+    "hopper",
+    "filtration",
+    "筛选",
+    "漏斗",
+    "过滤"
+  ],
+  "delete_2": [
+    "delete",
+    "garbage",
+    "remove",
+    "uninstall",
+    "删除",
+    "移除",
+    "垃圾箱",
+    "卸载"
+  ],
+  "wastebasket": [
+    "delete",
+    "garbage",
+    "remove",
+    "wastebasket",
+    "删除",
+    "移除",
+    "垃圾箱",
+    "废纸篓"
+  ],
+  "ghost": [
+    "ghost",
+    "spirit",
+    "horror",
+    "鬼",
+    "灵魂",
+    "恐怖"
+  ],
+  "settings_5": [
+    "adjustments",
+    "settings",
+    "gear",
+    "control",
+    "调整",
+    "设置",
+    "齿轮",
+    "控制"
+  ],
+  "enter_door": [
+    "enter",
+    "door",
+    "entrance",
+    "进门",
+    "入口",
+    "进入"
+  ],
+  "exit_door": [
+    "exit",
+    "door",
+    "出门",
+    "出口",
+    "退出"
+  ],
+  "faceid": [
+    "faceid",
+    "scan",
+    "人脸识别",
+    "刷脸"
+  ],
+  "fingerprint": [
+    "fingerprint",
+    "identify",
+    "security",
+    "指纹",
+    "识别",
+    "安全"
+  ],
+  "fingerprint_2": [
+    "fingerprint",
+    "identify",
+    "security",
+    "指纹",
+    "识别",
+    "安全"
+  ],
+  "more_1": [
+    "more",
+    "dots",
+    "ellipsis",
+    "更多",
+    "点",
+    "省略"
+  ],
+  "more_2": [
+    "more",
+    "dots",
+    "ellipsis",
+    "更多",
+    "点",
+    "省略"
+  ],
+  "more_3": [
+    "more",
+    "dots",
+    "ellipsis",
+    "更多",
+    "点",
+    "省略"
+  ],
+  "more_4": [
+    "more",
+    "dots",
+    "ellipsis",
+    "更多",
+    "点",
+    "省略"
+  ],
+  "safe_alert": [
+    "safe",
+    "alert",
+    "warning",
+    "danger",
+    "caution",
+    "警告",
+    "危险",
+    "警报",
+    "警示",
+    "安全"
+  ],
+  "safe_flash": [
+    "safe",
+    "flash",
+    "shield",
+    "安全",
+    "盾",
+    "闪电"
+  ],
+  "safe_lock": [
+    "safe",
+    "lock",
+    "shield",
+    "安全",
+    "盾",
+    "锁"
+  ],
+  "safe_shield": [
+    "safe",
+    "shield",
+    "protect",
+    "安全",
+    "盾",
+    "保护"
+  ],
+  "safe_shield_2": [
+    "safe",
+    "shield",
+    "protect",
+    "安全",
+    "盾",
+    "保护"
+  ],
+  "dot_grid": [
+    "dot",
+    "grid",
+    "layout",
+    "more",
+    "classify",
+    "点",
+    "网格",
+    "布局",
+    "分类",
+    "更多"
+  ],
+  "switch": [
+    "toggle",
+    "switch",
+    "settings",
+    "切换",
+    "开关",
+    "设置"
+  ],
+  "toggle_left_2": [
+    "toggle",
+    "left",
+    "switch",
+    "settings",
+    "向左切换",
+    "开关",
+    "设置"
+  ],
+  "toggle_left": [
+    "toggle",
+    "left",
+    "switch",
+    "settings",
+    "向左切换",
+    "开关",
+    "设置"
+  ],
+  "toggle_right_2": [
+    "toggle",
+    "right",
+    "switch",
+    "settings",
+    "向左切换",
+    "开关",
+    "设置"
+  ],
+  "toggle_right": [
+    "toggle",
+    "right",
+    "switch",
+    "settings",
+    "向左切换",
+    "开关",
+    "设置"
+  ],
+  "history_2": [
+    "history",
+    "past",
+    "recovery",
+    "历史",
+    "过去",
+    "恢复"
+  ],
+  "newdot": [
+    "reddot",
+    "notification",
+    "alarm",
+    "reminder",
+    "通知",
+    "警报",
+    "闹铃",
+    "提醒"
+  ],
+  "classify": [
+    "classify",
+    "dot",
+    "more",
+    "分类",
+    "圆点",
+    "更多"
+  ],
+  "thumb_down_2": [
+    "thumb_down",
+    "dislike",
+    "bad",
+    "踩",
+    "不喜欢",
+    "差",
+    "坏"
+  ],
+  "thumb_up_2": [
+    "thumb_up",
+    "like",
+    "good",
+    "顶",
+    "顶好",
+    "喜欢",
+    "赞赏",
+    "支持",
+    "点赞"
+  ],
+  "add": [
+    "add",
+    "plus",
+    "new",
+    "+",
+    "添加",
+    "创建",
+    "加"
+  ],
+  "loading": [
+    "loader",
+    "process",
+    "rotate",
+    "loading",
+    "加载",
+    "进度",
+    "菊花"
+  ],
+  "loading_2": [
+    "loader",
+    "process",
+    "rotate",
+    "loading",
+    "加载",
+    "进度",
+    "菊花"
+  ],
+  "loading_3": [
+    "loader",
+    "process",
+    "rotate",
+    "loading",
+    "加载",
+    "进度",
+    "菊花"
+  ],
+  "loading_4": [
+    "loader",
+    "process",
+    "rotate",
+    "loading",
+    "加载",
+    "进度",
+    "菊花"
+  ],
+  "crutch": [
+    "crutch",
+    "cane",
+    "christmas",
+    "拐杖",
+    "圣诞节",
+    "帮助"
+  ],
+  "broom": [
+    "broom",
+    "clean",
+    "sweep",
+    "扫把",
+    "清除",
+    "打扫"
+  ],
+  "classify_2": [
+    "classify",
+    "dot",
+    "more",
+    "分类",
+    "方框",
+    "更多"
+  ],
+  "gesture_unlock": [
+    "gesture",
+    "unlock",
+    "password",
+    "手势",
+    "解锁",
+    "密码"
+  ],
+  "refresh_3": [
+    "refresh",
+    "synchronization",
+    "reload",
+    "restart",
+    "刷新",
+    "同步",
+    "重新加载",
+    "重启"
+  ],
+  "refresh_4": [
+    "refresh",
+    "synchronization",
+    "reload",
+    "restart",
+    "刷新",
+    "同步",
+    "重新加载",
+    "重启"
+  ],
+  "polygon": [
+    "triangle",
+    "square",
+    "circle",
+    "geometry",
+    "三角形",
+    "方形",
+    "圆形",
+    "几何"
+  ],
+  "recycle": [
+    "recycle",
+    "trash",
+    "waste",
+    "回收",
+    "垃圾",
+    "废弃"
+  ],
+  "report": [
+    "report",
+    "police",
+    "alarm",
+    "emergency",
+    "举报",
+    "报警",
+    "警报",
+    "紧急"
+  ],
+  "settings_6": [
+    "adjustments",
+    "settings",
+    "gear",
+    "control",
+    "调整",
+    "设置",
+    "齿轮",
+    "控制"
+  ],
+  "check_2": [
+    "checks",
+    "tick",
+    "success",
+    "confirm",
+    "完成",
+    "选中",
+    "正确",
+    "√"
+  ],
+  "heartbeat": [
+    "heartbeat",
+    "pulse",
+    "lifeline",
+    "heartrate",
+    "心跳",
+    "脉搏",
+    "生命线",
+    "心率"
+  ],
+  "keyhole": [
+    "keyhole",
+    "key",
+    "lock",
+    "security",
+    "password",
+    "锁",
+    "安全",
+    "密码",
+    "钥匙",
+    "锁眼",
+    "钥匙孔"
+  ],
+  "sleep": [
+    "sleep",
+    "zz",
+    "dream",
+    "rest",
+    "snooze",
+    "睡觉",
+    "休息",
+    "打盹",
+    "梦"
+  ],
+  "checks": [
+    "checks",
+    "tick",
+    "success",
+    "confirm",
+    "完成",
+    "选中",
+    "正确",
+    "√"
+  ],
+  "flame": [
+    "flame",
+    "fire",
+    "bonfire",
+    "火焰",
+    "火",
+    "火堆"
+  ],
+  "alert_diamond": [
+    "alert",
+    "warning",
+    "danger",
+    "caution",
+    "警告",
+    "危险",
+    "警报",
+    "警示"
+  ],
+  "brush_3": [
+    "brush",
+    "painter",
+    "color",
+    "picker",
+    "刷子",
+    "涂画",
+    "颜色",
+    "拾色器"
+  ],
+  "history_anticlockwise": [
+    "history",
+    "past",
+    "recovery",
+    "anticlockwise",
+    "历史",
+    "过去",
+    "恢复",
+    "逆时针"
+  ],
+  "refresh_anticlockwise_1": [
+    "refresh",
+    "synchronization",
+    "reload",
+    "restart",
+    "anticlockwise",
+    "刷新",
+    "同步",
+    "重新加载",
+    "重启",
+    "逆时针"
+  ],
+  "checkbox": [
+    "checkbox",
+    "check",
+    "select",
+    "choice",
+    "复选框",
+    "检查",
+    "选择"
+  ],
+  "choice": [
+    "checkbox",
+    "check",
+    "select",
+    "choice",
+    "复选框",
+    "检查",
+    "选择"
+  ],
+  "classify_3": [
+    "classify",
+    "dot",
+    "more",
+    "分类",
+    "方框",
+    "更多"
+  ],
+  "classify_add_2": [
+    "classify",
+    "dot",
+    "add",
+    "分类",
+    "方框",
+    "添加"
+  ],
+  "classify_add": [
+    "classify",
+    "dot",
+    "add",
+    "分类",
+    "圆点",
+    "添加"
+  ],
+  "cross": [
+    "cross",
+    "red",
+    "rescue",
+    "红十字",
+    "叉",
+    "救援"
+  ],
+  "delete_3": [
+    "delete",
+    "garbage",
+    "remove",
+    "uninstall",
+    "删除",
+    "移除",
+    "垃圾箱",
+    "卸载"
+  ],
+  "direction_dot": [
+    "direction",
+    "dot",
+    "move",
+    "点",
+    "方向键",
+    "方向箭头"
+  ],
+  "dots": [
+    "more",
+    "dots",
+    "ellipsis",
+    "更多",
+    "点",
+    "省略"
+  ],
+  "dots_vertical": [
+    "more",
+    "dots",
+    "ellipsis",
+    "更多",
+    "点",
+    "省略"
+  ],
+  "multiselect": [
+    "multi",
+    "select",
+    "check",
+    "多选",
+    "勾选"
+  ],
+  "plus": [
+    "plus",
+    "cross",
+    "add",
+    "+",
+    "十字叉",
+    "添加"
+  ],
+  "process": [
+    "process",
+    "square",
+    "frame",
+    "进程",
+    "方框",
+    "框"
+  ],
+  "bubble": [
+    "thought",
+    "bubble",
+    "idea",
+    "思维",
+    "想法",
+    "主意"
+  ],
+  "cube": [
+    "cube",
+    "square",
+    "box",
+    "正方体",
+    "方盒",
+    "盒子"
+  ],
+  "radiobox": [
+    "radiobox",
+    "radio",
+    "checkbox",
+    "selection",
+    "单选按钮",
+    "复选框",
+    "选择框"
+  ],
+  "three_circles": [
+    "circles",
+    "classify",
+    "dot",
+    "more",
+    "圆圈",
+    "分类",
+    "圆点",
+    "更多"
+  ],
+  "mind_map": [
+    "mind",
+    "map",
+    "branch",
+    "thought",
+    "思维导图",
+    "脑图",
+    "分支"
+  ],
+  "transformation": [
+    "repeat",
+    "transformation",
+    "exchange",
+    "change",
+    "swap",
+    "转换",
+    "切换",
+    "交换",
+    "重复",
+    "循环"
+  ],
+  "add_square": [
+    "add",
+    "square",
+    "plus",
+    "new",
+    "+",
+    "添加",
+    "创建",
+    "加"
+  ],
+  "close_square": [
+    "close",
+    "error",
+    "fault",
+    "delete",
+    "关闭",
+    "错误",
+    "x",
+    "删除"
+  ],
+  "fault": [
+    "close",
+    "error",
+    "fault",
+    "delete",
+    "关闭",
+    "错误",
+    "x",
+    "删除"
+  ],
+  "hexagons": [
+    "hexagon",
+    "polygons",
+    "shapes",
+    "three",
+    "puzzle",
+    "honeycomb",
+    "六边形",
+    "多边形",
+    "形状",
+    "三个",
+    "拼图",
+    "蜂巢"
+  ],
+  "hexagons_2": [
+    "hexagon",
+    "polygons",
+    "shapes",
+    "three",
+    "puzzle",
+    "honeycomb",
+    "六边形",
+    "多边形",
+    "形状",
+    "三个",
+    "拼图",
+    "蜂巢"
+  ],
+  "minus_square": [
+    "minus",
+    "subtraction",
+    "difference",
+    "arithmetic",
+    "减去",
+    "算术",
+    "差",
+    "减"
+  ],
+  "refresh_4_ai": [
+    "refresh",
+    "synchronization",
+    "reload",
+    "restart",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "刷新",
+    "同步",
+    "重新加载",
+    "重启"
+  ],
+  "time_duration": [
+    "time",
+    "clock",
+    "timer",
+    "duration",
+    "watch",
+    "时间",
+    "时钟",
+    "计时器",
+    "持续",
+    "钟表"
+  ],
+  "time_line": [
+    "time",
+    "line",
+    "progress",
+    "duration",
+    "project",
+    "时间",
+    "线",
+    "进度",
+    "持续",
+    "项目"
+  ],
+  "webhook": [
+    "webhook",
+    "interaction",
+    "communication",
+    "勾子",
+    "交互",
+    "通讯"
+  ],
+  "add_circle_dash": [
+    "add circle dash",
+    "添加按钮",
+    "虚线圆圈",
+    "新增操作",
+    "add icon",
+    "dashed circle",
+    "new entry",
+    "UI action"
+  ],
+  "brush_3_ai": [
+    "brush",
+    "painter",
+    "color",
+    "picker",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "刷子",
+    "涂画",
+    "颜色",
+    "拾色器"
+  ],
+  "button": [
+    "button",
+    "按钮",
+    "交互元素",
+    "点击控件",
+    "UI component",
+    "clickable element",
+    "interaction design"
+  ],
+  "check_circle_dash": [
+    "check circle dash",
+    "确认图标",
+    "已完成",
+    "虚线检查",
+    "check icon",
+    "complete action",
+    "dashed circle",
+    "status indicator"
+  ],
+  "circle_dash": [
+    "circle dash",
+    "虚线圆圈",
+    "加载中",
+    "圆形边框",
+    "dashed circle",
+    "loading state",
+    "circular border",
+    "UI shape"
+  ],
+  "classify_ai": [
+    "classify",
+    "dot",
+    "more",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "分类",
+    "方框",
+    "更多"
+  ],
+  "classify_2_ai": [
+    "classify",
+    "dot",
+    "more",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "分类",
+    "方框",
+    "更多"
+  ],
+  "classify_3_ai": [
+    "classify",
+    "dot",
+    "more",
+    "ai",
+    "artificial",
+    "intelligence",
+    "人工智能",
+    "分类",
+    "方框",
+    "更多"
+  ],
+  "close_circle_dash": [
+    "close circle dash",
+    "关闭图标",
+    "取消操作",
+    "虚线圆叉",
+    "close icon",
+    "cancel button",
+    "dashed circle"
+  ],
+  "close_medium": [
+    "close medium",
+    "退出按钮",
+    "中号叉号",
+    "close icon",
+    "exit button",
+    "medium size"
+  ],
+  "close_small": [
+    "close small",
+    "退出按钮",
+    "小号叉号",
+    "close icon",
+    "exit button",
+    "small size"
+  ],
+  "dot_circle": [
+    "dot circle",
+    "点圆圈",
+    "单选框",
+    "指示器",
+    "radio button",
+    "dot indicator",
+    "selection control"
+  ],
+  "dropdown": [
+    "dropdown",
+    "下拉菜单",
+    "选择列表",
+    "交互控件",
+    "dropdown menu",
+    "select list",
+    "UI control"
+  ],
+  "key_3": [
+    "key",
+    "authentication",
+    "login",
+    "encrypted",
+    "钥匙",
+    "验证",
+    "登录",
+    "加密"
+  ],
+  "key_4": [
+    "key",
+    "authentication",
+    "login",
+    "encrypted",
+    "钥匙",
+    "验证",
+    "登录",
+    "加密"
+  ],
+  "minus_circle_dash": [
+    "minus circle dash",
+    "减少图标",
+    "删除操作",
+    "虚线减号",
+    "minus icon",
+    "delete action",
+    "dashed circle"
+  ],
+  "quarter_circle_dash": [
+    "quarter circle dash",
+    "四分之一圆",
+    "虚线进度",
+    "25%完成",
+    "quarter circle",
+    "25 percent",
+    "dashed progress",
+    "loading indicator"
+  ],
+  "question_2": [
+    "question",
+    "ask",
+    "help",
+    "info",
+    "support",
+    "帮助",
+    "提示",
+    "支持",
+    "问",
+    "问题"
+  ],
+  "scrollable_list": [
+    "scrollable list",
+    "可滚动列表",
+    "长列表",
+    "内容区",
+    "scroll list",
+    "long content",
+    "UI container"
+  ],
+  "semicircle_dash": [
+    "semicircle dash",
+    "半圆",
+    "虚线进度",
+    "50%完成",
+    "semicircle",
+    "half circle",
+    "50 percent",
+    "dashed progress"
+  ],
+  "three_quarters_circle_dash": [
+    "three quarters circle dash",
+    "四分之三圆",
+    "虚线进度",
+    "75%完成",
+    "three quarter circle",
+    "75 percent",
+    "dashed progress"
+  ],
+  "bus": [
+    "bus",
+    "vehicles",
+    "public transit",
+    "公共汽车",
+    "车",
+    "公共交通"
+  ],
+  "airplane": [
+    "airplane",
+    "flight",
+    "fly",
+    "airport",
+    "飞机",
+    "航班",
+    "飞",
+    "机场"
+  ],
+  "bike": [
+    "bike",
+    "cyclists",
+    "fitness",
+    "自行车",
+    "骑车人",
+    "健身"
+  ],
+  "bus_2": [
+    "bus",
+    "vehicles",
+    "public transit",
+    "公共汽车",
+    "车",
+    "公共交通"
+  ],
+  "car_2": [
+    "car",
+    "vehicle",
+    "auto",
+    "车辆",
+    "汽车",
+    "机动车",
+    "小汽车"
+  ],
+  "car": [
+    "car",
+    "vehicle",
+    "auto",
+    "车辆",
+    "汽车",
+    "机动车",
+    "小汽车"
+  ],
+  "ebike": [
+    "ebike",
+    "bike",
+    "cyclists",
+    "自行车",
+    "骑车人",
+    "电动自行车"
+  ],
+  "ship": [
+    "ship",
+    "ferry",
+    "boat",
+    "sailing",
+    "船",
+    "渡船",
+    "航行"
+  ],
+  "train": [
+    "train",
+    "subway",
+    "railway",
+    "metro",
+    "火车",
+    "地铁",
+    "铁路"
+  ],
+  "truck": [
+    "truck",
+    "vehicles",
+    "shipping",
+    "delivery",
+    "卡车",
+    "车",
+    "运输",
+    "送货"
+  ],
+  "baby_carriage": [
+    "baby",
+    "carriage",
+    "stroller",
+    "infant",
+    "婴儿",
+    "推车",
+    "婴儿车"
+  ],
+  "charging_pile": [
+    "charging",
+    "electric",
+    "pile",
+    "充电桩",
+    "充电站"
+  ],
+  "flight_land": [
+    "flight",
+    "plane",
+    "arrival",
+    "航班",
+    "飞机",
+    "到达",
+    "落地"
+  ],
+  "flight_takeoff": [
+    "flight",
+    "plane",
+    "departure",
+    "航班",
+    "飞机",
+    "离开",
+    "起飞"
+  ],
+  "gas_station": [
+    "fuel",
+    "gas",
+    "station",
+    "燃油",
+    "加油站"
+  ],
+  "riding": [
+    "bike",
+    "cycling",
+    "骑行",
+    "骑自行车"
+  ],
+  "run": [
+    "run",
+    "motion",
+    "sprint",
+    "跑步",
+    "运动",
+    "短跑"
+  ],
+  "scooter": [
+    "scooter",
+    "motor",
+    "滑板车",
+    "平横车"
+  ],
+  "train_2": [
+    "train",
+    "subway",
+    "railway",
+    "metro",
+    "火车",
+    "地铁",
+    "铁路"
+  ],
+  "walk": [
+    "walk",
+    "step",
+    "ambulation",
+    "走",
+    "散步",
+    "步行"
+  ],
+  "rocket": [
+    "rocket",
+    "universe",
+    "space",
+    "spaceship",
+    "discover",
+    "火箭",
+    "宇宙",
+    "太空",
+    "飞船",
+    "探索"
+  ],
+  "rocket_2": [
+    "rocket",
+    "universe",
+    "space",
+    "spaceship",
+    "discover",
+    "火箭",
+    "宇宙",
+    "太空",
+    "飞船",
+    "探索"
+  ],
+  "UFO": [
+    "UFO",
+    "extraterrestrial",
+    "universe",
+    "不明飞行物",
+    "外星",
+    "宇宙"
+  ],
+  "four_wheel_drive": [
+    "4wd",
+    "wheel",
+    "drive",
+    "chassis",
+    "auto",
+    "四轮驱动",
+    "车架",
+    "车底盘",
+    "汽车"
+  ],
+  "ABS": [
+    "ABS",
+    "braking",
+    "auto",
+    "制动防抱死系统",
+    "汽车",
+    "刹车"
+  ],
+  "aerial_lift": [
+    "aerial",
+    "tramway",
+    "lift",
+    "缆车",
+    "有轨电车"
+  ],
+  "auto_hold": [
+    "auto",
+    "hold",
+    "电子自动手刹",
+    "汽车"
+  ],
+  "brake": [
+    "brake",
+    "auto",
+    "刹车",
+    "汽车"
+  ],
+  "car_3": [
+    "car",
+    "vehicle",
+    "auto",
+    "车辆",
+    "汽车",
+    "机动车",
+    "小汽车"
+  ],
+  "emergency_flashers": [
+    "emergency",
+    "flashers",
+    "triangle",
+    "warning",
+    "auto",
+    "双闪",
+    "三角",
+    "警示",
+    "汽车"
+  ],
+  "engine": [
+    "engine",
+    "motor",
+    "auto",
+    "发动机",
+    "引擎",
+    "汽车"
+  ],
+  "fan_2": [
+    "fan",
+    "air",
+    "wind",
+    "propeller",
+    "扇子",
+    "风扇",
+    "风",
+    "螺旋桨"
+  ],
+  "fan_direction_down": [
+    "fan",
+    "direction",
+    "down",
+    "auto",
+    "风扇",
+    "向下",
+    "汽车"
+  ],
+  "fan_direction_front": [
+    "fan",
+    "direction",
+    "front",
+    "auto",
+    "风扇",
+    "向前",
+    "汽车"
+  ],
+  "fan_direction_up": [
+    "fan",
+    "direction",
+    "up",
+    "auto",
+    "风扇",
+    "向上",
+    "汽车"
+  ],
+  "fan": [
+    "fan",
+    "air",
+    "wind",
+    "扇子",
+    "风扇",
+    "风"
+  ],
+  "flight_inflight": [
+    "flight",
+    "plane",
+    "inflight",
+    "航班",
+    "飞机",
+    "飞行中",
+    "行进中"
+  ],
+  "front_fog_lights": [
+    "front",
+    "fog",
+    "lights",
+    "auto",
+    "前雾灯",
+    "汽车"
+  ],
+  "front_windshield_defroster": [
+    "front",
+    "windshield",
+    "defroster",
+    "auto",
+    "前风档除霜",
+    "汽车"
+  ],
+  "hight_beam_headlights": [
+    "hight",
+    "beam",
+    "headlights",
+    "auto",
+    "远光灯",
+    "汽车"
+  ],
+  "jeep": [
+    "jeep",
+    "car",
+    "auto",
+    "吉普车",
+    "车"
+  ],
+  "low_beam_headlights": [
+    "low",
+    "beam",
+    "headlights",
+    "auto",
+    "近光灯",
+    "汽车"
+  ],
+  "oil": [
+    "oil",
+    "engine",
+    "lube",
+    "auto",
+    "机油",
+    "润滑油",
+    "车"
+  ],
+  "park": [
+    "park",
+    "light",
+    "auto",
+    "停车",
+    "指示灯",
+    "车"
+  ],
+  "parking_lights": [
+    "parking",
+    "light",
+    "auto",
+    "停车",
+    "泊车灯",
+    "车"
+  ],
+  "rare_fog_lights": [
+    "rare",
+    "fog",
+    "lights",
+    "auto",
+    "后雾灯",
+    "汽车"
+  ],
+  "rear_windshield_defroster": [
+    "rear",
+    "windshield",
+    "defroster",
+    "auto",
+    "后风档除霜",
+    "汽车"
+  ],
+  "seat": [
+    "seat",
+    "auto",
+    "chair",
+    "座位",
+    "座椅",
+    "车"
+  ],
+  "seat_heated": [
+    "seat",
+    "auto",
+    "chair",
+    "heated",
+    "座位",
+    "座椅",
+    "车",
+    "加热"
+  ],
+  "steering_wheel": [
+    "steering",
+    "wheel",
+    "drive",
+    "auto",
+    "驾驶",
+    "方向盘",
+    "车"
+  ],
+  "traffic_lights": [
+    "traffic",
+    "light",
+    "crossing",
+    "交通灯",
+    "红绿灯",
+    "十字路口"
+  ],
+  "train_3": [
+    "train",
+    "subway",
+    "railway",
+    "metro",
+    "火车",
+    "地铁",
+    "铁路"
+  ],
+  "tyre": [
+    "tyre",
+    "wheel",
+    "auto",
+    "轮胎",
+    "轮子",
+    "车"
+  ],
+  "wheel": [
+    "tyre",
+    "wheel",
+    "auto",
+    "轮胎",
+    "轮子",
+    "车"
+  ],
+  "wiper": [
+    "wiper",
+    "dashboard",
+    "雨刷器",
+    "仪表盘"
+  ],
+  "car_door": [
+    "car",
+    "door",
+    "auto",
+    "车门",
+    " 汽车"
+  ],
+  "car_window": [
+    "car",
+    "window",
+    "auto",
+    "车窗",
+    " 汽车"
+  ],
+  "hood": [
+    "hood",
+    "car",
+    "auto",
+    "引擎盖",
+    "汽车",
+    "车前盖"
+  ],
+  "pinwheel": [
+    "fan",
+    "air",
+    "wind",
+    "pinwheel",
+    "扇子",
+    "风扇",
+    "风",
+    "风车"
+  ],
+  "pinwheel_2": [
+    "fan",
+    "air",
+    "wind",
+    "pinwheel",
+    "扇子",
+    "风扇",
+    "风",
+    "风车"
+  ],
+  "sleigh": [
+    "sleigh",
+    "christmas",
+    "santa",
+    "snow",
+    "雪橇",
+    "圣诞节",
+    "雪"
+  ],
+  "trunk": [
+    "trunk",
+    "car",
+    "auto",
+    "后备箱",
+    "汽车",
+    "车后盖"
+  ],
+  "rudder": [
+    "rudder",
+    "steering",
+    "drive",
+    "船舵",
+    "驾驶",
+    "方向"
+  ],
+  "sailboat": [
+    "sailboat",
+    "boat",
+    "journey",
+    "帆船",
+    "旅程",
+    "航行"
+  ],
+  "train_4": [
+    "train",
+    "subway",
+    "railway",
+    "metro",
+    "火车",
+    "地铁",
+    "铁路"
+  ],
+  "tank": [
+    "tank",
+    "battle",
+    "attack",
+    "坦克",
+    "战斗",
+    "攻击"
+  ],
+  "UFO_2": [
+    "UFO",
+    "extraterrestrial",
+    "universe",
+    "不明飞行物",
+    "外星",
+    "宇宙"
+  ],
+  "user_1": [
+    "user",
+    "person",
+    "profile",
+    "account",
+    "login",
+    "用户",
+    "人",
+    "个人资料",
+    "账号",
+    "账户",
+    "登录"
+  ],
+  "female": [
+    "female",
+    "woman",
+    "gender",
+    "feminine",
+    "venus",
+    "性别",
+    "女人",
+    "女性",
+    "维拉斯"
+  ],
+  "male": [
+    "male",
+    "man",
+    "gender",
+    "男人",
+    "性别",
+    "男性"
+  ],
+  "user_2": [
+    "user",
+    "person",
+    "profile",
+    "account",
+    "login",
+    "用户",
+    "人",
+    "个人资料",
+    "账号",
+    "账户",
+    "登录"
+  ],
+  "user_3": [
+    "user",
+    "person",
+    "profile",
+    "account",
+    "login",
+    "用户",
+    "人",
+    "个人资料",
+    "账号",
+    "账户",
+    "登录"
+  ],
+  "user_4": [
+    "user",
+    "person",
+    "profile",
+    "account",
+    "login",
+    "用户",
+    "人",
+    "个人资料",
+    "账号",
+    "账户",
+    "登录"
+  ],
+  "user_5": [
+    "user",
+    "person",
+    "profile",
+    "account",
+    "login",
+    "用户",
+    "人",
+    "个人资料",
+    "账号",
+    "账户",
+    "登录"
+  ],
+  "user_add": [
+    "user",
+    "add",
+    "plus",
+    "new",
+    "+",
+    "添加",
+    "用户",
+    "创建",
+    "加"
+  ],
+  "user_follow": [
+    "user",
+    "follow",
+    "checks",
+    "success",
+    "confirm",
+    "完成",
+    "选中",
+    "正确",
+    "关注"
+  ],
+  "user_remove": [
+    "user",
+    "remove",
+    "minus",
+    "delete",
+    "用户",
+    "移除",
+    "减",
+    "删除"
+  ],
+  "group": [
+    "group",
+    "users",
+    "team",
+    "organization",
+    "组",
+    "用户",
+    "团队",
+    "组织"
+  ],
+  "contacts": [
+    "contacts",
+    "address",
+    "phonebook",
+    "通讯录",
+    "联系人",
+    "电话本"
+  ],
+  "badge": [
+    "badge",
+    "profile",
+    "card",
+    "个人资料",
+    "工牌",
+    "证"
+  ],
+  "IDcard": [
+    "card",
+    "profile",
+    "ID",
+    "个人资料",
+    "身份证",
+    "卡"
+  ],
+  "user_add_2": [
+    "user",
+    "add",
+    "plus",
+    "new",
+    "+",
+    "添加",
+    "用户",
+    "创建",
+    "加"
+  ],
+  "user_edit": [
+    "user",
+    "edit",
+    "pencil",
+    "write",
+    "用户",
+    "笔",
+    "编辑",
+    "书写",
+    "修改"
+  ],
+  "user_follow_2": [
+    "user",
+    "follow",
+    "checks",
+    "success",
+    "confirm",
+    "完成",
+    "选中",
+    "正确",
+    "关注"
+  ],
+  "user_forbid": [
+    "user",
+    "forbid",
+    "off",
+    "用户",
+    "禁止",
+    "关"
+  ],
+  "user_heart": [
+    "heart",
+    "user",
+    "love",
+    "follow",
+    "用户",
+    "爱心",
+    "关注",
+    "一半"
+  ],
+  "user_hide": [
+    "user",
+    "hide",
+    "closed",
+    "eye",
+    "invisible",
+    "用户",
+    "隐藏",
+    "闭眼",
+    "眼睛",
+    "不可见"
+  ],
+  "user_info": [
+    "user",
+    "info",
+    "attribute",
+    "用户",
+    "属性",
+    "信息"
+  ],
+  "user_lock": [
+    "user",
+    "encryption",
+    "lock",
+    "security",
+    "用户",
+    "锁定",
+    "安全",
+    "加密"
+  ],
+  "user_security": [
+    "user",
+    "security",
+    "safe",
+    "protect",
+    "安全",
+    "用户",
+    "保护"
+  ],
+  "user_pin": [
+    "user",
+    "pin",
+    "location",
+    "用户",
+    "定位",
+    "位置"
+  ],
+  "user_question": [
+    "user",
+    "question",
+    "ask",
+    "用户",
+    "问题",
+    "问"
+  ],
+  "user_remove_2": [
+    "user",
+    "remove",
+    "minus",
+    "delete",
+    "用户",
+    "移除",
+    "减",
+    "删除"
+  ],
+  "user_search": [
+    "user",
+    "search",
+    "find",
+    "用户",
+    "搜索",
+    "查找"
+  ],
+  "user_setting": [
+    "user",
+    "adjustments",
+    "settings",
+    "control",
+    "用户",
+    "调整",
+    "设置",
+    "控制"
+  ],
+  "user_star": [
+    "user",
+    "star",
+    "favorites",
+    "星星",
+    "用户",
+    "星标",
+    "收藏夹"
+  ],
+  "user_visible": [
+    "user",
+    "visible",
+    "eye",
+    "watch",
+    "view",
+    "用户",
+    "可见",
+    "眼睛",
+    "观察",
+    "看"
+  ],
+  "user_warning": [
+    "user",
+    "warning",
+    "alert",
+    "用户",
+    "警示",
+    "警告"
+  ],
+  "user_x": [
+    "user",
+    "remove",
+    "minus",
+    "delete",
+    "用户",
+    "移除",
+    "减",
+    "删除"
+  ],
+  "contacts_2": [
+    "contacts",
+    "address",
+    "phonebook",
+    "通讯录",
+    "联系人",
+    "电话本"
+  ],
+  "contacts_3": [
+    "contacts",
+    "address",
+    "phonebook",
+    "通讯录",
+    "联系人",
+    "电话本"
+  ],
+  "contacts_4": [
+    "contacts",
+    "address",
+    "phonebook",
+    "通讯录",
+    "联系人",
+    "电话本"
+  ],
+  "group_2": [
+    "group",
+    "users",
+    "team",
+    "organization",
+    "组",
+    "用户",
+    "团队",
+    "组织"
+  ],
+  "group_3": [
+    "group",
+    "users",
+    "team",
+    "organization",
+    "组",
+    "用户",
+    "团队",
+    "组织"
+  ],
+  "cloud_lightning": [
+    "cloud",
+    "thunderstorm",
+    "lightning",
+    "云",
+    "雷雨",
+    "闪电"
+  ],
+  "cloud": [
+    "cloud",
+    "cloudy",
+    "wind",
+    "weather",
+    "云",
+    "多云",
+    "天气"
+  ],
+  "cloud_snow": [
+    "cloud",
+    "snowstorm",
+    "snow",
+    "snow",
+    "暴风雪",
+    "云",
+    "雪"
+  ],
+  "lightning": [
+    "lightning",
+    "thunderbolt",
+    "electricity",
+    "flash",
+    "闪电",
+    "闪",
+    "雷电"
+  ],
+  "moon": [
+    "moon",
+    "full",
+    "night",
+    "dark",
+    "满月",
+    "月球",
+    "月亮",
+    "夜晚"
+  ],
+  "rain": [
+    "rain",
+    "rainstorm",
+    "meteorology",
+    "雨",
+    "暴风雨",
+    "气象"
+  ],
+  "snow": [
+    "snow",
+    "winter",
+    "snowflake",
+    "christmas",
+    "雪花",
+    "冬天",
+    "圣诞节"
+  ],
+  "sun": [
+    "sun",
+    "light",
+    "brightness",
+    "sunny",
+    "daytime",
+    "太阳",
+    "光线",
+    "晴朗",
+    "日间",
+    "白天"
+  ],
+  "typhoon": [
+    "typhoon",
+    "storm",
+    "台风",
+    "台风",
+    "台风",
+    "台风"
+  ],
+  "wind": [
+    "wind",
+    "stormy",
+    "air",
+    "风",
+    "风暴",
+    "冰雹"
+  ],
+  "moon_cloudy": [
+    "moon",
+    "cloudy",
+    "night",
+    "evening",
+    "月亮",
+    "晚上",
+    "夜晚",
+    "夜间多云"
+  ],
+  "sun_cloudy": [
+    "sun",
+    "cloudy",
+    "cloud",
+    "sunny",
+    "partly",
+    "太阳",
+    "白天",
+    "大部",
+    "日间多云"
+  ],
+  "moon_stars": [
+    "moon",
+    "stars",
+    "night",
+    "evening",
+    "dark",
+    "sleep",
+    "月亮",
+    "星星",
+    "夜晚",
+    "睡眠",
+    "深色",
+    "星夜"
+  ],
+  "thermometer": [
+    "thermometer",
+    "degrees",
+    "celcius",
+    "fahrenheit",
+    "温度计",
+    "度",
+    "摄氏度",
+    "华氏"
+  ],
+  "umbrella": [
+    "umbrella",
+    "rain",
+    "雨伞",
+    "雨伞",
+    "雨伞",
+    "雨伞",
+    "雨伞"
+  ],
+  "sunrise": [
+    "sunrise",
+    "morning",
+    "日出",
+    "日出",
+    "日出",
+    "早晨"
+  ],
+  "sunset": [
+    "sunset",
+    "evening",
+    "日落",
+    "日落",
+    "日落",
+    "黄昏"
+  ],
+  "sparkles": [
+    "sparkles",
+    "star",
+    "light",
+    "ai",
+    "星星",
+    "闪光",
+    "星光",
+    "智能"
+  ],
+  "snowman": [
+    "snowman",
+    "winter",
+    "christmas",
+    "snow",
+    "雪人",
+    "冬天",
+    "圣诞节"
+  ],
+  "wave": [
+    "wave",
+    "sea",
+    "water",
+    "波浪",
+    "海",
+    "水波"
+  ],
+  "hail": [
+    "hail",
+    "ice",
+    "tation",
+    "冰雹",
+    "冰"
+  ],
+  "celsius": [
+    "celsius",
+    "temperature",
+    "centigrade",
+    "摄氏度",
+    "温度",
+    "℃"
+  ],
+  "cloud_windy": [
+    "cloud",
+    "windy",
+    "breeze",
+    "云",
+    "有风",
+    "微风"
+  ],
+  "drizzle": [
+    "drizzle",
+    "rain",
+    "breeze",
+    "小雨",
+    "毛毛雨",
+    "细雨"
+  ],
+  "fahrenheit": [
+    "fahrenheit",
+    "temperature",
+    "华氏度",
+    "温度",
+    "°F"
+  ],
+  "floating_dust": [
+    "floating",
+    "dust",
+    "mist",
+    "浮尘",
+    "扬尘",
+    "灰尘",
+    "轻雾"
+  ],
+  "fog": [
+    "fog",
+    "mist",
+    "brume",
+    "雾",
+    "轻雾",
+    "水气",
+    "霭"
+  ],
+  "haze": [
+    "dust",
+    "mist",
+    "haze",
+    "浮尘",
+    "轻雾",
+    "霾"
+  ],
+  "heavy_rain": [
+    "heavy",
+    "rain",
+    "rainfall",
+    "大雨",
+    "降雨",
+    "雨"
+  ],
+  "heavy_snow": [
+    "heavy",
+    "snow",
+    "major",
+    "大雪",
+    "雪"
+  ],
+  "light_snow": [
+    "light",
+    "snow",
+    "spit",
+    "minor",
+    "小雪",
+    "雪"
+  ],
+  "moderate_snow": [
+    "moderate",
+    "snow",
+    "中雪",
+    "雪"
+  ],
+  "moon_fog": [
+    "fog",
+    "mist",
+    "brume",
+    "moon",
+    "雾",
+    "轻雾",
+    "水气",
+    "霭"
+  ],
+  "na": [
+    "na",
+    "no",
+    "data",
+    "无数据",
+    "暂无"
+  ],
+  "rainbow": [
+    "rainbow",
+    "colorful",
+    "color",
+    "彩虹",
+    "多彩",
+    "颜色"
+  ],
+  "sandstorm": [
+    "sandstorm",
+    "dust",
+    "wind",
+    "沙尘暴",
+    "灰尘",
+    "大风"
+  ],
+  "showers": [
+    "showers",
+    "moderate",
+    "rain",
+    "阵雨",
+    "中雨",
+    "雨"
+  ],
+  "snowstorm": [
+    "snowstorm",
+    "blizzard",
+    "rain",
+    "暴风雪",
+    "雪暴",
+    "暴雪"
+  ],
+  "sparkles_2": [
+    "sparkles",
+    "star",
+    "light",
+    "ai",
+    "星星",
+    "闪光",
+    "星光",
+    "智能"
+  ],
+  "sun_fog": [
+    "fog",
+    "mist",
+    "brume",
+    "sun",
+    "雾",
+    "轻雾",
+    "水气",
+    "霭"
+  ],
+  "thunderstorm": [
+    "thunderstorm",
+    "thunder",
+    "rain",
+    "雷暴",
+    "雷雨",
+    "雨",
+    "闪电"
+  ],
+  "tornado_2": [
+    "tornado",
+    "storm",
+    "wind",
+    "rotate",
+    "龙卷风",
+    "风暴",
+    "风"
+  ],
+  "tornado": [
+    "tornado",
+    "storm",
+    "wind",
+    "rotate",
+    "龙卷风",
+    "风暴",
+    "风"
+  ],
+  "clouds": [
+    "cloud",
+    "cloudy",
+    "wind",
+    "weather",
+    "云",
+    "多去",
+    "天气"
+  ],
+  "dry": [
+    "dry",
+    "drought",
+    "climate",
+    "干燥",
+    "干旱",
+    "气候"
+  ],
+  "full_moon": [
+    "moon",
+    "full",
+    "night",
+    "dark",
+    "满月",
+    "月球",
+    "月亮",
+    "夜晚"
+  ],
+  "heavy_rainstorm": [
+    "heavy",
+    "storm",
+    "rain",
+    "大暴雨",
+    "暴风雨",
+    "暴雨"
+  ],
+  "heavy_snowstorm": [
+    "heavy",
+    "storm",
+    "snow",
+    "大暴雪",
+    "暴风雪",
+    "暴雪"
+  ],
+  "high_temperature": [
+    "high",
+    "temperature",
+    "hot",
+    "高温",
+    "热",
+    "温度"
+  ],
+  "low_temperature": [
+    "low",
+    "temperature",
+    "cold",
+    "低温",
+    "冷",
+    "温度"
+  ],
+  "moonlight": [
+    "moonlight",
+    "full",
+    "night",
+    "dark",
+    "月光",
+    "月球",
+    "月亮",
+    "夜晚"
+  ],
+  "rainstorm": [
+    "heavy",
+    "storm",
+    "rain",
+    "大暴雨",
+    "暴风雨",
+    "暴雨"
+  ],
+  "snowflake": [
+    "snow",
+    "winter",
+    "snowflake",
+    "christmas",
+    "雪花",
+    "冬天",
+    "圣诞节"
+  ],
+  "snowstorm_2": [
+    "snowstorm",
+    "blizzard",
+    "rain",
+    "暴风雪",
+    "雪暴",
+    "暴雪"
+  ],
+  "sun_2": [
+    "sun",
+    "light",
+    "brightness",
+    "sunny",
+    "daytime",
+    "太阳",
+    "光线",
+    "晴朗",
+    "日间",
+    "白天"
+  ],
+  "wet": [
+    "wet",
+    "flood",
+    "climate",
+    "潮湿",
+    "洪水",
+    "气候"
+  ],
+  "cloud_2": [
+    "cloud",
+    "cloudy",
+    "wind",
+    "weather",
+    "云",
+    "多云",
+    "天气"
+  ],
+  "partly_cloud_daytime": [
+    "cloud",
+    "cloudy",
+    "partly",
+    "daytime",
+    "weather",
+    "云",
+    "大部",
+    "多云",
+    "天气",
+    "白天"
+  ],
+  "partly_cloud_night": [
+    "cloud",
+    "cloudy",
+    "partly",
+    "daytime",
+    "night",
+    "weather",
+    "云",
+    "大部",
+    "多云",
+    "天气",
+    "夜间"
+  ],
+  "sparkles_3": [
+    "sparkles",
+    "star",
+    "light",
+    "ai",
+    "星星",
+    "闪光",
+    "星光",
+    "智能"
+  ],
+  "Aries": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "ram",
+    "白羊座",
+    "星座",
+    "公羊",
+    "运势"
+  ],
+  "Taurus": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "bull",
+    "金牛座",
+    "星座",
+    "公牛",
+    "运势"
+  ],
+  "Gemini": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "twins",
+    "双子座",
+    "星座",
+    "双胞胎",
+    "运势"
+  ],
+  "Cancer": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "crab",
+    "巨蟹座",
+    "星座",
+    "蟹",
+    "运势"
+  ],
+  "Leo": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "lion",
+    "狮子座",
+    "星座",
+    "狮子",
+    "运势"
+  ],
+  "Virgo": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "virgin",
+    "处女座",
+    "星座",
+    "新手",
+    "运势"
+  ],
+  "Libra": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "scales",
+    "天秤座",
+    "星座",
+    "天秤",
+    "运势"
+  ],
+  "Scorpio": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "scorpion",
+    "天蝎座",
+    "星座",
+    "天蝎",
+    "运势"
+  ],
+  "Sagittarius": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "archer",
+    "射手座",
+    "星座",
+    "射手",
+    "运势"
+  ],
+  "Capricorn": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "goat",
+    "摩羯座",
+    "星座",
+    "山羊",
+    "运势"
+  ],
+  "Aquarius": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "bearer",
+    "水瓶座",
+    "星座",
+    "水瓶",
+    "运势"
+  ],
+  "Pisces": [
+    "zodiac",
+    "horoscope",
+    "constellation",
+    "fish",
+    "双鱼座",
+    "星座",
+    "鱼",
+    "运势"
+  ]
+}

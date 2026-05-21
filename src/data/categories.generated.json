@@ -1,0 +1,132 @@
+[
+  {
+    "name": "arrow",
+    "iconCount": 66,
+    "variantCount": 132
+  },
+  {
+    "name": "building",
+    "iconCount": 59,
+    "variantCount": 118
+  },
+  {
+    "name": "business",
+    "iconCount": 130,
+    "variantCount": 260
+  },
+  {
+    "name": "contact",
+    "iconCount": 34,
+    "variantCount": 68
+  },
+  {
+    "name": "crypto",
+    "iconCount": 16,
+    "variantCount": 32
+  },
+  {
+    "name": "design",
+    "iconCount": 121,
+    "variantCount": 242
+  },
+  {
+    "name": "development",
+    "iconCount": 32,
+    "variantCount": 64
+  },
+  {
+    "name": "device",
+    "iconCount": 118,
+    "variantCount": 236
+  },
+  {
+    "name": "editor",
+    "iconCount": 90,
+    "variantCount": 180
+  },
+  {
+    "name": "education",
+    "iconCount": 37,
+    "variantCount": 74
+  },
+  {
+    "name": "emoji",
+    "iconCount": 24,
+    "variantCount": 48
+  },
+  {
+    "name": "file",
+    "iconCount": 115,
+    "variantCount": 230
+  },
+  {
+    "name": "food",
+    "iconCount": 45,
+    "variantCount": 90
+  },
+  {
+    "name": "logo",
+    "iconCount": 98,
+    "variantCount": 196
+  },
+  {
+    "name": "map",
+    "iconCount": 39,
+    "variantCount": 78
+  },
+  {
+    "name": "media",
+    "iconCount": 89,
+    "variantCount": 178
+  },
+  {
+    "name": "nature",
+    "iconCount": 41,
+    "variantCount": 82
+  },
+  {
+    "name": "other",
+    "iconCount": 47,
+    "variantCount": 94
+  },
+  {
+    "name": "part",
+    "iconCount": 59,
+    "variantCount": 118
+  },
+  {
+    "name": "shape",
+    "iconCount": 24,
+    "variantCount": 48
+  },
+  {
+    "name": "sport",
+    "iconCount": 49,
+    "variantCount": 98
+  },
+  {
+    "name": "system",
+    "iconCount": 156,
+    "variantCount": 312
+  },
+  {
+    "name": "transport",
+    "iconCount": 64,
+    "variantCount": 128
+  },
+  {
+    "name": "user",
+    "iconCount": 37,
+    "variantCount": 74
+  },
+  {
+    "name": "weather",
+    "iconCount": 60,
+    "variantCount": 120
+  },
+  {
+    "name": "zodiac",
+    "iconCount": 12,
+    "variantCount": 24
+  }
+]

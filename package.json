@@ -1,0 +1,49 @@
+{
+  "name": "@mingcute/mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server for searching and using MingCute icons in AI coding assistants.",
+  "type": "module",
+  "bin": {
+    "mingcute-mcp": "bin/run.cjs"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "README.zh-CN.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "build:data": "tsx src/scripts/build-data.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.3",
+    "flexsearch": "^0.8.212",
+    "tsx": "^4.21.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.0",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18"
+  },
+  "keywords": [
+    "mingcute",
+    "icons",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "icon-search"
+  ],
+  "author": "MingCute Design",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingcute-design/mingcute-icons-mcp.git"
+  }
+}
