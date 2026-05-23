@@ -30,13 +30,13 @@ export class UsageExamples {
 
     switch (input.framework) {
       case "react":
-        return `import { ${variant.componentName} } from '@mingcute/react';\n\n<${variant.componentName} size={24} color="currentColor" />`;
+        return `npm install @mingcute/react\n\nimport { ${variant.componentName} } from '@mingcute/react';\n\n<${variant.componentName} size={24} color="currentColor" />`;
       case "vue":
-        return `<script setup>\nimport { ${variant.componentName} } from '@mingcute/vue';\n</script>\n\n<template>\n  <${variant.componentName} :size="24" color="currentColor" />\n</template>`;
+        return `npm install @mingcute/vue\n\n<script setup>\nimport { ${variant.componentName} } from '@mingcute/vue';\n</script>\n\n<template>\n  <${variant.componentName} :size="24" color="currentColor" />\n</template>`;
       case "webfont":
-        return `<span class="${variant.webfontClass}"></span>`;
+        return `npm install mingcute_icon\n\nimport 'mingcute_icon/font/Mingcute.css';\n\n<span class="${variant.webfontClass}"></span>`;
       case "svg":
-        return `Use ${variant.svgPath} from the MingCute icon package or call get_icon with includeSvg=true.`;
+        return `npm install mingcute_icon\n\nimport iconUrl from 'mingcute_icon/${variant.svgPath}';\n\n<img src={iconUrl} alt="" width={24} height={24} />\n\nOr call get_icon with includeSvg=true to get the raw SVG source.`;
       default:
         throw new Error("Framework must be one of: react, vue, webfont, svg.");
     }

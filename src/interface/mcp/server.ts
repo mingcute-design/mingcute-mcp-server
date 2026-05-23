@@ -89,7 +89,8 @@ export async function startMcpServer(): Promise<void> {
     "get_icon_usage",
     {
       title: "Get MingCute icon usage",
-      description: "Generate usage examples for React, Vue, webfont, or SVG workflows.",
+      description:
+        "Generate usage examples for React, Vue, webfont, or SVG workflows using the published MingCute npm packages.",
       inputSchema: {
         name: z.string().min(1).describe("Base name like home_1 or variant name like home_1_line"),
         style: styleSchema.describe("Variant style. Defaults to line when all is used."),

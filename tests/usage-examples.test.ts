@@ -22,16 +22,30 @@ const icons: MingcuteIconSet[] = [
 ];
 
 describe("UsageExamples", () => {
-  it("generates React and Vue examples", () => {
+  it("generates usage examples with the published npm packages", () => {
     const repository = new IconSearchRepository(icons);
     repository.initialise();
     const usage = new UsageExamples(repository);
 
-    expect(usage.execute({ name: "home_1", style: "line", framework: "react" })).toContain(
+    const reactUsage = usage.execute({ name: "home_1", style: "line", framework: "react" });
+    expect(reactUsage).toContain("npm install @mingcute/react");
+    expect(reactUsage).toContain(
       "import { Home1Line } from '@mingcute/react';",
     );
-    expect(usage.execute({ name: "home_1", style: "line", framework: "vue" })).toContain(
+
+    const vueUsage = usage.execute({ name: "home_1", style: "line", framework: "vue" });
+    expect(vueUsage).toContain("npm install @mingcute/vue");
+    expect(vueUsage).toContain(
       "import { Home1Line } from '@mingcute/vue';",
     );
+
+    const webfontUsage = usage.execute({ name: "home_1", style: "line", framework: "webfont" });
+    expect(webfontUsage).toContain("npm install mingcute_icon");
+    expect(webfontUsage).toContain("import 'mingcute_icon/font/Mingcute.css';");
+    expect(webfontUsage).toContain('<span class="mgc_home_1_line"></span>');
+
+    const svgUsage = usage.execute({ name: "home_1", style: "line", framework: "svg" });
+    expect(svgUsage).toContain("npm install mingcute_icon");
+    expect(svgUsage).toContain("import iconUrl from 'mingcute_icon/svg/building/home_1_line.svg';");
   });
 });

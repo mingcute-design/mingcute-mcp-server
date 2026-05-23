@@ -1,11 +1,14 @@
 # MingCute Icon MCP
 
-MCP server for searching and using MingCute icons in AI coding assistants.
+MingCute Icon MCP is a [Model Context Protocol](https://modelcontextprotocol.io/) server for AI coding assistants to search and use MingCute icons in MCP-compatible tools such as Claude, Codex, Cursor, Windsurf, and Cline.
 
-MingCute icons are modeled as icon sets. Each set can contain two variants:
+## Features
 
-- `line`: outline icon, file name ending in `_line.svg`
-- `fill`: filled icon, file name ending in `_fill.svg`
+- Search MingCute icons by English or Chinese keyword, icon name, component name, category, and style.
+- Filter by `line`, `fill`, or all styles so AI assistants can pick the right variant for the UI context.
+- Generate React, Vue, webfont, and SVG usage examples with the matching published npm package.
+- Fetch icon details, categories, icons by category, and raw SVG source when needed.
+- Runs from a local icon index and does not depend on a remote API at runtime.
 
 ## Usage
 
@@ -70,6 +73,8 @@ Generate usage examples for React, Vue, webfont, or SVG.
 }
 ```
 
+React examples use `@mingcute/react`, Vue examples use `@mingcute/vue`, and SVG/webfont examples use `mingcute_icon`.
+
 ### `list_categories`
 
 List MingCute categories.
@@ -84,18 +89,4 @@ List icons in one category.
   "style": "fill",
   "limit": 20
 }
-```
-
-## Development
-
-The data builder reads:
-
-- `src/data/source/keywords.json`
-- `MINGCUTE_ICONS_ROOT/svg`, or by default `/Users/a115/Documents/MyGithub/MingCute/svg`
-
-```bash
-npm install
-npm run build:data
-npm run typecheck
-npm test
 ```
