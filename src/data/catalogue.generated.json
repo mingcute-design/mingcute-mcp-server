@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": "3.1.0",
+  "sourceCommit": "9dc7d3ad074fb16477096a6a8109a6467d0e2fe3",
+  "keywordsSha256": "5599d516b24270fdf26620192d343627537f65672688ad34b5082fc0526789ad",
+  "curatedKeywordsSha256": "ad05acefb69267824f0eb5764a25b25c47563b2c9ca8a2b517ded83043d2e0ee",
+  "manifestSha256": "5e1fda0f24d3c3fd90a2e4464dfc803042f8e427e1b0aad8b440fef6a139d81e",
+  "iconCount": 2263,
+  "variantCount": 4526,
+  "styles": [
+    "core-regular",
+    "core-filled"
+  ]
+}

@@ -1,0 +1,32 @@
+name: CI
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      matrix:
+        node: ['22.12.0', '24']
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: ${{ matrix.node }}
+          cache: npm
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          repository: mingcute-design/mingcute-icons
+          ref: 9dc7d3ad074fb16477096a6a8109a6467d0e2fe3
+          path: .free-reference
+      - run: npm ci
+      - run: npm run build:data -- --source .free-reference --check
+      - run: npm run check
+      - if: matrix.node == '24'
+        run: npm run verify:published
+      - run: npm audit --omit=dev --audit-level=high

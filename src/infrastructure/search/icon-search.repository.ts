@@ -1,10 +1,11 @@
-import FlexSearch, { type Document } from "flexsearch";
+import FlexSearch, { type Document } from 'flexsearch';
+import { normalizeName, parseVariantName } from '../../domain/name.js';
 import type {
   IconSearchMatch,
   MingcuteIconSet,
   MingcuteIconStyle,
   MingcuteStyleFilter,
-} from "../../domain/icon";
+} from '../../domain/icon.js';
 
 interface IndexDocument {
   id: string;
@@ -37,6 +38,7 @@ export class IconSearchRepository {
   private readonly iconMap = new Map<string, MingcuteIconSet>();
   private readonly tokenMap = new Map<string, Set<string>>();
   private document?: DocumentIndex;
+  private readonly lookup = new Map<string, MingcuteIconSet>();
 
   constructor(private readonly icons: readonly MingcuteIconSet[]) {}
 
@@ -46,19 +48,11 @@ export class IconSearchRepository {
     }
 
     const document = new FlexSearch.Document<IndexDocument, false>({
-      tokenize: "forward",
-      cache: true,
+      tokenize: 'forward',
+      cache: 100,
       document: {
-        id: "id",
-        index: [
-          "baseName",
-          "variantNames",
-          "componentNames",
-          "keywords",
-          "zhKeywords",
-          "category",
-          "styles",
-        ],
+        id: 'id',
+        index: ['baseName', 'variantNames', 'componentNames', 'keywords', 'zhKeywords', 'category', 'styles'],
       },
     });
 
@@ -71,15 +65,33 @@ export class IconSearchRepository {
       document.add({
         id: iconKey(icon),
         baseName: icon.baseName,
-        variantNames: variantNames.join(" "),
-        componentNames: componentNames.join(" "),
-        keywords: icon.keywords.join(" "),
-        zhKeywords: icon.zhKeywords.join(" "),
+        variantNames: variantNames.join(' '),
+        componentNames: componentNames.join(' '),
+        keywords: icon.keywords.join(' '),
+        zhKeywords: icon.zhKeywords.join(' '),
         category: icon.category,
-        styles: styles.join(" "),
+        styles: styles.join(' '),
       });
 
       this.iconMap.set(iconKey(icon), icon);
+      for (const name of [
+        icon.baseName,
+        ...variants.flatMap((v) => [
+          v.name,
+          v.componentName,
+          v.svgPath,
+          v.svgPath.split('/').at(-1)!,
+          v.svgPath
+            .split('/')
+            .at(-1)!
+            .replace(/\.svg$/, ''),
+        ]),
+      ]) {
+        const key = normalizeName(name);
+        const previous = this.lookup.get(key);
+        if (previous && previous !== icon) throw new Error(`Ambiguous icon identity: ${name}`);
+        this.lookup.set(key, icon);
+      }
       this.tokenMap.set(iconKey(icon), buildTokens(icon));
     }
 
@@ -91,23 +103,27 @@ export class IconSearchRepository {
     style: MingcuteStyleFilter;
     category?: string;
     limit: number;
+    locale?: 'auto' | 'en' | 'zh';
   }): IconSearchMatch[] {
     if (!this.document) {
-      throw new Error("IconSearchRepository must be initialised before searching.");
+      throw new Error('IconSearchRepository must be initialised before searching.');
     }
 
-    const queryTokens = tokenize(params.query);
+    const queryTokens = [...new Set(tokenize(params.query))];
+    const exact = this.getByName(params.query);
     const scores = new Map<string, { score: number; matched: Set<string> }>();
 
     for (const token of queryTokens) {
       const results =
         this.document.search(token, {
           enrich: true,
-          limit: Math.max(params.limit * 8, 50),
+          limit: params.category ? this.icons.length : Math.max(params.limit * 8, 50),
           suggest: true,
         }) ?? [];
 
       for (const fieldResult of results) {
+        if (params.locale === 'en' && fieldResult.field === 'zhKeywords') continue;
+        if (params.locale === 'zh' && fieldResult.field === 'keywords') continue;
         for (const entry of fieldResult.result) {
           const id = resolveIconId(entry);
           const icon = id ? this.iconMap.get(id) : undefined;
@@ -123,6 +139,9 @@ export class IconSearchRepository {
       }
     }
 
+    if (exact && matchesFilters(exact, params.style, params.category)) {
+      scores.set(iconKey(exact), { score: 10000, matched: new Set([params.query]) });
+    }
     return Array.from(scores.entries())
       .map(([id, value]) => {
         const icon = this.iconMap.get(id);
@@ -145,23 +164,30 @@ export class IconSearchRepository {
   }
 
   getByName(name: string): MingcuteIconSet | undefined {
-    const normalized = name.trim().toLowerCase();
-    return this.icons.find((icon) => {
-      if (icon.baseName.toLowerCase() === normalized) {
-        return true;
-      }
-      return Object.values(icon.variants).some(
-        (variant) => variant.name.toLowerCase() === normalized,
-      );
-    });
+    const direct = this.lookup.get(normalizeName(name));
+    if (direct) return direct;
+    const parsed = parseVariantName(name);
+    return parsed ? this.lookup.get(normalizeName(parsed.baseName)) : undefined;
   }
 
-  listByCategory(category: string, style: MingcuteStyleFilter, limit: number): MingcuteIconSet[] {
+  resolveStyle(name: string): MingcuteIconStyle | undefined {
+    const icon = this.getByName(name);
+    if (!icon) return undefined;
+    const normalized = normalizeName(name);
+    if ([icon.baseName, icon.baseName + '.svg'].some((n) => normalizeName(n) === normalized))
+      return undefined;
+    const variant = Object.values(icon.variants).find((v) =>
+      [v.name, v.componentName, v.svgPath].some((n) => normalizeName(n) === normalized),
+    );
+    return variant?.style ?? parseVariantName(name)?.style;
+  }
+
+  listByCategory(category: string, style: MingcuteStyleFilter, limit: number, offset = 0): MingcuteIconSet[] {
     const normalized = category.trim().toLowerCase();
     return this.icons
       .filter((icon) => icon.category.toLowerCase() === normalized)
       .filter((icon) => matchesStyle(icon, style))
-      .slice(0, limit);
+      .slice(offset, offset + limit);
   }
 }
 
@@ -169,11 +195,7 @@ function iconKey(icon: MingcuteIconSet): string {
   return `${icon.category}/${icon.baseName}`;
 }
 
-function matchesFilters(
-  icon: MingcuteIconSet,
-  style: MingcuteStyleFilter,
-  category?: string,
-): boolean {
+function matchesFilters(icon: MingcuteIconSet, style: MingcuteStyleFilter, category?: string): boolean {
   if (category && icon.category.toLowerCase() !== category.trim().toLowerCase()) {
     return false;
   }
@@ -181,7 +203,7 @@ function matchesFilters(
 }
 
 function matchesStyle(icon: MingcuteIconSet, style: MingcuteStyleFilter): boolean {
-  return style === "all" || Boolean(icon.variants[style as MingcuteIconStyle]);
+  return style === 'all' || Boolean(icon.variants[style as MingcuteIconStyle]);
 }
 
 function applyTokenBonus(
@@ -233,17 +255,17 @@ function tokenize(value: string): string[] {
 }
 
 function resolveIconId(entry: unknown): string | undefined {
-  if (typeof entry === "string") {
+  if (typeof entry === 'string') {
     return entry;
   }
-  if (!entry || typeof entry !== "object") {
+  if (!entry || typeof entry !== 'object') {
     return undefined;
   }
   const candidate = entry as { id?: unknown; doc?: { id?: unknown } };
-  if (typeof candidate.id === "string") {
+  if (typeof candidate.id === 'string') {
     return candidate.id;
   }
-  if (typeof candidate.doc?.id === "string") {
+  if (typeof candidate.doc?.id === 'string') {
     return candidate.doc.id;
   }
   return undefined;

@@ -1,31 +1,17 @@
-import type { MingcuteIconStyle } from "./icon";
+import type { MingcuteIconStyle } from './icon.js';
 
-export function parseVariantName(
-  iconName: string,
-): { baseName: string; style: MingcuteIconStyle } | undefined {
-  if (iconName.endsWith("_line")) {
-    return { baseName: iconName.slice(0, -"_line".length), style: "line" };
-  }
-
-  if (iconName.endsWith("_fill")) {
-    return { baseName: iconName.slice(0, -"_fill".length), style: "fill" };
-  }
-
-  return undefined;
+export function normalizeName(value: string): string {
+  return value
+    .trim()
+    .replace(/[^a-z0-9]/gi, '')
+    .toLowerCase();
 }
 
-export function toPascalCase(name: string): string {
-  return name
-    .split("_")
-    .filter(Boolean)
-    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
-    .join("");
-}
-
-export function toComponentName(baseName: string, style: MingcuteIconStyle): string {
-  return `${toPascalCase(baseName)}${style === "line" ? "Line" : "Fill"}`;
-}
-
-export function toWebfontClass(iconName: string): string {
-  return `mgc_${iconName}`;
+export function parseVariantName(name: string): { baseName: string; style: MingcuteIconStyle } | undefined {
+  const match = /^(.*?)(?:[_-](?:core[_-])?)(regular|filled|line|fill)$/i.exec(name);
+  if (!match?.[1]) return undefined;
+  return {
+    baseName: match[1],
+    style: ['line', 'regular'].includes(match[2].toLowerCase()) ? 'core-regular' : 'core-filled',
+  };
 }

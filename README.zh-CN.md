@@ -1,36 +1,16 @@
-# MingCute Icon MCP
+# MingCute MCP
 
-MingCute Icon MCP 是一个面向 AI 编程助手的 [Model Context Protocol](https://modelcontextprotocol.io/) 服务器，用于在 Claude、Codex、Cursor、Windsurf、Cline 等支持 MCP 的工具中搜索和使用 MingCute 图标。
+通过兼容 MCP 的 AI 编程工具搜索和使用 MingCute 免费图标。本地 stdio 服务内置 Free 3.1.0 的完整目录：**2,263 个图标、4,526 个 SVG 变体**，并支持中英文关键词。运行时无需图标源代码目录、账号或网络连接。
 
-## 特性
+## 安装
 
-- 支持按中英文关键词、图标名称、组件名、分类和样式搜索 MingCute 图标。
-- 支持 `line`、`fill` 或全部样式过滤，便于 AI 根据界面语境选择合适变体。
-- 支持生成 React、Vue、Webfont 和 SVG 使用示例，并指向对应的官方 npm 图标包。
-- 支持获取图标详情、分类列表、分类下图标列表，以及按需返回 SVG 源码。
-- 基于本地图标索引运行，搜索过程不依赖远程 API。
-
-## 安装与使用
-
-发布到 npm 后可以直接运行：
+需要 **Node.js 22.12 或更高版本**。首次下载安装包需要网络。
 
 ```bash
 npx -y @mingcute/mcp-server
 ```
 
-## MCP 客户端配置
-
-### Codex
-
-发布到 npm 后：
-
-```bash
-codex mcp add mingcute -- npx -y @mingcute/mcp-server
-```
-
-### Claude Desktop
-
-在 Claude Desktop 配置文件中加入：
+在客户端的 MCP 配置中添加：
 
 ```json
 {
@@ -43,96 +23,79 @@ codex mcp add mingcute -- npx -y @mingcute/mcp-server
 }
 ```
 
-配置完成后重启 Claude Desktop。
+需要可重复部署时，请固定 npm 包版本。具体配置文件位置请参考客户端设置。
 
-## 可用工具
+## 工具
 
-### `search_icons`
+| 工具 | 用途 |
+| --- | --- |
+| `search_icons` | 按中英文关键词、文件名或组件名搜索，返回简洁结果 |
+| `get_icon` | 获取元数据；设置 `includeSvg: true` 返回内置 SVG |
+| `get_icon_usage` | 生成安装命令和框架用法 |
+| `list_categories` | 查看分类、数量和源版本 |
+| `list_icons_by_category` | 使用 `limit` 和 `offset` 分页浏览分类 |
 
-按中英文关键词、图标名、组件名、分类和样式搜索 MingCute 图标。
-
-参数：
-
-```ts
-{
-  query: string;
-  style?: "line" | "fill" | "all";
-  category?: string;
-  limit?: number;
-  locale?: "auto" | "en" | "zh";
-}
-```
-
-示例：
+所有工具均为只读，返回结构化 JSON 和文本。资源 `mingcute://catalogue` 提供源版本、提交和分类数量。
 
 ```json
-{
-  "query": "主页",
-  "style": "line",
-  "limit": 5
-}
+{"query":"主页","style":"core-regular","limit":5,"locale":"zh"}
 ```
 
-### `get_icon`
-
-按 base name 或完整变体名获取图标详情，可选返回 SVG 源码。
-
-示例：
+标准样式为 `core-regular`、`core-filled` 和 `all`。仍兼容 `regular`/`line` 与 `filled`/`fill` 别名。支持 `home-1`、`home_1`、`Home1Regular` 和 `home-1-core-filled` 等名称。
 
 ```json
-{
-  "name": "home_1",
-  "style": "all",
-  "includeSvg": false
-}
+{"name":"Home1Filled","includeSvg":true}
 ```
 
-### `get_icon_usage`
+变体名或组件名会选择对应样式；显式指定冲突样式会返回错误。基础名称加 `all` 返回两种样式。`locale: auto` 搜索两种语言关键词；`en` 和 `zh` 分别选择英文和中文关键词字段，名称和分类始终可搜索。
 
-生成 React、Vue、Webfont 或 SVG 使用示例。
-
-示例：
+支持的框架/格式：`react`、`vue`、`react-native`、`svelte`、`solid`、`vanilla`、`web-components`、`webfont`、`svg`、`data`。
 
 ```json
-{
-  "name": "home_1",
-  "style": "fill",
-  "framework": "react"
-}
+{"name":"home-1","style":"core-regular","framework":"react"}
 ```
 
-返回示例：
-
-```bash
-npm install @mingcute/react
-```
+当前导入示例：
 
 ```tsx
-import { Home1Fill } from '@mingcute/react';
+import { Home1Regular } from '@mingcute/react/core-regular';
 
-<Home1Fill size={24} color="currentColor" />
+<Home1Regular size={24} title="主页" />
 ```
 
-Webfont 与 SVG 示例会使用 `mingcute_icon` 包，React 示例使用 `@mingcute/react`，Vue 示例使用 `@mingcute/vue`。
+SVG URL 示例使用 Vite 的 `?url` 约定，其他构建工具需要配置资源导入，或通过 `get_icon` 获取内联 SVG。字体示例使用 `@mingcute/font`。
 
-### `list_categories`
+分类分页返回 `total`、`count` 和 `nextOffset`；继续请求直到 `nextOffset` 为 `null`。
 
-列出所有 MingCute 图标分类及数量。
+## 更新目录与开发
 
-### `list_icons_by_category`
-
-按分类列出图标，可按 `line` / `fill` 过滤。
-
-示例：
-
-```json
-{
-  "category": "building",
-  "style": "fill",
-  "limit": 20
-}
+```bash
+npm ci
+npm run build:data -- --source ../mingcute-icons
+npm run build:data -- --source ../mingcute-icons --check
+npm run check
+npm audit --omit=dev --audit-level=high
+npm run verify:published
 ```
 
-## License
+生成器验证源清单中每个 SVG 的 SHA-256，使用包元数据中的准确组件名和文件名，并记录 Free 版本、Git 提交和数量。生成器以静态解析方式读取免费版关键词文件，不执行其中的 JavaScript，并合并已审核的译词。`verify:published` 会检查全部十个公开 npm 包中实际存在的导出、SVG 路径和字体类。更新目录时，同步更新两个工作流中固定的 Free 提交。保留已审核的中英文关键词；没有译词的图标仍可按名称和分类搜索。
 
-Apache-2.0
+检查涵盖类型、单元测试、编译，以及临时目录中的 npm 压缩包安装和真实 stdio 调用。安装测试需要网络以解析依赖。发布包仅包含编译后的 JavaScript 和生成数据，不包含 TypeScript 源码、测试、构建脚本、关键词源文件或 source maps。`tsx` 仅用于开发。CI 验证 Node.js 22.12 和 24、目录一致性和生产依赖安全公告。
+
+## Pro 图标
+
+公共服务器仅包含免费图标。Pro 用户可以通过以下命令配置授权并安装商业包：
+
+```bash
+npx @mingcute/cli@latest
+```
+
+此 MCP 包不包含 Pro SVG 或许可证凭据，当前工具也不读取 Pro 授权。
+
+## 从 0.1.x 升级
+
+0.2.0 要求 Node.js 22.12+，使用当前标准名称和导入路径。工具名不变，搜索和分类结果更精简，用法响应新增结构化 `framework` 和 `example` 字段。旧样式别名继续有效。运行时不再使用 `MINGCUTE_ICONS_ROOT`；SVG 已内置。
+
+## 许可
+
+Apache-2.0。免费图标来自 [MingCute Icons](https://github.com/mingcute-design/mingcute-icons)。Pro 图标使用独立商业许可，不在此分发。

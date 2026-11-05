@@ -1,188 +1,182 @@
-import { McpServer } from "@modelcontextprotocol/sdk/server/mcp";
-import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio";
-import { z } from "zod";
-import { GetIconUseCase } from "../../application/get-icon.usecase";
-import { SearchIconsUseCase } from "../../application/search-icons.usecase";
-import { UsageExamples } from "../../application/usage-examples";
-import type { MingcuteStyleFilter, UsageFramework } from "../../domain/icon";
-import { loadCategories, loadIconSets } from "../../infrastructure/data/icon-loader";
-import { IconSearchRepository } from "../../infrastructure/search/icon-search.repository";
+import { readFileSync } from 'node:fs';
+import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
+import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
+import { z } from 'zod';
+import { GetIconUseCase } from '../../application/get-icon.usecase.js';
+import { SearchIconsUseCase, normaliseStyle } from '../../application/search-icons.usecase.js';
+import { UsageExamples } from '../../application/usage-examples.js';
+import { frameworks } from '../../domain/icon.js';
+import { loadCategories, loadIconSets, loadCatalogue } from '../../infrastructure/data/icon-loader.js';
+import { IconSearchRepository } from '../../infrastructure/search/icon-search.repository.js';
 
-const styleSchema = z.enum(["line", "fill", "all"]).default("all");
-const frameworkSchema = z.enum(["react", "vue", "webfont", "svg"]);
-
-export async function startMcpServer(): Promise<void> {
-  const server = new McpServer({
-    name: "mingcute-icon-mcp",
-    version: "0.1.0",
-  });
-
-  const icons = loadIconSets();
-  const categories = loadCategories();
-  const repository = new IconSearchRepository(icons);
+const styles = z
+  .enum(['core-regular', 'core-filled', 'regular', 'filled', 'line', 'fill', 'all'])
+  .default('all');
+const name = z.string().trim().min(1).max(160);
+const category = z.string().trim().min(1).max(80);
+const annotations = {
+  readOnlyHint: true,
+  destructiveHint: false,
+  idempotentHint: true,
+  openWorldHint: false,
+};
+function response(data: Record<string, unknown>) {
+  return { structuredContent: data, content: [{ type: 'text' as const, text: JSON.stringify(data) }] };
+}
+function protect<T>(
+  handler: (input: T) => Promise<ReturnType<typeof response>> | ReturnType<typeof response>,
+) {
+  return async (input: T) => {
+    try {
+      return await handler(input);
+    } catch (error) {
+      return {
+        isError: true,
+        content: [
+          {
+            type: 'text' as const,
+            text: error instanceof Error ? error.message : 'Unable to complete the icon request.',
+          },
+        ],
+      };
+    }
+  };
+}
+export function createMcpServer() {
+  const { version } = JSON.parse(readFileSync(new URL('../../../package.json', import.meta.url), 'utf8'));
+  const server = new McpServer(
+    { name: 'mingcute-mcp', version },
+    {
+      instructions:
+        'Search the bundled MingCute Free catalogue first. Use returned canonical names and style-specific imports. Fetch details or usage only for chosen icons. All tools are read-only. Pro icons are not included; customers can install licensed Pro packages through @mingcute/cli.',
+    },
+  );
+  const repository = new IconSearchRepository(loadIconSets());
   repository.initialise();
-
-  const searchIcons = new SearchIconsUseCase(repository);
-  const getIcon = new GetIconUseCase(repository);
-  const usageExamples = new UsageExamples(repository);
-
+  const search = new SearchIconsUseCase(repository);
+  const get = new GetIconUseCase(repository);
+  const usage = new UsageExamples(repository);
+  const categories = loadCategories();
   server.registerTool(
-    "search_icons",
+    'search_icons',
     {
-      title: "Search MingCute icons",
+      title: 'Search MingCute Free icons',
       description:
-        "Search MingCute icons by English or Chinese keywords, icon name, component name, category, and style. MingCute icons have line and fill variants.",
+        'Find current icons by English or Chinese keyword, canonical filename, or component name. Returns compact results; use get_icon for full metadata.',
+      annotations,
       inputSchema: {
-        query: z.string().min(1).describe("Search query, such as home, 主页, arrow, settings"),
-        style: styleSchema.describe("Variant style: line, fill, or all"),
-        category: z.string().optional().describe("Optional MingCute category filter"),
-        limit: z.number().min(1).max(50).default(5).describe("Maximum results to return"),
-        locale: z.enum(["auto", "en", "zh"]).default("auto").describe("Query language hint"),
+        query: z.string().trim().min(1).max(200),
+        style: styles,
+        category: category.optional(),
+        limit: z.number().int().min(1).max(50).default(5),
+        locale: z.enum(['auto', 'en', 'zh']).default('auto'),
       },
     },
-    async (input) => {
-      try {
-        const result = searchIcons.execute({
-          query: input.query,
-          style: input.style as MingcuteStyleFilter,
-          category: input.category,
-          limit: input.limit,
-          locale: input.locale,
-        });
-
-        return createJsonResponse({
-          guidance: result.guidance,
-          matches: result.matches,
-        });
-      } catch (error) {
-        return createErrorResponse(error);
-      }
-    },
+    protect(async (input) => {
+      const result = search.execute(input);
+      return response({
+        catalogue: loadCatalogue(),
+        guidance: result.guidance,
+        matches: result.matches.map(({ icon, score }) => ({
+          name: icon.baseName,
+          category: icon.category,
+          score,
+          variants: Object.values(icon.variants).map((v) => ({
+            name: v.name,
+            style: v.style,
+            componentName: v.componentName,
+          })),
+        })),
+      });
+    }),
   );
-
   server.registerTool(
-    "get_icon",
+    'get_icon',
     {
-      title: "Get MingCute icon details",
-      description: "Get one MingCute icon set by base name or variant name, optionally including SVG.",
-      inputSchema: {
-        name: z.string().min(1).describe("Base name like home_1 or variant name like home_1_line"),
-        style: styleSchema.describe("Variant style: line, fill, or all"),
-        includeSvg: z.boolean().default(false).describe("Include SVG source in the response"),
-      },
-    },
-    async (input) => {
-      try {
-        const result = await getIcon.execute({
-          name: input.name,
-          style: input.style as MingcuteStyleFilter,
-          includeSvg: input.includeSvg,
-        });
-        return createJsonResponse(result);
-      } catch (error) {
-        return createErrorResponse(error);
-      }
-    },
-  );
-
-  server.registerTool(
-    "get_icon_usage",
-    {
-      title: "Get MingCute icon usage",
+      title: 'Get MingCute icon',
       description:
-        "Generate usage examples for React, Vue, webfont, or SVG workflows using the published MingCute npm packages.",
-      inputSchema: {
-        name: z.string().min(1).describe("Base name like home_1 or variant name like home_1_line"),
-        style: styleSchema.describe("Variant style. Defaults to line when all is used."),
-        framework: frameworkSchema.describe("Target usage format"),
-      },
+        'Get current metadata and optionally bundled SVG. A variant or component name implies its style; conflicting styles are rejected.',
+      annotations,
+      inputSchema: { name, style: styles, includeSvg: z.boolean().default(false) },
     },
-    async (input) => {
-      try {
-        const text = usageExamples.execute({
-          name: input.name,
-          style: input.style as MingcuteStyleFilter,
-          framework: input.framework as UsageFramework,
-        });
-        return {
-          content: [{ type: "text" as const, text }],
-        };
-      } catch (error) {
-        return createErrorResponse(error);
-      }
-    },
+    protect(async (input) => response({ ...(await get.execute(input)) })),
   );
-
   server.registerTool(
-    "list_categories",
+    'get_icon_usage',
     {
-      title: "List MingCute categories",
-      description: "List all MingCute icon categories with icon and variant counts.",
+      title: 'Get MingCute usage',
+      description:
+        'Generate current Free package installation and usage examples for the requested framework. SVG URL examples identify their bundler requirement.',
+      annotations,
+      inputSchema: { name, style: styles, framework: z.enum(frameworks) },
+    },
+    protect((input) => response({ framework: input.framework, example: usage.execute(input) })),
+  );
+  server.registerTool(
+    'list_categories',
+    {
+      title: 'List MingCute categories',
+      description: 'List available Free categories, counts, and source catalogue version.',
+      annotations,
       inputSchema: {},
     },
-    async () => createJsonResponse({ categories }),
+    async () => response({ catalogue: loadCatalogue(), categories }),
   );
-
   server.registerTool(
-    "list_icons_by_category",
+    'list_icons_by_category',
     {
-      title: "List MingCute icons by category",
-      description: "List MingCute icon sets in a category, optionally filtered by line or fill style.",
+      title: 'List icons by category',
+      description: 'Browse a category with offset pagination. Use nextOffset until it is null.',
+      annotations,
       inputSchema: {
-        category: z.string().min(1).describe("MingCute category name"),
-        style: styleSchema.describe("Variant style: line, fill, or all"),
-        limit: z.number().min(1).max(200).default(20).describe("Maximum results to return"),
+        category,
+        style: styles,
+        limit: z.number().int().min(1).max(100).default(20),
+        offset: z.number().int().min(0).max(10000).default(0),
       },
     },
-    async (input) => {
-      try {
-        const result = repository
-          .listByCategory(input.category, input.style as MingcuteStyleFilter, input.limit)
-          .map((icon) => ({
-            ...icon,
-            variants: filterVariantsForResponse(icon.variants, input.style as MingcuteStyleFilter),
-          }));
-        return createJsonResponse({ icons: result, count: result.length });
-      } catch (error) {
-        return createErrorResponse(error);
-      }
-    },
+    protect((input) => {
+      if (!categories.some((c) => c.name === input.category.toLowerCase()))
+        throw new Error('Unknown category. Use list_categories.');
+      const all = repository.listByCategory(
+        input.category,
+        normaliseStyle(input.style),
+        Number.MAX_SAFE_INTEGER,
+      );
+      const icons = all.slice(input.offset, input.offset + input.limit).map((icon) => ({
+        name: icon.baseName,
+        variants: Object.values(icon.variants)
+          .filter((v) => normaliseStyle(input.style) === 'all' || v.style === normaliseStyle(input.style))
+          .map((v) => ({ name: v.name, style: v.style, componentName: v.componentName })),
+      }));
+      return response({
+        icons,
+        total: all.length,
+        count: icons.length,
+        offset: input.offset,
+        nextOffset: input.offset + icons.length < all.length ? input.offset + icons.length : null,
+      });
+    }),
   );
-
-  const transport = new StdioServerTransport();
-  await server.connect(transport);
+  server.registerResource(
+    'catalogue',
+    'mingcute://catalogue',
+    {
+      mimeType: 'application/json',
+      description: 'Bundled Free icon catalogue provenance and category counts',
+    },
+    async (uri) => ({
+      contents: [
+        {
+          uri: uri.href,
+          mimeType: 'application/json',
+          text: JSON.stringify({ catalogue: loadCatalogue(), categories }),
+        },
+      ],
+    }),
+  );
+  return server;
 }
-
-function createJsonResponse(data: unknown) {
-  return {
-    content: [
-      {
-        type: "text" as const,
-        text: JSON.stringify(data, null, 2),
-      },
-    ],
-  };
-}
-
-function filterVariantsForResponse<T>(
-  variants: Partial<Record<"line" | "fill", T>>,
-  style: MingcuteStyleFilter,
-): Partial<Record<"line" | "fill", T>> {
-  if (style === "all") {
-    return variants;
-  }
-  const variant = variants[style];
-  return variant ? { [style]: variant } : {};
-}
-
-function createErrorResponse(error: unknown) {
-  return {
-    isError: true,
-    content: [
-      {
-        type: "text" as const,
-        text: error instanceof Error ? error.message : "Unknown error",
-      },
-    ],
-  };
+export async function startMcpServer(): Promise<void> {
+  await createMcpServer().connect(new StdioServerTransport());
 }

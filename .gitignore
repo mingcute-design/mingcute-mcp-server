@@ -33,3 +33,5 @@ Thumbs.db
 # Package manager caches
 .npm/
 .pnpm-store/
+
+.free-reference/

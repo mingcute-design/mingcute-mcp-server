@@ -1,20 +1,9 @@
 #!/usr/bin/env node
-const { register } = require("tsx/cjs/api");
-
-const unregister = register();
-
-(async () => {
-  try {
-    const mod = require("../src/cli/run.ts");
-    const runCli = mod.runCli ?? mod.default;
-    if (typeof runCli !== "function") {
-      throw new Error("runCli export missing");
-    }
-    await runCli();
-  } catch (error) {
-    console.error("Failed to start MingCute MCP server", error);
-    process.exit(1);
-  } finally {
-    unregister();
-  }
-})();
+import('../dist/cli/run.js')
+  .then(({ runCli }) => runCli())
+  .catch(() => {
+    console.error(
+      'MingCute MCP could not start. Use Node.js 22.12 or newer and reinstall @mingcute/mcp-server.',
+    );
+    process.exitCode = 1;
+  });

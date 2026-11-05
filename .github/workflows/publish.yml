@@ -1,29 +1,32 @@
 name: Publish Package
-
 on:
   push:
-    tags:
-      - "v*"
-
+    tags: ['v*']
 permissions:
   contents: read
-  id-token: write
-
 jobs:
   publish:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      id-token: write
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
-          node-version: "24"
-          registry-url: "https://registry.npmjs.org"
-          package-manager-cache: false
-
+          node-version: '24'
+          registry-url: https://registry.npmjs.org
+          cache: npm
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          repository: mingcute-design/mingcute-icons
+          ref: 9dc7d3ad074fb16477096a6a8109a6467d0e2fe3
+          path: .free-reference
+      - run: node -e 'if (process.env.GITHUB_REF_NAME !== "v" + require("./package.json").version) process.exit(1)'
       - run: npm ci
-      - run: npm run typecheck
-      - run: npm test
-      - run: npm pack --dry-run
-      - run: npm publish
+      - run: npm run build:data -- --source .free-reference --check
+      - run: npm run check
+      - run: npm run verify:published
+      - run: npm audit --omit=dev --audit-level=high
+      - run: npm publish --access public --provenance --registry=https://registry.npmjs.org/ --@mingcute:registry=https://registry.npmjs.org/
