@@ -1,6 +1,18 @@
-export type MingcuteIconStyle = "line" | "fill";
-export type MingcuteStyleFilter = MingcuteIconStyle | "all";
-export type UsageFramework = "react" | "vue" | "webfont" | "svg";
+export type MingcuteIconStyle = 'core-regular' | 'core-filled';
+export type MingcuteStyleFilter = MingcuteIconStyle | 'regular' | 'filled' | 'line' | 'fill' | 'all';
+export const frameworks = [
+  'react',
+  'vue',
+  'react-native',
+  'svelte',
+  'solid',
+  'vanilla',
+  'web-components',
+  'webfont',
+  'svg',
+  'data',
+] as const;
+export type UsageFramework = (typeof frameworks)[number];
 
 export interface MingcuteIconVariant {
   readonly name: string;
@@ -9,7 +21,6 @@ export interface MingcuteIconVariant {
   readonly webfontClass: string;
   readonly svgPath: string;
 }
-
 export interface MingcuteIconSet {
   readonly baseName: string;
   readonly category: string;
@@ -17,23 +28,20 @@ export interface MingcuteIconSet {
   readonly zhKeywords: readonly string[];
   readonly variants: Partial<Record<MingcuteIconStyle, MingcuteIconVariant>>;
 }
-
 export interface MingcuteCategory {
   readonly name: string;
   readonly iconCount: number;
   readonly variantCount: number;
 }
-
 export interface IconSearchMatch {
   readonly icon: MingcuteIconSet;
   readonly score: number;
   readonly matchedTokens: readonly string[];
 }
-
 export interface SearchIconsInput {
   readonly query: string;
   readonly style?: MingcuteStyleFilter;
   readonly category?: string;
   readonly limit?: number;
-  readonly locale?: "auto" | "en" | "zh";
+  readonly locale?: 'auto' | 'en' | 'zh';
 }

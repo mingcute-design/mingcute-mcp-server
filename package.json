@@ -1,6 +1,6 @@
 {
   "name": "@mingcute/mcp-server",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "MCP server for searching and using MingCute icons in AI coding assistants.",
   "type": "module",
   "bin": {
@@ -8,29 +8,35 @@
   },
   "files": [
     "bin",
-    "src",
+    "dist",
     "README.md",
     "README.zh-CN.md",
     "LICENSE"
   ],
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=22.12.0"
   },
   "scripts": {
-    "build:data": "tsx src/scripts/build-data.ts",
+    "build:data": "node --import tsx src/scripts/build-data.ts",
+    "build": "node scripts/clean.mjs && tsc -p tsconfig.build.json",
     "typecheck": "tsc --noEmit",
-    "test": "vitest"
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "check": "npm run typecheck && npm test && npm run build && node scripts/pack-check.mjs",
+    "prepack": "npm run build",
+    "verify:published": "npm run build && node scripts/verify-published.mjs"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.25.3",
+    "@modelcontextprotocol/sdk": "^1.32.2",
     "flexsearch": "^0.8.212",
-    "tsx": "^4.21.0",
-    "zod": "^4.3.6"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
-    "@types/node": "^20.19.0",
-    "typescript": "^5.9.3",
-    "vitest": "^4.0.18"
+    "@types/node": "^22.20.5",
+    "acorn": "^8.19.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0"
   },
   "keywords": [
     "mingcute",
@@ -44,6 +50,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mingcute-design/mingcute-icons-mcp.git"
+    "url": "git+https://github.com/mingcute-design/mingcute-mcp-server.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 }

@@ -1,128 +1,128 @@
 [
   {
     "name": "arrow",
+    "iconCount": 100,
+    "variantCount": 200
+  },
+  {
+    "name": "body",
     "iconCount": 66,
     "variantCount": 132
   },
   {
-    "name": "building",
-    "iconCount": 59,
-    "variantCount": 118
+    "name": "brands",
+    "iconCount": 102,
+    "variantCount": 204
+  },
+  {
+    "name": "buildings",
+    "iconCount": 68,
+    "variantCount": 136
   },
   {
     "name": "business",
-    "iconCount": 130,
-    "variantCount": 260
+    "iconCount": 189,
+    "variantCount": 378
   },
   {
-    "name": "contact",
-    "iconCount": 34,
-    "variantCount": 68
+    "name": "communication",
+    "iconCount": 73,
+    "variantCount": 146
   },
   {
-    "name": "crypto",
+    "name": "cryptocurrency",
     "iconCount": 16,
     "variantCount": 32
   },
   {
     "name": "design",
-    "iconCount": 121,
-    "variantCount": 242
+    "iconCount": 178,
+    "variantCount": 356
   },
   {
     "name": "development",
-    "iconCount": 32,
-    "variantCount": 64
-  },
-  {
-    "name": "device",
-    "iconCount": 118,
-    "variantCount": 236
-  },
-  {
-    "name": "editor",
-    "iconCount": 90,
-    "variantCount": 180
-  },
-  {
-    "name": "education",
-    "iconCount": 37,
-    "variantCount": 74
-  },
-  {
-    "name": "emoji",
-    "iconCount": 24,
-    "variantCount": 48
-  },
-  {
-    "name": "file",
-    "iconCount": 115,
-    "variantCount": 230
-  },
-  {
-    "name": "food",
-    "iconCount": 45,
-    "variantCount": 90
-  },
-  {
-    "name": "logo",
-    "iconCount": 98,
-    "variantCount": 196
-  },
-  {
-    "name": "map",
-    "iconCount": 39,
-    "variantCount": 78
-  },
-  {
-    "name": "media",
-    "iconCount": 89,
-    "variantCount": 178
-  },
-  {
-    "name": "nature",
-    "iconCount": 41,
-    "variantCount": 82
-  },
-  {
-    "name": "other",
-    "iconCount": 47,
-    "variantCount": 94
-  },
-  {
-    "name": "part",
-    "iconCount": 59,
-    "variantCount": 118
-  },
-  {
-    "name": "shape",
-    "iconCount": 24,
-    "variantCount": 48
-  },
-  {
-    "name": "sport",
     "iconCount": 49,
     "variantCount": 98
   },
   {
-    "name": "system",
-    "iconCount": 156,
-    "variantCount": 312
+    "name": "devices",
+    "iconCount": 155,
+    "variantCount": 310
   },
   {
-    "name": "transport",
-    "iconCount": 64,
-    "variantCount": 128
+    "name": "editing",
+    "iconCount": 124,
+    "variantCount": 248
   },
   {
-    "name": "user",
+    "name": "education",
+    "iconCount": 80,
+    "variantCount": 160
+  },
+  {
+    "name": "emoji",
+    "iconCount": 25,
+    "variantCount": 50
+  },
+  {
+    "name": "files",
+    "iconCount": 193,
+    "variantCount": 386
+  },
+  {
+    "name": "food",
+    "iconCount": 62,
+    "variantCount": 124
+  },
+  {
+    "name": "locations",
+    "iconCount": 62,
+    "variantCount": 124
+  },
+  {
+    "name": "media",
+    "iconCount": 99,
+    "variantCount": 198
+  },
+  {
+    "name": "miscellaneous",
+    "iconCount": 69,
+    "variantCount": 138
+  },
+  {
+    "name": "nature",
+    "iconCount": 58,
+    "variantCount": 116
+  },
+  {
+    "name": "shapes",
     "iconCount": 37,
     "variantCount": 74
   },
   {
+    "name": "sports",
+    "iconCount": 53,
+    "variantCount": 106
+  },
+  {
+    "name": "system",
+    "iconCount": 213,
+    "variantCount": 426
+  },
+  {
+    "name": "transportation",
+    "iconCount": 68,
+    "variantCount": 136
+  },
+  {
+    "name": "users",
+    "iconCount": 42,
+    "variantCount": 84
+  },
+  {
     "name": "weather",
-    "iconCount": 60,
-    "variantCount": 120
+    "iconCount": 70,
+    "variantCount": 140
   },
   {
     "name": "zodiac",
